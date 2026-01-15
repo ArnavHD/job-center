@@ -2,13 +2,13 @@ import React from 'react';
 
 const Navbar = () => {
     return (
-      <div className="navbar bg-transparent flex justify-between">
+      <div className="navbar bg-black border-none flex justify-between">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
-                className="h-5 w-5"
+                className="h-5 w-5 text-white"
                 fill="none"
                 viewBox="0 0 24 24"
                 stroke="currentColor"
@@ -24,7 +24,7 @@ const Navbar = () => {
             </div>
             <ul
               tabIndex="-1"
-              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
+              className="menu menu-sm dropdown-content bg-base-100 rounded-box z-30 mt-3 w-52 p-2 shadow"
             >
               <li>
                 <a>Item 1</a>
@@ -37,31 +37,33 @@ const Navbar = () => {
               </li>
             </ul>
           </div>
-          <a className="btn btn-ghost text-2xl font-bold border-dashed border-2 border-black ">
+          <a className="btn btn-ghost text-2xl font-bold border-dashed border-2 border-white text-white ">
             Next_Step
           </a>
         </div>
         {/* middle */}
-        <div className=" flex justify-center items-center">
+        <div className=" flex justify-center items-center gap-6">
           <div className="navbar-center hidden lg:flex">
             <ul className="menu menu-horizontal px-1">
               <li>
-                <a>Home</a>
+                <a className="text-xl text-white">Home</a>
               </li>
               <li>
-                <a href="">All Jobs</a>
+                <a href="" className="text-white text-xl">
+                  All Jobs
+                </a>
               </li>
               <li>
-                <a>Blogs</a>
+                <a className="text-white text-xl">Blogs</a>
               </li>
             </ul>
-          </div>
-          <div className=" flex gap-5">
-            <div className="">
-              <a className="btn">Login</a>
-            </div>
-            <div className="">
-              <a className="btn">Register</a>
+            <div className=" flex gap-5">
+              <div className="">
+                <a className="btn">Login</a>
+              </div>
+              <div className="">
+                <a className="btn">Register</a>
+              </div>
             </div>
           </div>
         </div>
