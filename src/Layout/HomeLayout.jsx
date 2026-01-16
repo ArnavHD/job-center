@@ -1,6 +1,9 @@
 import React from "react";
 import Navbar from "../Components/Navbar/Navbar";
 import video from "../assets/286689_small.mp4";
+import Footer from "../Components/Footer/Footer";
+import Top_hirers from "../Components/Top_hirers/Top_hirers";
+
 
 const HomeLayout = () => {
   return (
@@ -24,7 +27,7 @@ const HomeLayout = () => {
               </span>
               <br />{" "}
               <span className="lg:text-4xl">
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to Search for Future
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Search For Future
               </span>
             </h1>
           </div>
@@ -32,12 +35,10 @@ const HomeLayout = () => {
       </header>
 
       <main className=" text-white p-8">
-        <h2 className=" text-white">Hello this is main</h2>
-        <h2 className="text-white">Hello this is main</h2>
-        <h2 className="text-white">Hello this is main</h2>
-        <h2 className="text-white">Hello this is main</h2>
-        
+        <Top_hirers></Top_hirers>
       </main>
+
+      <Footer></Footer>
     </div>
   );
 };

@@ -1,0 +1,40 @@
+import React from 'react';
+import Marquee from 'react-fast-marquee';
+import mit from "../../assets/mit.png";
+import calgary from "../../assets/Calgary.png";
+import nasa from "../../assets/nasa.png";
+import ibm from "../../assets/ibm.svg";
+import tesla from "../../assets/tesla.jpg";
+import tornto from "../../assets/University-of-Toronto.png";
+
+const Top_hirers = () => {
+    return (
+      <div>
+        <h2 className=' text-3xl font-bold mb-10'>Our top Employers:</h2>
+        <Marquee className="flex gap-10" pauseOnHover={true}>
+          <div className=" flex gap-10">
+            <div className=" bg-white p-5 rounded-xl">
+              <img src={mit} className=" w-50 h-30" alt="" />
+            </div>
+            <div className=" bg-white p-5 rounded-xl">
+              <img src={nasa} className=" w-50 h-30" alt="" />
+            </div>
+            <div className=" bg-white p-5 rounded-xl">
+              <img src={tesla} className=" w-50 h-30" alt="" />
+            </div>
+            <div className=" bg-white p-5 rounded-xl">
+              <img src={calgary} className=" w-50 h-30" alt="" />
+            </div>
+            <div className=" bg-white p-5 rounded-xl">
+              <img src={ibm} className=" w-50 h-30" alt="" />
+            </div>
+            <div className=" bg-white p-5 rounded-xl">
+              <img src={tornto} className=" w-50 h-30" alt="" />
+            </div>
+          </div>
+        </Marquee>
+      </div>
+    );
+};
+
+export default Top_hirers;
