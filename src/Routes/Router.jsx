@@ -2,6 +2,8 @@ import { createBrowserRouter } from "react-router";
 import HomeLayout from "../Layout/HomeLayout";
 import NewsOutLooks from "../Components/NewsOutLooks/NewsOutLooks";
 import SpecificCompany from "../Components/SpecificCompany/SpecificCompany";
+import SingleJob from "../Pages/SingleJob";
+import DetailedSinglePage from "../Pages/DetailedSinglePage";
 
 const router = createBrowserRouter([
   {
@@ -25,6 +27,11 @@ const router = createBrowserRouter([
     loader: () => fetch("/companyData.json"),
     element: <SpecificCompany></SpecificCompany>,
   },
+//   {
+//     path: "categories/id/:id",
+//     loader: () => fetch("/companyData.json"),
+//     element: <DetailedSinglePage></DetailedSinglePage>,
+//   },
   {
     path: "/*",
     element: <div>Error </div>,
