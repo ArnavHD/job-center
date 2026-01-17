@@ -1,0 +1,4113 @@
+[
+  {
+    "id": "1",
+    "name": "Google",
+    "logo": "/src/assets/Google__G__logo.png",
+    "location": "Mountain View, California, USA",
+    "website": "https://www.google.com",
+    "industry": "Technology & Software",
+    "jobs": [
+      {
+        "id": "job-001",
+        "title": "Frontend Developer",
+        "bannerImage": "/src/assets/frontend.png",
+        "location": "Remote / USA",
+        "salary": "$90,000 - $120,000",
+        "jobType": "Full-time",
+        "description": "Work on modern web interfaces used by millions of users worldwide.",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with React",
+          "Understanding of responsive design",
+          "Familiarity with REST APIs",
+          "Strong problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-002",
+        "title": "Backend Engineer",
+        "bannerImage": "/src/assets/backend.jpg",
+        "location": "California, USA",
+        "salary": "$100,000 - $140,000",
+        "jobType": "Full-time",
+        "description": "Design and build scalable backend systems for Google products.",
+        "requirements": [
+          "Strong knowledge of Java or Python",
+          "Experience with cloud systems",
+          "Understanding of databases",
+          "Ability to design APIs",
+          "Good debugging skills"
+        ]
+      },
+      {
+        "id": "job-003",
+        "title": "UI/UX Designer",
+        "bannerImage": "/src/assets/uiux.webp",
+        "location": "New York, USA",
+        "salary": "$70,000 - $100,000",
+        "jobType": "Full-time",
+        "description": "Create intuitive and beautiful user experiences for web and mobile apps.",
+        "requirements": [
+          "Experience with Figma or Adobe XD",
+          "Strong design portfolio",
+          "Understanding of user behavior",
+          "Knowledge of design systems",
+          "Good communication skills"
+        ]
+      },
+      {
+        "id": "job-004",
+        "title": "Data Analyst",
+        "bannerImage": "/src/assets/dataanalyst.avif",
+        "location": "Toronto, Canada",
+        "salary": "$80,000 - $110,000",
+        "jobType": "Full-time",
+        "description": "Analyze large datasets to help teams make data-driven decisions.",
+        "requirements": [
+          "Strong SQL skills",
+          "Experience with Python or R",
+          "Understanding of statistics",
+          "Ability to visualize data",
+          "Critical thinking skills"
+        ]
+      },
+      {
+        "id": "job-005",
+        "title": "Mobile App Developer",
+        "bannerImage": "/src/assets/mobile_developer.webp",
+        "location": "Remote",
+        "salary": "$85,000 - $115,000",
+        "jobType": "Full-time",
+        "description": "Build high-quality mobile applications for Android and iOS platforms.",
+        "requirements": [
+          "Experience with Flutter or React Native",
+          "Knowledge of mobile UI patterns",
+          "Understanding of app performance",
+          "API integration experience",
+          "Team collaboration skills"
+        ]
+      }
+    ]
+  },
+  {
+  "id": "2",
+  "name": "Microsoft",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+  "location": "Redmond, Washington, USA",
+  "website": "https://www.microsoft.com",
+  "industry": "Technology & Cloud Computing",
+  "jobs": [
+    {
+      "id": "job-006",
+      "title": "Full Stack Developer",
+      "bannerImage": "/src/assets/fullstack.png",
+      "location": "Remote / USA",
+      "salary": "$95,000 - $130,000",
+      "jobType": "Full-time",
+      "description": "Build and maintain full-stack applications used across Microsoft platforms.",
+      "requirements": [
+        "Strong knowledge of JavaScript",
+        "Experience with React and Node.js",
+        "Understanding of databases",
+        "API development experience",
+        "Problem-solving mindset"
+      ]
+    },
+    {
+      "id": "job-007",
+      "title": "Cloud Engineer",
+      "bannerImage": "/src/assets/cloud.jpg",
+      "location": "Seattle, USA",
+      "salary": "$110,000 - $150,000",
+      "jobType": "Full-time",
+      "description": "Work on Azure cloud infrastructure and services.",
+      "requirements": [
+        "Experience with cloud platforms",
+        "Knowledge of networking",
+        "Understanding of DevOps tools",
+        "Linux fundamentals",
+        "Automation skills"
+      ]
+    },
+    {
+      "id": "job-008",
+      "title": "Game Developer",
+      "bannerImage": "/src/assets/gamedevelop.avif",
+      "location": "Vancouver, Canada",
+      "salary": "$80,000 - $115,000",
+      "jobType": "Full-time",
+      "description": "Develop immersive gaming experiences for Xbox platforms.",
+      "requirements": [
+        "Experience with Unity or Unreal Engine",
+        "C# or C++ knowledge",
+        "Understanding of game physics",
+        "Creative mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-009",
+      "title": "Cybersecurity Analyst",
+      "bannerImage": "/src/assets/cyberAnalyst.avif",
+      "location": "Remote",
+      "salary": "$90,000 - $125,000",
+      "jobType": "Full-time",
+      "description": "Protect Microsoft systems and users from cyber threats.",
+      "requirements": [
+        "Understanding of security principles",
+        "Knowledge of network security",
+        "Experience with threat analysis",
+        "Incident response skills",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-010",
+      "title": "Product Manager",
+      "bannerImage": "/src/assets/productManager.png",
+      "location": "New York, USA",
+      "salary": "$85,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Lead product vision and execution for Microsoft services.",
+      "requirements": [
+        "Strong communication skills",
+        "Experience in product management",
+        "User-focused mindset",
+        "Analytical thinking",
+        "Leadership abilities"
+      ]
+    },
+    {
+      "id": "job-011",
+      "title": "AI Research Engineer",
+      "bannerImage": "/src/assets/aiResearch.png",
+      "location": "California, USA",
+      "salary": "$120,000 - $170,000",
+      "jobType": "Full-time",
+      "description": "Research and build cutting-edge AI and machine learning solutions.",
+      "requirements": [
+        "Strong Python skills",
+        "Knowledge of machine learning",
+        "Experience with neural networks",
+        "Mathematics background",
+        "Research mindset"
+      ]
+    },
+    {
+      "id": "job-012",
+      "title": "Technical Support Engineer",
+      "bannerImage": "/src/assets/techSupport.webp",
+      "location": "Remote",
+      "salary": "$60,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Assist customers in resolving technical issues with Microsoft products.",
+      "requirements": [
+        "Strong communication skills",
+        "Basic networking knowledge",
+        "Troubleshooting ability",
+        "Customer-focused attitude",
+        "Technical curiosity"
+      ]
+    }
+  ]
+},
+{
+  "id": "3",
+  "name": "Neuralink",
+  "logo": "/src/assets/neuralink.jpg",
+  "location": "Fremont, California, USA",
+  "website": "https://neuralink.com",
+  "industry": "Neurotechnology & Biotechnology",
+  "jobs": [
+    {
+      "id": "job-013",
+      "title": "Biomedical Engineer",
+      "bannerImage": "/src/assets/BioMedical.webp",
+      "location": "California, USA",
+      "salary": "$95,000 - $130,000",
+      "jobType": "Full-time",
+      "description": "Design and test implantable neural devices for human applications.",
+      "requirements": [
+        "Background in biomedical engineering",
+        "Understanding of neural systems",
+        "Experience with medical devices",
+        "Strong analytical skills",
+        "Ability to work in cross-functional teams"
+      ]
+    },
+    {
+      "id": "job-014",
+      "title": "Embedded Systems Engineer",
+      "bannerImage": "/src/assets/embededSystemDesigner.png",
+      "location": "Fremont, USA",
+      "salary": "$110,000 - $150,000",
+      "jobType": "Full-time",
+      "description": "Develop firmware for brain–computer interface hardware.",
+      "requirements": [
+        "Strong C/C++ skills",
+        "Experience with microcontrollers",
+        "Knowledge of real-time systems",
+        "Hardware debugging skills",
+        "Understanding of low-level programming"
+      ]
+    },
+    {
+      "id": "job-015",
+      "title": "Robotics Technician",
+      "bannerImage": "/src/assets/roboticTech.avif",
+      "location": "California, USA",
+      "salary": "$70,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Maintain and operate robotic systems used in neural implant procedures.",
+      "requirements": [
+        "Experience with robotics systems",
+        "Mechanical troubleshooting skills",
+        "Understanding of sensors and actuators",
+        "Attention to detail",
+        "Hands-on mindset"
+      ]
+    },
+    {
+      "id": "job-016",
+      "title": "Research Software Engineer",
+      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "location": "Remote / USA",
+      "salary": "$100,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Build software tools for neural data analysis and visualization.",
+      "requirements": [
+        "Strong Python skills",
+        "Experience with data visualization",
+        "Understanding of signal processing",
+        "Familiarity with scientific workflows",
+        "Problem-solving ability"
+      ]
+    }
+  ]
+},
+{
+  "id": "4",
+  "name": "Nexus",
+  "logo": "/src/assets/nex.png",
+  "location": "San Francisco, California, USA",
+  "website": "https://nexus-tech.example.com",
+  "industry": "Digital Solutions & Innovation",
+  "jobs": [
+    {
+      "id": "job-017",
+      "title": "Software Engineer",
+      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "location": "Remote",
+      "salary": "$85,000 - $115,000",
+      "jobType": "Full-time",
+      "description": "Develop scalable applications for modern digital platforms.",
+      "requirements": [
+        "Strong JavaScript skills",
+        "Experience with React",
+        "Understanding of APIs",
+        "Version control knowledge",
+        "Problem-solving mindset"
+      ]
+    },
+    {
+      "id": "job-018",
+      "title": "DevOps Engineer",
+      "bannerImage": "/src/assets/devopsEngineer.jpg",
+      "location": "USA",
+      "salary": "$100,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Automate deployment pipelines and manage cloud infrastructure.",
+      "requirements": [
+        "Experience with CI/CD",
+        "Cloud platform knowledge",
+        "Docker and Kubernetes",
+        "Linux fundamentals",
+        "Automation skills"
+      ]
+    },
+    {
+      "id": "job-019",
+      "title": "Product Designer",
+      "bannerImage": "/src/assets/productDesinger.avif",
+      "location": "New York, USA",
+      "salary": "$70,000 - $100,000",
+      "jobType": "Full-time",
+      "description": "Design intuitive digital products and experiences.",
+      "requirements": [
+        "Figma proficiency",
+        "UX principles",
+        "Strong portfolio",
+        "User research skills",
+        "Creativity"
+      ]
+    },
+    {
+      "id": "job-020",
+      "title": "Marketing Strategist",
+      "bannerImage": "/src/assets/marketingSrategist.avif",
+      "location": "Remote",
+      "salary": "$60,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Create and manage digital marketing strategies.",
+      "requirements": [
+        "SEO knowledge",
+        "Content strategy",
+        "Analytics skills",
+        "Creative writing",
+        "Campaign management"
+      ]
+    },
+    {
+      "id": "job-021",
+      "title": "QA Engineer",
+      "bannerImage": "/src/assets/qaEngineer.jpg",
+      "location": "Remote",
+      "salary": "$65,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Ensure software quality through testing and automation.",
+      "requirements": [
+        "Test case writing",
+        "Automation tools",
+        "Bug tracking",
+        "Attention to detail",
+        "Analytical thinking"
+      ]
+    },
+    {
+      "id": "job-022",
+      "title": "Data Scientist",
+      "bannerImage": "/src/assets/datascientist.avif",
+      "location": "California, USA",
+      "salary": "$110,000 - $150,000",
+      "jobType": "Full-time",
+      "description": "Analyze data and build predictive models.",
+      "requirements": [
+        "Python expertise",
+        "Statistics knowledge",
+        "Machine learning",
+        "Data visualization",
+        "Critical thinking"
+      ]
+    },
+    {
+      "id": "job-023",
+      "title": "Mobile App Developer",
+      "bannerImage": "/src/assets/mobile_developer.webp",
+      "location": "Remote",
+      "salary": "$80,000 - $110,000",
+      "jobType": "Full-time",
+      "description": "Build cross-platform mobile applications.",
+      "requirements": [
+        "Flutter or React Native",
+        "Mobile UI skills",
+        "API integration",
+        "Performance tuning",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-024",
+      "title": "Business Analyst",
+      "bannerImage": "/src/assets/business_analyst.webp",
+      "location": "Chicago, USA",
+      "salary": "$70,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Bridge business needs with technical solutions.",
+      "requirements": [
+        "Requirement gathering",
+        "Process modeling",
+        "Communication skills",
+        "Analytical mindset",
+        "Documentation"
+      ]
+    },
+    {
+      "id": "job-025",
+      "title": "Customer Success Manager",
+      "bannerImage": "/src/assets/customerServiece.png",
+      "location": "Remote",
+      "salary": "$60,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Ensure clients achieve success using Nexus products.",
+      "requirements": [
+        "Client communication",
+        "Problem-solving",
+        "Product knowledge",
+        "Relationship building",
+        "Empathy"
+      ]
+    }
+  ]
+},
+{
+  "id": "5",
+  "name": "Agri-Land",
+  "logo": "/src/assets/farm-logo-icon-barn-field-vector-22484048.avif",
+  "location": "Saskatchewan, Canada",
+  "website": "https://agriland.example.com",
+  "industry": "Agriculture & AgriTech",
+  "jobs": [
+    {
+      "id": "job-026",
+      "title": "Agricultural Engineer",
+      "bannerImage": "/src/assets/agricultural_engineer.jpg",
+      "location": "Regina, Canada",
+      "salary": "$70,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Design and improve modern farming systems and machinery.",
+      "requirements": [
+        "Engineering background",
+        "Knowledge of farming systems",
+        "Problem-solving skills",
+        "Field testing experience",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-027",
+      "title": "Farm Operations Manager",
+      "bannerImage": "/src/assets/farmManager.jpg",
+      "location": "Manitoba, Canada",
+      "salary": "$60,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Oversee daily farm operations and staff.",
+      "requirements": [
+        "Leadership skills",
+        "Agriculture experience",
+        "Planning ability",
+        "Time management",
+        "Communication"
+      ]
+    },
+    {
+      "id": "job-028",
+      "title": "Soil Scientist",
+      "bannerImage": "/src/assets/soil.avif",
+      "location": "Remote",
+      "salary": "$65,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Analyze soil data to improve crop yield.",
+      "requirements": [
+        "Soil science knowledge",
+        "Data analysis",
+        "Research skills",
+        "Reporting",
+        "Critical thinking"
+      ]
+    },
+    {
+      "id": "job-029",
+      "title": "Drone Operator",
+      "bannerImage": "/src/assets/drone.jpg",
+      "location": "Alberta, Canada",
+      "salary": "$45,000 - $65,000",
+      "jobType": "Full-time",
+      "description": "Operate drones for crop monitoring and mapping.",
+      "requirements": [
+        "Drone certification",
+        "Field work experience",
+        "Basic GIS knowledge",
+        "Safety awareness",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-030",
+      "title": "Data Analyst",
+      "bannerImage": "/src/assets/dataanalyst.avif",
+      "location": "Remote",
+      "salary": "$75,000 - $105,000",
+      "jobType": "Full-time",
+      "description": "Analyze agricultural data to optimize productivity.",
+      "requirements": [
+        "Python or R",
+        "Data visualization",
+        "Statistics",
+        "Reporting",
+        "Problem-solving"
+      ]
+    },
+    {
+      "id": "job-031",
+      "title": "Irrigation Specialist",
+      "bannerImage": "/src/assets/irrigation.webp",
+      "location": "California, USA",
+      "salary": "$55,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Design and maintain irrigation systems.",
+      "requirements": [
+        "Hydrology basics",
+        "System maintenance",
+        "Field experience",
+        "Planning",
+        "Safety"
+      ]
+    },
+    {
+      "id": "job-032",
+      "title": "Supply Chain Coordinator",
+      "bannerImage": "/src/assets/supplyChain.avif",
+      "location": "Toronto, Canada",
+      "salary": "$60,000 - $80,000",
+      "jobType": "Full-time",
+      "description": "Manage logistics from farm to market.",
+      "requirements": [
+        "Logistics knowledge",
+        "Organization",
+        "Vendor coordination",
+        "Communication",
+        "Problem-solving"
+      ]
+    },
+    {
+      "id": "job-033",
+      "title": "Crop Research Assistant",
+      "bannerImage": "/src/assets/crop.webp",
+      "location": "Ontario, Canada",
+      "salary": "$40,000 - $55,000",
+      "jobType": "Full-time",
+      "description": "Assist in crop research and experiments.",
+      "requirements": [
+        "Biology background",
+        "Field work",
+        "Data collection",
+        "Reporting",
+        "Curiosity"
+      ]
+    },
+    {
+      "id": "job-034",
+      "title": "Sustainability Officer",
+      "bannerImage": "/src/assets/sustain.png",
+      "location": "Remote",
+      "salary": "$70,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Implement eco-friendly farming practices.",
+      "requirements": [
+        "Environmental knowledge",
+        "Policy planning",
+        "Communication",
+        "Auditing",
+        "Strategy"
+      ]
+    },
+    {
+      "id": "job-035",
+      "title": "Marketing Executive",
+      "bannerImage": "/src/assets/marketingExecutive.webp",
+      "location": "Vancouver, Canada",
+      "salary": "$55,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Promote Agri-Land products and services.",
+      "requirements": [
+        "Digital marketing",
+        "Brand strategy",
+        "Content creation",
+        "Analytics",
+        "Creativity"
+      ]
+    },
+    {
+      "id": "job-036",
+      "title": "Equipment Technician",
+      "bannerImage": "/src/assets/equipTechnician.webp",
+      "location": "Calgary, Canada",
+      "salary": "$50,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Maintain and repair farming equipment.",
+      "requirements": [
+        "Mechanical skills",
+        "Diagnostics",
+        "Safety procedures",
+        "Field work",
+        "Reliability"
+      ]
+    },
+    {
+      "id": "job-037",
+      "title": "Customer Support Representative",
+      "bannerImage": "/src/assets/customerServiece.png",
+      "location": "Remote",
+      "salary": "$40,000 - $55,000",
+      "jobType": "Full-time",
+      "description": "Support farmers using Agri-Land solutions.",
+      "requirements": [
+        "Communication skills",
+        "Product knowledge",
+        "Problem-solving",
+        "Empathy",
+        "Patience"
+      ]
+    }
+  ]
+},
+{
+  "id": "6",
+  "name": "University of Calgary",
+  "logo": "/src/assets/Calgary.png",
+  "location": "Calgary, Alberta, Canada",
+  "website": "https://www.ucalgary.ca",
+  "industry": "Education & Research",
+  "jobs": [
+    {
+      "id": "job-038",
+      "title": "Professor of Computer Science",
+      "bannerImage": "/src/assets/csTeach.webp",
+      "location": "Calgary, Canada",
+      "salary": "$100,000 - $150,000",
+      "jobType": "Full-time",
+      "description": "Teach undergraduate and graduate courses in Computer Science.",
+      "requirements": [
+        "PhD in Computer Science",
+        "Strong teaching experience",
+        "Research publications",
+        "Curriculum development",
+        "Mentorship skills"
+      ]
+    },
+    {
+      "id": "job-039",
+      "title": "Research Assistant",
+      "bannerImage": "/src/assets/ra.png",
+      "location": "Calgary, Canada",
+      "salary": "$45,000 - $60,000",
+      "jobType": "Full-time",
+      "description": "Assist faculty in academic research projects.",
+      "requirements": [
+        "Bachelor’s degree in relevant field",
+        "Data analysis skills",
+        "Research experience",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-040",
+      "title": "Administrative Coordinator",
+      "bannerImage": "/src/assets/admin.jpg",
+      "location": "Calgary, Canada",
+      "salary": "$55,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Coordinate departmental activities and administrative tasks.",
+      "requirements": [
+        "Strong organizational skills",
+        "Communication skills",
+        "Experience with office software",
+        "Problem-solving mindset",
+        "Time management"
+      ]
+    },
+    {
+      "id": "job-041",
+      "title": "IT Support Specialist",
+      "bannerImage": "/src/assets/techSupport.webp",
+      "location": "Calgary, Canada",
+      "salary": "$60,000 - $80,000",
+      "jobType": "Full-time",
+      "description": "Provide technical support for staff and students.",
+      "requirements": [
+        "Knowledge of networks and hardware",
+        "Troubleshooting skills",
+        "Customer service experience",
+        "Communication skills",
+        "Teamwork"
+      ]
+    },
+    {
+      "id": "job-042",
+      "title": "Library Technician",
+      "bannerImage": "/src/assets/libtech.jpg",
+      "location": "Calgary, Canada",
+      "salary": "$50,000 - $65,000",
+      "jobType": "Full-time",
+      "description": "Assist in library operations and support students and faculty.",
+      "requirements": [
+        "Library science background",
+        "Organizational skills",
+        "Customer service",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-043",
+      "title": "Lab Technician",
+      "bannerImage": "/src/assets/labtech.jpg",
+      "location": "Calgary, Canada",
+      "salary": "$50,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Support laboratory experiments and maintain equipment.",
+      "requirements": [
+        "Science background",
+        "Hands-on experience",
+        "Attention to detail",
+        "Safety knowledge",
+        "Teamwork"
+      ]
+    },
+    {
+      "id": "job-044",
+      "title": "Admissions Officer",
+      "bannerImage": "/src/assets/adminoff.png",
+      "location": "Calgary, Canada",
+      "salary": "$55,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Manage student applications and admission processes.",
+      "requirements": [
+        "Experience in admissions or education",
+        "Strong organizational skills",
+        "Communication skills",
+        "Attention to detail",
+        "Customer service mindset"
+      ]
+    }
+  ]
+},
+{
+  "id": "7",
+  "name": "Tesla",
+  "logo": "/src/assets/tesla.jpg",
+  "location": "Palo Alto, California, USA",
+  "website": "https://www.tesla.com",
+  "industry": "Automotive & Clean Energy",
+  "jobs": [
+    {
+      "id": "job-045",
+      "title": "Mechanical Engineer",
+      "bannerImage": "/src/assets/mchaengineer.avif",
+      "location": "Palo Alto, USA",
+      "salary": "$90,000 - $130,000",
+      "jobType": "Full-time",
+      "description": "Design and test mechanical systems for electric vehicles.",
+      "requirements": [
+        "Strong mechanical engineering background",
+        "CAD experience",
+        "Prototyping skills",
+        "Problem-solving mindset",
+        "Teamwork skills"
+      ]
+    },
+    {
+      "id": "job-046",
+      "title": "Electrical Engineer",
+      "bannerImage": "/src/assets/elecEngineer.jpg",
+      "location": "Fremont, USA",
+      "salary": "$95,000 - $135,000",
+      "jobType": "Full-time",
+      "description": "Develop electrical systems for EVs and energy storage products.",
+      "requirements": [
+        "Circuit design knowledge",
+        "PCB design experience",
+        "Testing and troubleshooting",
+        "Team collaboration",
+        "Problem-solving ability"
+      ]
+    },
+    {
+      "id": "job-047",
+      "title": "Software Engineer",
+      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "location": "Remote / USA",
+      "salary": "$100,000 - $150,000",
+      "jobType": "Full-time",
+      "description": "Develop software for vehicle systems and autonomous driving.",
+      "requirements": [
+        "Strong Python or C++ skills",
+        "Experience with embedded systems",
+        "Algorithm development",
+        "Team collaboration",
+        "Problem-solving mindset"
+      ]
+    },
+    {
+      "id": "job-048",
+      "title": "Battery Engineer",
+      "bannerImage": "/src/assets/battery.jpg",
+      "location": "California, USA",
+      "salary": "$95,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Design and optimize battery packs for EVs.",
+      "requirements": [
+        "Battery chemistry knowledge",
+        "Experience with testing and diagnostics",
+        "Problem-solving",
+        "Teamwork",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-049",
+      "title": "Autonomous Driving Engineer",
+      "bannerImage": "/src/assets/driveEngineer.webp",
+      "location": "Palo Alto, USA",
+      "salary": "$120,000 - $170,000",
+      "jobType": "Full-time",
+      "description": "Develop AI systems for self-driving vehicles.",
+      "requirements": [
+        "Machine learning experience",
+        "Python or C++ skills",
+        "Computer vision knowledge",
+        "Team collaboration",
+        "Problem-solving"
+      ]
+    },
+    {
+      "id": "job-050",
+      "title": "Manufacturing Engineer",
+      "bannerImage": "/src/assets/manufacEngineer.jpg",
+      "location": "Fremont, USA",
+      "salary": "$85,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Optimize manufacturing processes for EV production.",
+      "requirements": [
+        "Lean manufacturing knowledge",
+        "Problem-solving skills",
+        "Teamwork",
+        "Process improvement experience",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-051",
+      "title": "Product Manager",
+      "bannerImage": "/src/assets/productManager.png",
+      "location": "Remote / USA",
+      "salary": "$100,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Lead the development and launch of Tesla products.",
+      "requirements": [
+        "Experience in product management",
+        "Strong communication skills",
+        "Strategic thinking",
+        "Team leadership",
+        "Analytical skills"
+      ]
+    },
+    {
+      "id": "job-052",
+      "title": "Cybersecurity Engineer",
+      "bannerImage": "/src/assets/cyberExpert.jpg",
+      "location": "Palo Alto, USA",
+      "salary": "$110,000 - $150,000",
+      "jobType": "Full-time",
+      "description": "Protect Tesla systems from cyber threats.",
+      "requirements": [
+        "Network security knowledge",
+        "Penetration testing experience",
+        "Problem-solving",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-053",
+      "title": "Supply Chain Manager",
+      "bannerImage": "/src/assets/supplyChain.avif",
+      "location": "California, USA",
+      "salary": "$95,000 - $135,000",
+      "jobType": "Full-time",
+      "description": "Oversee Tesla’s global supply chain operations.",
+      "requirements": [
+        "Logistics knowledge",
+        "Vendor management",
+        "Analytical skills",
+        "Problem-solving",
+        "Leadership"
+      ]
+    },
+    {
+      "id": "job-054",
+      "title": "Energy Systems Engineer",
+      "bannerImage": "/src/assets/battery.jpg",
+      "location": "Nevada, USA",
+      "salary": "$100,000 - $145,000",
+      "jobType": "Full-time",
+      "description": "Develop solar and energy storage solutions.",
+      "requirements": [
+        "Knowledge of electrical systems",
+        "Experience with renewable energy",
+        "Problem-solving skills",
+        "Teamwork",
+        "Analytical skills"
+      ]
+    }
+  ]
+},
+{
+  "id": "8",
+  "name": "NASA",
+  "logo": "/src/assets/nasa.png",
+  "location": "Washington, D.C., USA",
+  "website": "https://www.nasa.gov",
+  "industry": "Aerospace & Space Research",
+  "jobs": [
+    {
+      "id": "job-055",
+      "title": "Aerospace Engineer",
+      "bannerImage": "/src/assets/aerospace.jpg",
+      "location": "Houston, USA",
+      "salary": "$95,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Design and test spacecraft and aerospace systems.",
+      "requirements": [
+        "Degree in aerospace engineering",
+        "Experience with CAD and simulations",
+        "Problem-solving skills",
+        "Knowledge of propulsion systems",
+        "Teamwork"
+      ]
+    },
+    {
+      "id": "job-056",
+      "title": "Astrophysicist",
+      "bannerImage": "/src/assets/astro.jpg",
+      "location": "Remote / USA",
+      "salary": "$90,000 - $130,000",
+      "jobType": "Full-time",
+      "description": "Conduct research and analysis of astronomical phenomena.",
+      "requirements": [
+        "PhD in physics or astrophysics",
+        "Data analysis skills",
+        "Research experience",
+        "Programming in Python or MATLAB",
+        "Strong analytical mindset"
+      ]
+    },
+    {
+      "id": "job-057",
+      "title": "Mission Planner",
+      "bannerImage": "/src/assets/mission.jpg",
+      "location": "Washington, D.C., USA",
+      "salary": "$85,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Plan and coordinate space missions and projects.",
+      "requirements": [
+        "Project management experience",
+        "Knowledge of aerospace operations",
+        "Strong communication skills",
+        "Analytical thinking",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-058",
+      "title": "Robotics Engineer",
+      "bannerImage": "/src/assets/roboticTech.avif",
+      "location": "California, USA",
+      "salary": "$95,000 - $135,000",
+      "jobType": "Full-time",
+      "description": "Develop robotic systems for spacecraft and satellites.",
+      "requirements": [
+        "Experience with robotic systems",
+        "Mechanical and electrical knowledge",
+        "Programming skills",
+        "Problem-solving mindset",
+        "Teamwork"
+      ]
+    },
+    {
+      "id": "job-059",
+      "title": "Space Scientist",
+      "bannerImage": "/src/assets/spaceScientist.jpg",
+      "location": "Remote / USA",
+      "salary": "$90,000 - $125,000",
+      "jobType": "Full-time",
+      "description": "Conduct experiments and research related to space exploration.",
+      "requirements": [
+        "Physics or astronomy background",
+        "Research experience",
+        "Analytical skills",
+        "Team collaboration",
+        "Technical writing"
+      ]
+    }
+  ]
+},
+{
+  "id": "9",
+  "name": "MIT",
+  "logo": "/src/assets/mit.png",
+  "location": "Cambridge, Massachusetts, USA",
+  "website": "https://www.mit.edu",
+  "industry": "Education & Research",
+  "jobs": [
+    {
+      "id": "job-060",
+      "title": "Research Scientist",
+      "bannerImage": "/src/assets/ra.png",
+      "location": "Cambridge, USA",
+      "salary": "$100,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Conduct advanced research in science and technology projects.",
+      "requirements": [
+        "PhD in relevant field",
+        "Strong analytical skills",
+        "Experience in research",
+        "Programming or lab skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-061",
+      "title": "Professor of Engineering",
+      "bannerImage": "/src/assets/proffessor.jpg",
+      "location": "Cambridge, USA",
+      "salary": "$110,000 - $160,000",
+      "jobType": "Full-time",
+      "description": "Teach undergraduate and graduate courses in Engineering.",
+      "requirements": [
+        "PhD in Engineering",
+        "Teaching experience",
+        "Strong communication skills",
+        "Research background",
+        "Mentorship ability"
+      ]
+    },
+    {
+      "id": "job-062",
+      "title": "Postdoctoral Fellow",
+      "bannerImage": "/src/assets/postDoctoral.png",
+      "location": "Cambridge, USA",
+      "salary": "$70,000 - $100,000",
+      "jobType": "Full-time",
+      "description": "Participate in postdoctoral research programs at MIT.",
+      "requirements": [
+        "PhD completed",
+        "Research skills",
+        "Publication record",
+        "Analytical mindset",
+        "Teamwork"
+      ]
+    },
+    {
+      "id": "job-063",
+      "title": "IT Systems Administrator",
+      "bannerImage": "/src/assets/techSupport.webp",
+      "location": "Cambridge, USA",
+      "salary": "$65,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Manage MIT’s IT infrastructure and support systems.",
+      "requirements": [
+        "Knowledge of networks and servers",
+        "Troubleshooting skills",
+        "Linux/Windows experience",
+        "Communication skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-064",
+      "title": "Laboratory Technician",
+      "bannerImage": "/src/assets/labtech.jpg",
+      "location": "Cambridge, USA",
+      "salary": "$50,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Support experiments and maintain lab equipment.",
+      "requirements": [
+        "Science or engineering background",
+        "Hands-on lab experience",
+        "Attention to detail",
+        "Safety awareness",
+        "Teamwork"
+      ]
+    },
+    {
+      "id": "job-065",
+      "title": "Admissions Officer",
+      "bannerImage": "/src/assets/adminoff.png",
+      "location": "Cambridge, USA",
+      "salary": "$55,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Manage student applications and admission processes.",
+      "requirements": [
+        "Experience in admissions",
+        "Organizational skills",
+        "Communication skills",
+        "Attention to detail",
+        "Customer service mindset"
+      ]
+    },
+    {
+      "id": "job-066",
+      "title": "Academic Counselor",
+      "bannerImage": "/src/assets/academicCouncellor.jpg",
+      "location": "Cambridge, USA",
+      "salary": "$60,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Provide guidance and support to students for academic success.",
+      "requirements": [
+        "Counseling or education background",
+        "Strong communication skills",
+        "Problem-solving mindset",
+        "Empathy",
+        "Organization"
+      ]
+    }
+  ]
+},
+{
+  "id": "10",
+  "name": "University of Toronto",
+  "logo": "/src/assets/Utoronto.png",
+  "location": "Toronto, Ontario, Canada",
+  "website": "https://www.utoronto.ca",
+  "industry": "Education & Research",
+  "jobs": [
+    {
+      "id": "job-067",
+      "title": "Professor of Biology",
+      "bannerImage": "/src/assets/bioProff.webp",
+      "location": "Toronto, Canada",
+      "salary": "$100,000 - $145,000",
+      "jobType": "Full-time",
+      "description": "Teach and conduct research in the Biology department.",
+      "requirements": [
+        "PhD in Biology",
+        "Teaching experience",
+        "Research publications",
+        "Strong communication skills",
+        "Mentorship ability"
+      ]
+    },
+    {
+      "id": "job-068",
+      "title": "Research Assistant",
+      "bannerImage": "/src/assets/ra.png",
+      "location": "Toronto, Canada",
+      "salary": "$45,000 - $60,000",
+      "jobType": "Full-time",
+      "description": "Assist faculty in conducting research projects.",
+      "requirements": [
+        "Bachelor’s degree in relevant field",
+        "Data analysis skills",
+        "Lab experience",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-069",
+      "title": "Administrative Coordinator",
+      "bannerImage": "/src/assets/adminoff.png",
+      "location": "Toronto, Canada",
+      "salary": "$55,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Coordinate departmental activities and administrative tasks.",
+      "requirements": [
+        "Organizational skills",
+        "Communication skills",
+        "Office software proficiency",
+        "Problem-solving mindset",
+        "Time management"
+      ]
+    },
+    {
+      "id": "job-070",
+      "title": "IT Support Specialist",
+      "bannerImage": "/src/assets/techSupport.webp",
+      "location": "Toronto, Canada",
+      "salary": "$60,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Provide technical support for staff and students.",
+      "requirements": [
+        "Networking and hardware knowledge",
+        "Troubleshooting skills",
+        "Customer service experience",
+        "Communication skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-071",
+      "title": "Library Technician",
+      "bannerImage": "/src/assets/libtech.jpg",
+      "location": "Toronto, Canada",
+      "salary": "$50,000 - $65,000",
+      "jobType": "Full-time",
+      "description": "Assist in library operations and support students and faculty.",
+      "requirements": [
+        "Library science knowledge",
+        "Organizational skills",
+        "Customer service skills",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-072",
+      "title": "Admissions Officer",
+      "bannerImage": "/src/assets/academicCouncellor.jpg",
+      "location": "Toronto, Canada",
+      "salary": "$55,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Manage student applications and admission processes.",
+      "requirements": [
+        "Experience in admissions or education",
+        "Strong organizational skills",
+        "Communication skills",
+        "Attention to detail",
+        "Customer service mindset"
+      ]
+    }
+  ]
+},
+{
+  "id": "11",
+  "name": "Lamborghini",
+  "logo": "/src/assets/lamborgini.jpg",
+  "location": "Sant'Agata Bolognese, Italy",
+  "website": "https://www.lamborghini.com",
+  "industry": "Automotive & Luxury Vehicles",
+  "jobs": [
+    {
+      "id": "job-073",
+      "title": "Automotive Engineer",
+      "bannerImage": "/src/assets/automotive.jpg",
+      "location": "Italy",
+      "salary": "$90,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Design and develop high-performance automotive systems.",
+      "requirements": [
+        "Mechanical engineering background",
+        "Experience with automotive design",
+        "CAD proficiency",
+        "Problem-solving skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-074",
+      "title": "Production Supervisor",
+      "bannerImage": "/src/assets/productManager.png",
+      "location": "Italy",
+      "salary": "$80,000 - $115,000",
+      "jobType": "Full-time",
+      "description": "Oversee the production line and ensure quality standards.",
+      "requirements": [
+        "Leadership skills",
+        "Production experience",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Teamwork"
+      ]
+    },
+    {
+      "id": "job-075",
+      "title": "Marketing Manager",
+      "bannerImage": "/src/assets/marketingManager.webp",
+      "location": "Italy",
+      "salary": "$85,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Develop and manage marketing campaigns for Lamborghini products.",
+      "requirements": [
+        "Marketing experience",
+        "Brand strategy knowledge",
+        "Creative thinking",
+        "Communication skills",
+        "Analytical mindset"
+      ]
+    },
+    {
+      "id": "job-076",
+      "title": "Quality Assurance Engineer",
+      "bannerImage": "/src/assets/qaEngineer.jpg",
+      "location": "Italy",
+      "salary": "$75,000 - $110,000",
+      "jobType": "Full-time",
+      "description": "Ensure the quality of vehicles through rigorous testing.",
+      "requirements": [
+        "Engineering background",
+        "Attention to detail",
+        "Testing and diagnostics experience",
+        "Problem-solving skills",
+        "Team collaboration"
+      ]
+    }
+  ]
+},
+{
+  "id": "12",
+  "name": "Ferrari",
+  "logo": "/src/assets/ferrari.png",
+  "location": "Maranello, Italy",
+  "website": "https://www.ferrari.com",
+  "industry": "Automotive & Luxury Vehicles",
+  "jobs": [
+    {
+      "id": "job-077",
+      "title": "Automotive Engineer",
+      "bannerImage": "/src/assets/automotive.jpg",
+      "location": "Italy",
+      "salary": "$95,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Design and develop high-performance automotive systems for Ferrari vehicles.",
+      "requirements": [
+        "Mechanical engineering background",
+        "Experience with automotive design",
+        "CAD proficiency",
+        "Problem-solving skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-078",
+      "title": "Production Engineer",
+      "bannerImage": "/src/assets/productionEngineer.png",
+      "location": "Italy",
+      "salary": "$85,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Ensure efficient production processes and maintain quality standards.",
+      "requirements": [
+        "Engineering background",
+        "Production and assembly experience",
+        "Problem-solving mindset",
+        "Attention to detail",
+        "Teamwork"
+      ]
+    },
+    {
+      "id": "job-079",
+      "title": "Marketing Specialist",
+      "bannerImage": "/src/assets/marketingSrategist.avif",
+      "location": "Italy",
+      "salary": "$70,000 - $100,000",
+      "jobType": "Full-time",
+      "description": "Assist in marketing campaigns and promote Ferrari’s brand worldwide.",
+      "requirements": [
+        "Marketing experience",
+        "Creative thinking",
+        "Communication skills",
+        "Brand awareness",
+        "Team collaboration"
+      ]
+    }
+  ]
+},
+{
+  "id": "13",
+  "name": "IBM",
+  "logo": "/src/assets/ibm.svg",
+  "location": "Armonk, New York, USA",
+  "website": "https://www.ibm.com",
+  "industry": "Technology & Consulting",
+  "jobs": [
+    {
+      "id": "job-080",
+      "title": "Software Engineer",
+      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "location": "Armonk, USA",
+      "salary": "$90,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Develop and maintain software applications for enterprise clients.",
+      "requirements": [
+        "Proficient in Java, Python, or C++",
+        "Experience with web frameworks",
+        "Problem-solving skills",
+        "Team collaboration",
+        "Agile development experience"
+      ]
+    },
+    {
+      "id": "job-081",
+      "title": "Cloud Solutions Architect",
+      "bannerImage": "/src/assets/cloud.jpg",
+      "location": "Remote / USA",
+      "salary": "$120,000 - $160,000",
+      "jobType": "Full-time",
+      "description": "Design and implement cloud-based solutions for clients.",
+      "requirements": [
+        "Experience with AWS, Azure, or IBM Cloud",
+        "Architecture design skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Communication skills"
+      ]
+    },
+    {
+      "id": "job-082",
+      "title": "Data Scientist",
+      "bannerImage": "/src/assets/datascientist.avif",
+      "location": "Remote / USA",
+      "salary": "$110,000 - $150,000",
+      "jobType": "Full-time",
+      "description": "Analyze large datasets to provide actionable business insights.",
+      "requirements": [
+        "Strong Python or R skills",
+        "Machine learning experience",
+        "Data visualization skills",
+        "Analytical mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-083",
+      "title": "AI Engineer",
+      "bannerImage": "/src/assets/aiEngineer.jpg",
+      "location": "Armonk, USA",
+      "salary": "$115,000 - $155,000",
+      "jobType": "Full-time",
+      "description": "Develop AI models and integrate them into enterprise applications.",
+      "requirements": [
+        "Machine learning experience",
+        "Python, TensorFlow, or PyTorch skills",
+        "Problem-solving mindset",
+        "Analytical thinking",
+        "Teamwork"
+      ]
+    },
+    {
+      "id": "job-084",
+      "title": "Cybersecurity Analyst",
+      "bannerImage": "/src/assets/cyberAnalyst.avif",
+      "location": "Armonk, USA",
+      "salary": "$100,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Monitor and protect IBM systems and client networks from cyber threats.",
+      "requirements": [
+        "Network security knowledge",
+        "Incident response experience",
+        "Problem-solving skills",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-085",
+      "title": "Business Analyst",
+      "bannerImage": "/src/assets/business_analyst.webp",
+      "location": "Remote / USA",
+      "salary": "$85,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Analyze client requirements and propose business solutions.",
+      "requirements": [
+        "Experience in business analysis",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Documentation skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-086",
+      "title": "Cloud Engineer",
+      "bannerImage": "/src/assets/cloud.jpg",
+      "location": "Armonk, USA",
+      "salary": "$105,000 - $145,000",
+      "jobType": "Full-time",
+      "description": "Implement and maintain cloud infrastructure and services.",
+      "requirements": [
+        "Cloud platform experience",
+        "Networking and server knowledge",
+        "Automation skills",
+        "Problem-solving",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-087",
+      "title": "Project Manager",
+      "bannerImage": "/src/assets/productManager.png",
+      "location": "Remote / USA",
+      "salary": "$95,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Lead and manage IT and consulting projects.",
+      "requirements": [
+        "Project management experience",
+        "Agile methodology knowledge",
+        "Communication skills",
+        "Leadership ability",
+        "Problem-solving skills"
+      ]
+    },
+    {
+      "id": "job-088",
+      "title": "UX/UI Designer",
+      "bannerImage": "/src/assets/uiux.webp",
+      "location": "Remote / USA",
+      "salary": "$80,000 - $115,000",
+      "jobType": "Full-time",
+      "description": "Design user interfaces and user experiences for web and mobile applications.",
+      "requirements": [
+        "Experience in UI/UX design",
+        "Proficiency with design tools",
+        "Creative thinking",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-089",
+      "title": "Consultant",
+      "bannerImage": "/src/assets/consultant.jpg",
+      "location": "Remote / USA",
+      "salary": "$90,000 - $130,000",
+      "jobType": "Full-time",
+      "description": "Provide consulting services for technology and business solutions.",
+      "requirements": [
+        "Business or technology background",
+        "Problem-solving skills",
+        "Client communication",
+        "Analytical thinking",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-090",
+      "title": "Technical Writer",
+      "bannerImage": "/src/assets/techWriter.webp",
+      "location": "Remote / USA",
+      "salary": "$70,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Create technical documentation for IBM software and services.",
+      "requirements": [
+        "Technical writing experience",
+        "Understanding of software systems",
+        "Clear communication",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    }
+  ]
+},
+{
+  "id": "14",
+  "name": "Rubery-Pi",
+  "logo": "/src/assets/rasberry.png",
+  "location": "Cambridge, United Kingdom",
+  "website": "https://www.raspberrypi.org",
+  "industry": "Technology & Electronics",
+  "jobs": [
+    {
+      "id": "job-091",
+      "title": "Hardware Engineer",
+      "bannerImage": "/src/assets/HardwareEngineer.jpg",
+      "location": "Cambridge, UK",
+      "salary": "$70,000 - $100,000",
+      "jobType": "Full-time",
+      "description": "Design and develop hardware components for Raspberry Pi devices.",
+      "requirements": [
+        "Electronics engineering background",
+        "Circuit design skills",
+        "Prototyping experience",
+        "Problem-solving skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-092",
+      "title": "Software Engineer",
+      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "location": "Cambridge, UK",
+      "salary": "$65,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Develop firmware and software for Raspberry Pi devices.",
+      "requirements": [
+        "Programming experience (Python, C/C++)",
+        "Embedded systems knowledge",
+        "Problem-solving skills",
+        "Team collaboration",
+        "Analytical thinking"
+      ]
+    },
+    {
+      "id": "job-093",
+      "title": "Product Manager",
+      "bannerImage": "/src/assets/productManager.png",
+      "location": "Cambridge, UK",
+      "salary": "$80,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Lead development and launch of new Raspberry Pi products.",
+      "requirements": [
+        "Product management experience",
+        "Communication skills",
+        "Strategic thinking",
+        "Leadership ability",
+        "Teamwork"
+      ]
+    },
+    {
+      "id": "job-094",
+      "title": "Embedded Systems Engineer",
+      "bannerImage": "/src/assets/embededSystemDesigner.png",
+      "location": "Cambridge, UK",
+      "salary": "$70,000 - $105,000",
+      "jobType": "Full-time",
+      "description": "Develop embedded software for Raspberry Pi hardware.",
+      "requirements": [
+        "Embedded programming knowledge",
+        "C/C++ experience",
+        "Hardware interfacing skills",
+        "Problem-solving mindset",
+        "Teamwork"
+      ]
+    },
+    {
+      "id": "job-095",
+      "title": "Quality Assurance Engineer",
+      "bannerImage": "/src/assets/qaEngineer.jpg",
+      "location": "Cambridge, UK",
+      "salary": "$60,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Ensure the quality and reliability of Raspberry Pi products.",
+      "requirements": [
+        "Testing experience",
+        "Attention to detail",
+        "Problem-solving skills",
+        "Team collaboration",
+        "Technical documentation skills"
+      ]
+    },
+    {
+      "id": "job-096",
+      "title": "Technical Support Specialist",
+      "bannerImage": "/src/assets/techSupport.webp",
+      "location": "Remote / UK",
+      "salary": "$50,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Provide technical support for Raspberry Pi users.",
+      "requirements": [
+        "Knowledge of Raspberry Pi hardware/software",
+        "Customer service skills",
+        "Problem-solving mindset",
+        "Communication skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-097",
+      "title": "Electronics Designer",
+      "bannerImage": "/src/assets/electronicDesigner.png",
+      "location": "Cambridge, UK",
+      "salary": "$65,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Design PCBs and electronic circuits for Raspberry Pi products.",
+      "requirements": [
+        "PCB design experience",
+        "Circuit simulation skills",
+        "Attention to detail",
+        "Problem-solving skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-098",
+      "title": "Firmware Developer",
+      "bannerImage": "/src/assets/frimwareDeveloper.jpg",
+      "location": "Cambridge, UK",
+      "salary": "$65,000 - $100,000",
+      "jobType": "Full-time",
+      "description": "Develop low-level firmware for Raspberry Pi hardware.",
+      "requirements": [
+        "C/C++ experience",
+        "Embedded systems knowledge",
+        "Hardware debugging skills",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-099",
+      "title": "Marketing Manager",
+      "bannerImage": "/src/assets/marketingManager.webp",
+      "location": "Cambridge, UK",
+      "salary": "$70,000 - $110,000",
+      "jobType": "Full-time",
+      "description": "Develop marketing strategies for Raspberry Pi products globally.",
+      "requirements": [
+        "Marketing experience",
+        "Brand strategy knowledge",
+        "Creative thinking",
+        "Communication skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-100",
+      "title": "Community Manager",
+      "bannerImage": "/src/assets/communityManager.webp",
+      "location": "Remote / UK",
+      "salary": "$55,000 - $80,000",
+      "jobType": "Full-time",
+      "description": "Manage the Raspberry Pi community and support developers.",
+      "requirements": [
+        "Community engagement experience",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Social media management",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-101",
+      "title": "Software QA Tester",
+      "bannerImage": "/src/assets/softQuality.png",
+      "location": "Cambridge, UK",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Test software applications and Raspberry Pi OS builds.",
+      "requirements": [
+        "QA testing experience",
+        "Attention to detail",
+        "Problem-solving skills",
+        "Team collaboration",
+        "Documentation skills"
+      ]
+    },
+    {
+      "id": "job-102",
+      "title": "Sales Executive",
+      "bannerImage": "/src/assets/salesExecutive.webp",
+      "location": "Cambridge, UK",
+      "salary": "$60,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Drive sales for Raspberry Pi products and solutions.",
+      "requirements": [
+        "Sales experience",
+        "Communication skills",
+        "Negotiation skills",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-103",
+      "title": "Research Engineer",
+      "bannerImage": "/src/assets/ra.png",
+      "location": "Cambridge, UK",
+      "salary": "$70,000 - $105,000",
+      "jobType": "Full-time",
+      "description": "Conduct research and prototyping for next-gen Raspberry Pi devices.",
+      "requirements": [
+        "Engineering or electronics background",
+        "Prototyping skills",
+        "Problem-solving mindset",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-104",
+      "title": "Content Creator",
+      "bannerImage": "/src/assets/contentCreator.jpg",
+      "location": "Remote / UK",
+      "salary": "$50,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Create tutorials, guides, and content for the Raspberry Pi community.",
+      "requirements": [
+        "Content creation experience",
+        "Strong writing skills",
+        "Video editing knowledge",
+        "Communication skills",
+        "Team collaboration"
+      ]
+    }
+  ]
+},
+{
+  "id": "15",
+  "name": "Agricultural-Hub",
+  "logo": "/src/assets/agri-hub.png",
+  "location": "Winnipeg, Manitoba, Canada",
+  "website": "https://www.agricultural-hub.com",
+  "industry": "Agriculture & Farming",
+  "jobs": [
+    {
+      "id": "job-105",
+      "title": "Agronomist",
+      "bannerImage": "/src/assets/agornomis.avif",
+      "location": "Winnipeg, Canada",
+      "salary": "$60,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Provide expertise on crop production and soil management.",
+      "requirements": [
+        "Degree in Agronomy or Agriculture",
+        "Knowledge of crop management",
+        "Analytical skills",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-106",
+      "title": "Farm Operations Manager",
+      "bannerImage": "/src/assets/farmManager.jpg",
+      "location": "Winnipeg, Canada",
+      "salary": "$70,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Oversee daily farm operations and manage staff.",
+      "requirements": [
+        "Experience in farm management",
+        "Leadership skills",
+        "Problem-solving mindset",
+        "Organizational skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-107",
+      "title": "Agricultural Engineer",
+      "bannerImage": "/src/assets/agricultural_engineer.jpg",
+      "location": "Winnipeg, Canada",
+      "salary": "$75,000 - $110,000",
+      "jobType": "Full-time",
+      "description": "Design and maintain agricultural machinery and systems.",
+      "requirements": [
+        "Engineering degree",
+        "Mechanical knowledge",
+        "Problem-solving skills",
+        "Analytical mindset",
+        "Teamwork"
+      ]
+    },
+    {
+      "id": "job-108",
+      "title": "Soil Scientist",
+      "bannerImage": "/src/assets/soil.avif",
+      "location": "Winnipeg, Canada",
+      "salary": "$65,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Analyze and manage soil quality for optimal crop production.",
+      "requirements": [
+        "Degree in Soil Science or Agriculture",
+        "Analytical skills",
+        "Fieldwork experience",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-109",
+      "title": "Agri-Tech Specialist",
+      "bannerImage": "/src/assets/agriTech.png",
+      "location": "Winnipeg, Canada",
+      "salary": "$70,000 - $100,000",
+      "jobType": "Full-time",
+      "description": "Implement and maintain smart farming technologies.",
+      "requirements": [
+        "Knowledge of agricultural technology",
+        "Problem-solving mindset",
+        "Technical skills",
+        "Innovation mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-110",
+      "title": "Horticulturist",
+      "bannerImage": "/src/assets/horticulturist.jpg",
+      "location": "Winnipeg, Canada",
+      "salary": "$55,000 - $80,000",
+      "jobType": "Full-time",
+      "description": "Manage and optimize plant cultivation and garden projects.",
+      "requirements": [
+        "Degree in Horticulture or related field",
+        "Plant care expertise",
+        "Attention to detail",
+        "Analytical skills",
+        "Teamwork"
+      ]
+    },
+    {
+      "id": "job-111",
+      "title": "Supply Chain Coordinator",
+      "bannerImage": "/src/assets/supplyChain.avif",
+      "location": "Winnipeg, Canada",
+      "salary": "$60,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Coordinate logistics and supply chain operations for agricultural products.",
+      "requirements": [
+        "Supply chain knowledge",
+        "Organizational skills",
+        "Problem-solving mindset",
+        "Communication skills",
+        "Team collaboration"
+      ]
+    }
+  ]
+},
+{
+  "id": "16",
+  "name": "Micro-Bots",
+  "logo": "/src/assets/microbot.png",
+  "location": "San Francisco, California, USA",
+  "website": "https://www.micro-bots.com",
+  "industry": "Robotics & Technology",
+  "jobs": [
+    {
+      "id": "job-112",
+      "title": "Robotics Engineer",
+      "bannerImage": "/src/assets/roboticTech.avif",
+      "location": "San Francisco, USA",
+      "salary": "$90,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Design and develop micro-robotic systems and components.",
+      "requirements": [
+        "Mechanical/Electrical Engineering degree",
+        "Experience with robotics design",
+        "CAD & simulation skills",
+        "Problem-solving skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-113",
+      "title": "Software Developer",
+      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "location": "San Francisco, USA",
+      "salary": "$80,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Develop software to control and program micro-bots.",
+      "requirements": [
+        "Proficient in C++, Python, or ROS",
+        "Embedded systems experience",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Analytical thinking"
+      ]
+    },
+    {
+      "id": "job-114",
+      "title": "AI & Machine Learning Engineer",
+      "bannerImage": "/src/assets/aiEngineer.jpg",
+      "location": "San Francisco, USA",
+      "salary": "$110,000 - $150,000",
+      "jobType": "Full-time",
+      "description": "Develop AI algorithms for autonomous micro-bots.",
+      "requirements": [
+        "Experience in AI/ML",
+        "Python, TensorFlow, or PyTorch skills",
+        "Problem-solving skills",
+        "Team collaboration",
+        "Analytical thinking"
+      ]
+    },
+    {
+      "id": "job-115",
+      "title": "Electronics Engineer",
+      "bannerImage": "/src/assets/elecEngineer.jpg",
+      "location": "San Francisco, USA",
+      "salary": "$85,000 - $125,000",
+      "jobType": "Full-time",
+      "description": "Design and maintain circuits and electronic systems for micro-bots.",
+      "requirements": [
+        "Electronics engineering background",
+        "PCB design experience",
+        "Problem-solving mindset",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-116",
+      "title": "Mechatronics Engineer",
+      "bannerImage": "/src/assets/mechaTronic.webp",
+      "location": "San Francisco, USA",
+      "salary": "$90,000 - $130,000",
+      "jobType": "Full-time",
+      "description": "Integrate mechanical, electronic, and software systems for micro-bots.",
+      "requirements": [
+        "Experience in mechatronics",
+        "CAD & mechanical design skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Analytical skills"
+      ]
+    },
+    {
+      "id": "job-117",
+      "title": "Robotics Technician",
+      "bannerImage": "/src/assets/roboticTech.avif",
+      "location": "San Francisco, USA",
+      "salary": "$60,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Assist in building, testing, and maintaining micro-bots.",
+      "requirements": [
+        "Hands-on electronics/mechanical experience",
+        "Troubleshooting skills",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-118",
+      "title": "Project Manager",
+      "bannerImage": "/src/assets/productManager.png",
+      "location": "San Francisco, USA",
+      "salary": "$95,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Manage projects for micro-bot development and deployment.",
+      "requirements": [
+        "Project management experience",
+        "Agile methodology knowledge",
+        "Communication skills",
+        "Leadership ability",
+        "Problem-solving skills"
+      ]
+    },
+    {
+      "id": "job-119",
+      "title": "Technical Writer",
+      "bannerImage": "/src/assets/techWriter.webp",
+      "location": "San Francisco, USA",
+      "salary": "$55,000 - $80,000",
+      "jobType": "Full-time",
+      "description": "Create documentation and user manuals for micro-bots.",
+      "requirements": [
+        "Technical writing experience",
+        "Understanding of robotics systems",
+        "Clear communication",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-120",
+      "title": "Marketing Specialist",
+      "bannerImage": "/src/assets/marketingExecutive.webp",
+      "location": "San Francisco, USA",
+      "salary": "$65,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Develop marketing campaigns for Micro-Bots products.",
+      "requirements": [
+        "Marketing experience",
+        "Creative thinking",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    }
+  ]
+},
+{
+  "id": "17",
+  "name": "Technica",
+  "logo": "/src/assets/technica.png",
+  "location": "Berlin, Germany",
+  "website": "https://www.technica.com",
+  "industry": "Technology & Engineering",
+  "jobs": [
+    {
+      "id": "job-121",
+      "title": "Software Engineer",
+      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "location": "Berlin, Germany",
+      "salary": "$70,000 - $110,000",
+      "jobType": "Full-time",
+      "description": "Develop and maintain software solutions for Technica clients.",
+      "requirements": [
+        "Proficient in Python, Java, or C++",
+        "Experience with web or desktop applications",
+        "Problem-solving skills",
+        "Team collaboration",
+        "Analytical thinking"
+      ]
+    },
+    {
+      "id": "job-122",
+      "title": "Hardware Engineer",
+      "bannerImage": "/src/assets/HardwareEngineer.jpg",
+      "location": "Berlin, Germany",
+      "salary": "$75,000 - $115,000",
+      "jobType": "Full-time",
+      "description": "Design and develop electronic hardware for innovative projects.",
+      "requirements": [
+        "Electronics engineering background",
+        "PCB design and prototyping skills",
+        "Problem-solving mindset",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-123",
+      "title": "Project Manager",
+      "bannerImage": "/src/assets/productManager.png",
+      "location": "Berlin, Germany",
+      "salary": "$85,000 - $130,000",
+      "jobType": "Full-time",
+      "description": "Lead and manage technology projects from concept to delivery.",
+      "requirements": [
+        "Project management experience",
+        "Agile methodology knowledge",
+        "Communication skills",
+        "Leadership ability",
+        "Problem-solving skills"
+      ]
+    }
+  ]
+},
+{
+  "id": "18",
+  "name": "Arena",
+  "logo": "/src/assets/arena.png",
+  "location": "Los Angeles, California, USA",
+  "website": "https://www.arena.com",
+  "industry": "Sports & Technology",
+  "jobs": [
+    {
+      "id": "job-124",
+      "title": "Sports Technology Engineer",
+      "bannerImage": "/src/assets/sportsEngineer.webp",
+      "location": "Los Angeles, USA",
+      "salary": "$75,000 - $115,000",
+      "jobType": "Full-time",
+      "description": "Develop technology solutions for sports performance and analytics.",
+      "requirements": [
+        "Engineering degree",
+        "Experience with sports tech or wearable devices",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Analytical thinking"
+      ]
+    },
+    {
+      "id": "job-125",
+      "title": "Software Developer",
+      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "location": "Los Angeles, USA",
+      "salary": "$70,000 - $105,000",
+      "jobType": "Full-time",
+      "description": "Develop software applications for sports analytics platforms.",
+      "requirements": [
+        "Proficient in Python, JavaScript, or Java",
+        "Web and mobile app experience",
+        "Problem-solving skills",
+        "Team collaboration",
+        "Analytical thinking"
+      ]
+    },
+    {
+      "id": "job-126",
+      "title": "Data Analyst",
+      "bannerImage": "/src/assets/dataanalyst.avif",
+      "location": "Los Angeles, USA",
+      "salary": "$65,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Analyze sports data to generate insights for athletes and teams.",
+      "requirements": [
+        "Experience with data analytics",
+        "Python, R, or SQL skills",
+        "Analytical mindset",
+        "Problem-solving skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-127",
+      "title": "Project Manager",
+      "bannerImage": "/src/assets/productManager.png",
+      "location": "Los Angeles, USA",
+      "salary": "$80,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Manage sports tech projects from conception to deployment.",
+      "requirements": [
+        "Project management experience",
+        "Agile methodology knowledge",
+        "Leadership skills",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    }
+  ]
+},
+{
+  "id": "19",
+  "name": "Tyrocraft",
+  "logo": "/src/assets/tirocraft.png",
+  "location": "Austin, Texas, USA",
+  "website": "https://www.tyrocraft.com",
+  "industry": "Crafting & Technology",
+  "jobs": [
+    {
+      "id": "job-128",
+      "title": "Craft Product Designer",
+      "bannerImage": "/src/assets/craft.webp",
+      "location": "Austin, USA",
+      "salary": "$60,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Design innovative craft products combining traditional and modern techniques.",
+      "requirements": [
+        "Experience in product design",
+        "Creativity and innovation",
+        "Knowledge of crafting materials",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-129",
+      "title": "Software Developer",
+      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "location": "Austin, USA",
+      "salary": "$65,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Develop software tools for craft management and online sales.",
+      "requirements": [
+        "Proficient in JavaScript, Python, or C#",
+        "Experience with web or mobile apps",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Analytical thinking"
+      ]
+    },
+    {
+      "id": "job-130",
+      "title": "Marketing Specialist",
+      "bannerImage": "/src/assets/marketingExecutive.webp",
+      "location": "Austin, USA",
+      "salary": "$55,000 - $80,000",
+      "jobType": "Full-time",
+      "description": "Create and execute marketing campaigns to promote Tyrocraft products.",
+      "requirements": [
+        "Experience in marketing",
+        "Creative thinking",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-131",
+      "title": "Operations Manager",
+      "bannerImage": "/src/assets/operation.png",
+      "location": "Austin, USA",
+      "salary": "$70,000 - $100,000",
+      "jobType": "Full-time",
+      "description": "Oversee daily operations and production workflows.",
+      "requirements": [
+        "Experience in operations management",
+        "Leadership skills",
+        "Organizational skills",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-132",
+      "title": "Quality Assurance Specialist",
+      "bannerImage": "/src/assets/qaEngineer.jpg",
+      "location": "Austin, USA",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Ensure the quality and consistency of craft products.",
+      "requirements": [
+        "Experience in quality assurance",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Documentation skills"
+      ]
+    },
+    {
+      "id": "job-133",
+      "title": "Supply Chain Coordinator",
+      "bannerImage": "/src/assets/supplyChain.avif",
+      "location": "Austin, USA",
+      "salary": "$60,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Manage logistics and inventory for craft materials and products.",
+      "requirements": [
+        "Supply chain knowledge",
+        "Organizational skills",
+        "Problem-solving mindset",
+        "Communication skills",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-134",
+      "title": "Customer Support Specialist",
+      "bannerImage": "/src/assets/customerServiece.png",
+      "location": "Remote / USA",
+      "salary": "$50,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Assist customers with product inquiries, orders, and technical support.",
+      "requirements": [
+        "Customer service experience",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Patience and empathy",
+        "Team collaboration"
+      ]
+    }
+  ]
+},
+{
+  "id": "20",
+  "name": "Technician",
+  "logo": "/src/assets/technician.jpg",
+  "location": "New York, USA",
+  "website": "https://www.technician.com",
+  "industry": "Engineering & Technology",
+  "jobs": [
+    {
+      "id": "job-135",
+      "title": "Electrical Technician",
+      "bannerImage": "/src/assets/elecEngineer.jpg",
+      "location": "New York, USA",
+      "salary": "$60,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Maintain and repair electrical systems in industrial setups.",
+      "requirements": [
+        "Electrical engineering knowledge",
+        "Troubleshooting skills",
+        "Problem-solving mindset",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-136",
+      "title": "Mechanical Technician",
+      "bannerImage": "/src/assets/mechaTech.avif",
+      "location": "New York, USA",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Maintain and repair mechanical systems and machinery.",
+      "requirements": [
+        "Mechanical engineering knowledge",
+        "Hands-on experience with machines",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-137",
+      "title": "Software Technician",
+      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "location": "New York, USA",
+      "salary": "$65,000 - $100,000",
+      "jobType": "Full-time",
+      "description": "Install, configure, and maintain software systems.",
+      "requirements": [
+        "Experience with software installation and maintenance",
+        "Problem-solving mindset",
+        "Communication skills",
+        "Analytical thinking",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-138",
+      "title": "Network Technician",
+      "bannerImage": "/src/assets/netTech.jpg",
+      "location": "New York, USA",
+      "salary": "$70,000 - $105,000",
+      "jobType": "Full-time",
+      "description": "Maintain and troubleshoot network infrastructure.",
+      "requirements": [
+        "Networking knowledge",
+        "Troubleshooting skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-139",
+      "title": "Automation Technician",
+      "bannerImage": "/src/assets/automation.avif",
+      "location": "New York, USA",
+      "salary": "$75,000 - $115,000",
+      "jobType": "Full-time",
+      "description": "Install and maintain automated machinery and robotics.",
+      "requirements": [
+        "Automation knowledge",
+        "Mechanical and electrical experience",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-140",
+      "title": "Maintenance Technician",
+      "bannerImage": "/src/assets/maintainanceTech.jpg",
+      "location": "New York, USA",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Perform regular maintenance on equipment and systems.",
+      "requirements": [
+        "Maintenance experience",
+        "Problem-solving mindset",
+        "Attention to detail",
+        "Team collaboration",
+        "Technical knowledge"
+      ]
+    },
+    {
+      "id": "job-141",
+      "title": "Field Service Technician",
+      "bannerImage": "/src/assets/fieldTech.webp",
+      "location": "New York, USA",
+      "salary": "$60,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Provide on-site support for clients' technical issues.",
+      "requirements": [
+        "Field service experience",
+        "Problem-solving skills",
+        "Communication skills",
+        "Technical knowledge",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-142",
+      "title": "Instrumentation Technician",
+      "bannerImage": "/src/assets/instruTech.webp",
+      "location": "New York, USA",
+      "salary": "$65,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Calibrate and maintain industrial instruments.",
+      "requirements": [
+        "Instrumentation experience",
+        "Problem-solving skills",
+        "Attention to detail",
+        "Team collaboration",
+        "Analytical skills"
+      ]
+    },
+    {
+      "id": "job-143",
+      "title": "Control Systems Technician",
+      "bannerImage": "/src/assets/cntrolTech.avif",
+      "location": "New York, USA",
+      "salary": "$70,000 - $110,000",
+      "jobType": "Full-time",
+      "description": "Maintain and troubleshoot control systems in industrial environments.",
+      "requirements": [
+        "Control systems knowledge",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail",
+        "Technical knowledge"
+      ]
+    },
+    {
+      "id": "job-144",
+      "title": "HVAC Technician",
+      "bannerImage": "/src/assets/hvac.jpg",
+      "location": "New York, USA",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Install and maintain heating, ventilation, and air conditioning systems.",
+      "requirements": [
+        "HVAC knowledge",
+        "Hands-on experience",
+        "Problem-solving skills",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-145",
+      "title": "Electronics Technician",
+      "bannerImage": "/src/assets/elecEngineer.jpg",
+      "location": "New York, USA",
+      "salary": "$60,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Assemble, test, and repair electronic equipment.",
+      "requirements": [
+        "Electronics knowledge",
+        "Problem-solving mindset",
+        "Attention to detail",
+        "Team collaboration",
+        "Technical skills"
+      ]
+    },
+    {
+      "id": "job-146",
+      "title": "Mechanical Assembly Technician",
+      "bannerImage": "/src/assets/mechaservieceTech.webp",
+      "location": "New York, USA",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Assemble mechanical components for equipment and machinery.",
+      "requirements": [
+        "Mechanical knowledge",
+        "Hands-on assembly experience",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-147",
+      "title": "Calibration Technician",
+      "bannerImage": "/src/assets/caliTech.webp",
+      "location": "New York, USA",
+      "salary": "$60,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Calibrate machinery and instruments to ensure precision.",
+      "requirements": [
+        "Calibration experience",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Technical knowledge"
+      ]
+    },
+    {
+      "id": "job-148",
+      "title": "Robotics Technician",
+      "bannerImage": "/src/assets/roboticTech.avif",
+      "location": "New York, USA",
+      "salary": "$70,000 - $105,000",
+      "jobType": "Full-time",
+      "description": "Maintain and program robotic systems.",
+      "requirements": [
+        "Robotics knowledge",
+        "Problem-solving skills",
+        "Hands-on experience",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-149",
+      "title": "Automation Specialist",
+      "bannerImage": "/src/assets/automation.avif",
+      "location": "New York, USA",
+      "salary": "$75,000 - $115,000",
+      "jobType": "Full-time",
+      "description": "Implement automation solutions to improve industrial processes.",
+      "requirements": [
+        "Automation experience",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Analytical thinking",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-150",
+      "title": "Field Technician",
+      "bannerImage": "/src/assets/fieldTech.webp",
+      "location": "New York, USA",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Provide on-site technical support for clients.",
+      "requirements": [
+        "Field service experience",
+        "Problem-solving mindset",
+        "Communication skills",
+        "Team collaboration",
+        "Technical knowledge"
+      ]
+    },
+    {
+      "id": "job-151",
+      "title": "Maintenance Engineer",
+      "bannerImage": "/src/assets/maintainanceTech.jpg",
+      "location": "New York, USA",
+      "salary": "$70,000 - $110,000",
+      "jobType": "Full-time",
+      "description": "Maintain and troubleshoot industrial equipment.",
+      "requirements": [
+        "Mechanical/Electrical experience",
+        "Problem-solving skills",
+        "Team collaboration",
+        "Attention to detail",
+        "Technical knowledge"
+      ]
+    },
+    {
+      "id": "job-152",
+      "title": "Test Technician",
+      "bannerImage": "/src/assets/testTech.webp",
+      "location": "New York, USA",
+      "salary": "$60,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Test and validate equipment and systems.",
+      "requirements": [
+        "Testing experience",
+        "Problem-solving skills",
+        "Attention to detail",
+        "Team collaboration",
+        "Technical knowledge"
+      ]
+    },
+    {
+      "id": "job-153",
+      "title": "Instrumentation Engineer",
+      "bannerImage": "/src/assets/instruTech.webp",
+      "location": "New York, USA",
+      "salary": "$75,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Maintain and calibrate instrumentation for industrial systems.",
+      "requirements": [
+        "Instrumentation knowledge",
+        "Problem-solving skills",
+        "Analytical thinking",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-154",
+      "title": "Electro-Mechanical Technician",
+      "bannerImage": "/src/assets/electroMecha.jpg",
+      "location": "New York, USA",
+      "salary": "$70,000 - $105,000",
+      "jobType": "Full-time",
+      "description": "Work on both electrical and mechanical components of equipment.",
+      "requirements": [
+        "Electro-mechanical experience",
+        "Problem-solving skills",
+        "Hands-on experience",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-155",
+      "title": "PLC Technician",
+      "bannerImage": "/src/assets/PlcTech.png",
+      "location": "New York, USA",
+      "salary": "$70,000 - $110,000",
+      "jobType": "Full-time",
+      "description": "Program and maintain PLC systems in industrial setups.",
+      "requirements": [
+        "PLC programming knowledge",
+        "Problem-solving skills",
+        "Team collaboration",
+        "Attention to detail",
+        "Technical expertise"
+      ]
+    }
+  ]
+},
+{
+  "id": "21",
+  "name": "Mechanica",
+  "logo": "/src/assets/mechanica.png",
+  "location": "Detroit, Michigan, USA",
+  "website": "https://www.mechanica.com",
+  "industry": "Mechanical Engineering & Manufacturing",
+  "jobs": [
+    {
+      "id": "job-156",
+      "title": "Mechanical Design Engineer",
+      "bannerImage": "/src/assets/MechanicalDesign.jpg",
+      "location": "Detroit, USA",
+      "salary": "$80,000 - $115,000",
+      "jobType": "Full-time",
+      "description": "Design mechanical components and systems for manufacturing applications.",
+      "requirements": [
+        "Mechanical engineering degree",
+        "CAD design experience",
+        "Problem-solving skills",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-157",
+      "title": "Manufacturing Technician",
+      "bannerImage": "/src/assets/manufacEngineer.jpg",
+      "location": "Detroit, USA",
+      "salary": "$55,000 - $80,000",
+      "jobType": "Full-time",
+      "description": "Support manufacturing processes and maintain production equipment.",
+      "requirements": [
+        "Hands-on mechanical experience",
+        "Troubleshooting skills",
+        "Team collaboration",
+        "Problem-solving mindset",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-158",
+      "title": "Quality Control Inspector",
+      "bannerImage": "/src/assets/qcInspector.webp",
+      "location": "Detroit, USA",
+      "salary": "$50,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Perform inspections on manufactured parts to ensure quality standards.",
+      "requirements": [
+        "Inspection experience",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Reporting skills"
+      ]
+    },
+    {
+      "id": "job-159",
+      "title": "Maintenance Engineer",
+      "bannerImage": "/src/assets/maintainanceTech.jpg",
+      "location": "Detroit, USA",
+      "salary": "$60,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Maintain and troubleshoot mechanical systems and production equipment.",
+      "requirements": [
+        "Mechanical knowledge",
+        "Troubleshooting skills",
+        "Team collaboration",
+        "Problem-solving mindset",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-160",
+      "title": "Industrial Engineer",
+      "bannerImage": "/src/assets/industryEngineer.jpg",
+      "location": "Detroit, USA",
+      "salary": "$75,000 - $110,000",
+      "jobType": "Full-time",
+      "description": "Optimize manufacturing processes for efficiency and quality.",
+      "requirements": [
+        "Industrial engineering background",
+        "Process improvement experience",
+        "Analytical thinking",
+        "Team collaboration",
+        "Problem-solving skills"
+      ]
+    },
+    {
+      "id": "job-161",
+      "title": "CAD Technician",
+      "bannerImage": "/src/assets/cadTech.jpg",
+      "location": "Detroit, USA",
+      "salary": "$55,000 - $80,000",
+      "jobType": "Full-time",
+      "description": "Create and update CAD drawings for mechanical designs.",
+      "requirements": [
+        "CAD software proficiency",
+        "Attention to detail",
+        "Mechanical understanding",
+        "Team collaboration",
+        "Problem-solving mindset"
+      ]
+    },
+    {
+      "id": "job-162",
+      "title": "Production Supervisor",
+      "bannerImage": "/src/assets/productManager.png",
+      "location": "Detroit, USA",
+      "salary": "$70,000 - $105,000",
+      "jobType": "Full-time",
+      "description": "Supervise production lines and ensure efficient operations.",
+      "requirements": [
+        "Leadership experience",
+        "Manufacturing knowledge",
+        "Problem-solving skills",
+        "Team collaboration",
+        "Organizational skills"
+      ]
+    }
+  ]
+},
+{
+  "id": "22",
+  "name": "Agriculture Farm",
+  "logo": "/src/assets/agrifarm.jpg",
+  "location": "Iowa, USA",
+  "website": "https://www.agriculturefarm.com",
+  "industry": "Agriculture & Farming",
+  "jobs": [
+    {
+      "id": "job-163",
+      "title": "Farm Manager",
+      "bannerImage": "/src/assets/farmManager.jpg",
+      "location": "Iowa, USA",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Oversee farm operations and manage farm staff.",
+      "requirements": [
+        "Experience in farm management",
+        "Leadership skills",
+        "Knowledge of crop/livestock management",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-164",
+      "title": "Agricultural Technician",
+      "bannerImage": "/src/assets/agriTech.png",
+      "location": "Iowa, USA",
+      "salary": "$45,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Assist with farm experiments and field data collection.",
+      "requirements": [
+        "Agricultural science background",
+        "Fieldwork experience",
+        "Attention to detail",
+        "Team collaboration",
+        "Problem-solving mindset"
+      ]
+    },
+    {
+      "id": "job-165",
+      "title": "Livestock Specialist",
+      "bannerImage": "/src/assets/liveStock.png",
+      "location": "Iowa, USA",
+      "salary": "$50,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Manage and care for livestock on the farm.",
+      "requirements": [
+        "Livestock management experience",
+        "Animal care knowledge",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-166",
+      "title": "Crop Consultant",
+      "bannerImage": "/src/assets/cropConsultant.webp",
+      "location": "Iowa, USA",
+      "salary": "$55,000 - $80,000",
+      "jobType": "Full-time",
+      "description": "Advise on crop selection, soil management, and planting techniques.",
+      "requirements": [
+        "Agronomy or agricultural science background",
+        "Fieldwork experience",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-167",
+      "title": "Irrigation Specialist",
+      "bannerImage": "/src/assets/irrigation.webp",
+      "location": "Iowa, USA",
+      "salary": "$50,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Manage irrigation systems and water resources for crops.",
+      "requirements": [
+        "Irrigation systems knowledge",
+        "Problem-solving mindset",
+        "Fieldwork experience",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-168",
+      "title": "Farm Equipment Operator",
+      "bannerImage": "/src/assets/farmEquip.jpg",
+      "location": "Iowa, USA",
+      "salary": "$40,000 - $65,000",
+      "jobType": "Full-time",
+      "description": "Operate and maintain farm machinery and equipment.",
+      "requirements": [
+        "Machinery operation experience",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Mechanical knowledge"
+      ]
+    },
+    {
+      "id": "job-169",
+      "title": "Agricultural Research Assistant",
+      "bannerImage": "/src/assets/Ara.webp",
+      "location": "Iowa, USA",
+      "salary": "$45,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Assist in agricultural research and development projects.",
+      "requirements": [
+        "Agricultural science background",
+        "Research skills",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-170",
+      "title": "Pest Control Specialist",
+      "bannerImage": "/src/assets/pestControl.avif",
+      "location": "Iowa, USA",
+      "salary": "$45,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Manage pest control programs to protect crops and livestock.",
+      "requirements": [
+        "Pest management knowledge",
+        "Problem-solving mindset",
+        "Fieldwork experience",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-171",
+      "title": "Farm Technician",
+      "bannerImage": "/src/assets/techFarm.avif",
+      "location": "Iowa, USA",
+      "salary": "$40,000 - $65,000",
+      "jobType": "Full-time",
+      "description": "Assist with daily farm activities including planting, harvesting, and maintenance.",
+      "requirements": [
+        "Hands-on farming experience",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail",
+        "Physical stamina"
+      ]
+    },
+    {
+      "id": "job-172",
+      "title": "Agricultural Equipment Mechanic",
+      "bannerImage": "/src/assets/agriTech.png",
+      "location": "Iowa, USA",
+      "salary": "$50,000 - $80,000",
+      "jobType": "Full-time",
+      "description": "Repair and maintain farm equipment and machinery.",
+      "requirements": [
+        "Mechanical experience",
+        "Problem-solving skills",
+        "Attention to detail",
+        "Team collaboration",
+        "Technical skills"
+      ]
+    }
+  ]
+},
+{
+  "id": "23",
+  "name": "Microdam",
+  "logo": "/src/assets/microdam.png",
+  "location": "Seattle, Washington, USA",
+  "website": "https://www.microdam.com",
+  "industry": "Water Management & Engineering",
+  "jobs": [
+    {
+      "id": "job-173",
+      "title": "Hydraulic Engineer",
+      "bannerImage": "/src/assets/hydorlic.avif",
+      "location": "Seattle, USA",
+      "salary": "$80,000 - $115,000",
+      "jobType": "Full-time",
+      "description": "Design and maintain hydraulic systems for water management projects.",
+      "requirements": [
+        "Hydraulic engineering knowledge",
+        "Problem-solving mindset",
+        "Experience with CAD software",
+        "Team collaboration",
+        "Analytical thinking"
+      ]
+    },
+    {
+      "id": "job-174",
+      "title": "Dam Safety Specialist",
+      "bannerImage": "/src/assets/damSafety.avif",
+      "location": "Seattle, USA",
+      "salary": "$75,000 - $105,000",
+      "jobType": "Full-time",
+      "description": "Monitor and ensure the safety of dam structures and water projects.",
+      "requirements": [
+        "Experience in structural and water safety assessments",
+        "Problem-solving skills",
+        "Attention to detail",
+        "Team collaboration",
+        "Technical expertise"
+      ]
+    }
+  ]
+},
+{
+  "id": "24",
+  "name": "Sask Shop",
+  "logo": "/src/assets/saskshop.png",
+  "location": "Saskatoon, Saskatchewan, Canada",
+  "website": "https://www.saskshop.com",
+  "industry": "Retail & E-commerce",
+  "jobs": [
+    {
+      "id": "job-175",
+      "title": "Store Manager",
+      "bannerImage": "/src/assets/storeManager.webp",
+      "location": "Saskatoon, Canada",
+      "salary": "$50,000 - $80,000",
+      "jobType": "Full-time",
+      "description": "Oversee store operations and manage staff performance.",
+      "requirements": [
+        "Retail management experience",
+        "Leadership skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Organizational skills"
+      ]
+    },
+    {
+      "id": "job-176",
+      "title": "Sales Associate",
+      "bannerImage": "/src/assets/salesAssosiate.avif",
+      "location": "Saskatoon, Canada",
+      "salary": "$35,000 - $50,000",
+      "jobType": "Full-time",
+      "description": "Assist customers with purchases and provide excellent service.",
+      "requirements": [
+        "Customer service skills",
+        "Communication skills",
+        "Team collaboration",
+        "Problem-solving mindset",
+        "Product knowledge"
+      ]
+    },
+    {
+      "id": "job-177",
+      "title": "Inventory Specialist",
+      "bannerImage": "/src/assets/inventrySpecialist.jpg",
+      "location": "Saskatoon, Canada",
+      "salary": "$40,000 - $60,000",
+      "jobType": "Full-time",
+      "description": "Manage inventory, stock levels, and supply orders.",
+      "requirements": [
+        "Inventory management experience",
+        "Attention to detail",
+        "Organizational skills",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-178",
+      "title": "Marketing Coordinator",
+      "bannerImage": "/src/assets/marketingExecutive.webp",
+      "location": "Saskatoon, Canada",
+      "salary": "$45,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Plan and execute marketing campaigns for the store.",
+      "requirements": [
+        "Marketing experience",
+        "Creativity and innovation",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-179",
+      "title": "E-commerce Specialist",
+      "bannerImage": "/src/assets/ecomercSepecialist.png",
+      "location": "Saskatoon, Canada",
+      "salary": "$50,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Manage online store operations and digital sales.",
+      "requirements": [
+        "E-commerce platform experience",
+        "Web and digital marketing knowledge",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Analytical skills"
+      ]
+    },
+    {
+      "id": "job-180",
+      "title": "Customer Support Specialist",
+      "bannerImage": "/src/assets/customerServiece.png",
+      "location": "Saskatoon, Canada",
+      "salary": "$40,000 - $60,000",
+      "jobType": "Full-time",
+      "description": "Handle customer inquiries, complaints, and support tickets.",
+      "requirements": [
+        "Customer service experience",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Patience and empathy"
+      ]
+    },
+    {
+      "id": "job-181",
+      "title": "Visual Merchandiser",
+      "bannerImage": "/src/assets/visualMarchandiser.png",
+      "location": "Saskatoon, Canada",
+      "salary": "$40,000 - $60,000",
+      "jobType": "Full-time",
+      "description": "Design and maintain in-store displays to maximize sales.",
+      "requirements": [
+        "Experience in visual merchandising",
+        "Creativity and design skills",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-182",
+      "title": "Warehouse Supervisor",
+      "bannerImage": "/src/assets/wareHous.webp",
+      "location": "Saskatoon, Canada",
+      "salary": "$45,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Oversee warehouse operations and logistics.",
+      "requirements": [
+        "Warehouse management experience",
+        "Leadership skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Organizational skills"
+      ]
+    },
+    {
+      "id": "job-183",
+      "title": "Procurement Specialist",
+      "bannerImage": "/src/assets/procurement.jpg",
+      "location": "Saskatoon, Canada",
+      "salary": "$50,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Manage purchasing of goods and supplies for the store.",
+      "requirements": [
+        "Procurement experience",
+        "Negotiation skills",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-184",
+      "title": "Accounting Clerk",
+      "bannerImage": "/src/assets/accounting_clerk.jpg",
+      "location": "Saskatoon, Canada",
+      "salary": "$45,000 - $65,000",
+      "jobType": "Full-time",
+      "description": "Manage daily financial transactions and bookkeeping.",
+      "requirements": [
+        "Accounting knowledge",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Organizational skills"
+      ]
+    },
+    {
+      "id": "job-185",
+      "title": "Store Trainer",
+      "bannerImage": "/src/assets/storeTrainer.avif",
+      "location": "Saskatoon, Canada",
+      "salary": "$45,000 - $65,000",
+      "jobType": "Full-time",
+      "description": "Train new store employees on policies, procedures, and sales techniques.",
+      "requirements": [
+        "Training experience",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Patience and leadership"
+      ]
+    }
+  ]
+},
+{
+  "id": "25",
+  "name": "Chinese Mart",
+  "logo": "/src/assets/chinese.png",
+  "location": "Toronto, Ontario, Canada",
+  "website": "https://www.chinesemart.com",
+  "industry": "Retail & Grocery",
+  "jobs": [
+    {
+      "id": "job-186",
+      "title": "Store Manager",
+      "bannerImage": "/src/assets/storeManager.webp",
+      "location": "Toronto, Canada",
+      "salary": "$50,000 - $80,000",
+      "jobType": "Full-time",
+      "description": "Oversee store operations and manage staff performance.",
+      "requirements": [
+        "Retail management experience",
+        "Leadership skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Organizational skills"
+      ]
+    },
+    {
+      "id": "job-187",
+      "title": "Cashier",
+      "bannerImage": "/src/assets/accounting_clerk.jpg",
+      "location": "Toronto, Canada",
+      "salary": "$30,000 - $45,000",
+      "jobType": "Full-time",
+      "description": "Handle transactions and provide excellent customer service.",
+      "requirements": [
+        "Customer service skills",
+        "Attention to detail",
+        "Communication skills",
+        "Team collaboration",
+        "Problem-solving mindset"
+      ]
+    },
+    {
+      "id": "job-188",
+      "title": "Stock Associate",
+      "bannerImage": "/src/assets/stockAssociate.webp",
+      "location": "Toronto, Canada",
+      "salary": "$35,000 - $50,000",
+      "jobType": "Full-time",
+      "description": "Manage inventory and restock shelves as needed.",
+      "requirements": [
+        "Inventory management experience",
+        "Attention to detail",
+        "Physical stamina",
+        "Team collaboration",
+        "Problem-solving mindset"
+      ]
+    },
+    {
+      "id": "job-189",
+      "title": "Marketing Coordinator",
+      "bannerImage": "/src/assets/marketingExecutive.webp",
+      "location": "Toronto, Canada",
+      "salary": "$45,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Plan and execute marketing campaigns for the store.",
+      "requirements": [
+        "Marketing experience",
+        "Creativity and innovation",
+        "Communication skills",
+        "Team collaboration",
+        "Problem-solving mindset"
+      ]
+    },
+    {
+      "id": "job-190",
+      "title": "Customer Service Representative",
+      "bannerImage": "/src/assets/customerServiece.png",
+      "location": "Toronto, Canada",
+      "salary": "$35,000 - $55,000",
+      "jobType": "Full-time",
+      "description": "Assist customers with inquiries and resolve complaints.",
+      "requirements": [
+        "Customer service experience",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Patience and empathy"
+      ]
+    }
+  ]
+},
+{
+  "id": "26",
+  "name": "Ligeria Group",
+  "logo": "/src/assets/ligeria.png",
+  "location": "London, UK",
+  "website": "https://www.ligeriagroup.com",
+  "industry": "Corporate & Consulting",
+  "jobs": [
+    {
+      "id": "job-191",
+      "title": "Business Analyst",
+      "bannerImage": "/src/assets/business_analyst.webp",
+      "location": "London, UK",
+      "salary": "$65,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Analyze business processes and provide recommendations for improvement.",
+      "requirements": [
+        "Business analysis experience",
+        "Analytical skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Communication skills"
+      ]
+    },
+    {
+      "id": "job-192",
+      "title": "Project Manager",
+      "bannerImage": "/src/assets/productManager.png",
+      "location": "London, UK",
+      "salary": "$80,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Lead projects and ensure timely delivery within budget.",
+      "requirements": [
+        "Project management experience",
+        "Leadership skills",
+        "Time management",
+        "Team collaboration",
+        "Problem-solving mindset"
+      ]
+    },
+    {
+      "id": "job-193",
+      "title": "HR Manager",
+      "bannerImage": "/src/assets/hrManager.png",
+      "location": "London, UK",
+      "salary": "$70,000 - $100,000",
+      "jobType": "Full-time",
+      "description": "Manage recruitment, employee relations, and HR policies.",
+      "requirements": [
+        "HR experience",
+        "Communication skills",
+        "Leadership skills",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-194",
+      "title": "Marketing Manager",
+      "bannerImage": "/src/assets/marketingManager.webp",
+      "location": "London, UK",
+      "salary": "$75,000 - $110,000",
+      "jobType": "Full-time",
+      "description": "Plan and execute marketing campaigns to drive brand awareness.",
+      "requirements": [
+        "Marketing experience",
+        "Creativity and innovation",
+        "Leadership skills",
+        "Team collaboration",
+        "Problem-solving mindset"
+      ]
+    },
+    {
+      "id": "job-195",
+      "title": "Sales Executive",
+      "bannerImage": "/src/assets/salesExecutive.webp",
+      "location": "London, UK",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Generate sales leads and manage client accounts.",
+      "requirements": [
+        "Sales experience",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Negotiation skills"
+      ]
+    },
+    {
+      "id": "job-196",
+      "title": "Finance Manager",
+      "bannerImage": "/src/assets/finance_manager.webp",
+      "location": "London, UK",
+      "salary": "$80,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Manage financial planning, reporting, and budgeting.",
+      "requirements": [
+        "Finance experience",
+        "Analytical skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-197",
+      "title": "IT Specialist",
+      "bannerImage": "/src/assets/techSupport.webp",
+      "location": "London, UK",
+      "salary": "$60,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Maintain IT infrastructure and provide technical support.",
+      "requirements": [
+        "IT experience",
+        "Problem-solving skills",
+        "Communication skills",
+        "Team collaboration",
+        "Technical expertise"
+      ]
+    },
+    {
+      "id": "job-198",
+      "title": "Software Engineer",
+      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "location": "London, UK",
+      "salary": "$70,000 - $110,000",
+      "jobType": "Full-time",
+      "description": "Develop and maintain software applications.",
+      "requirements": [
+        "Programming experience",
+        "Problem-solving skills",
+        "Team collaboration",
+        "Analytical skills",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-199",
+      "title": "Data Analyst",
+      "bannerImage": "/src/assets/dataanalyst.avif",
+      "location": "London, UK",
+      "salary": "$60,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Analyze datasets to provide insights and support decision-making.",
+      "requirements": [
+        "Data analysis experience",
+        "Excel and SQL skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-200",
+      "title": "Business Development Manager",
+      "bannerImage": "/src/assets/business_development.png",
+      "location": "London, UK",
+      "salary": "$75,000 - $115,000",
+      "jobType": "Full-time",
+      "description": "Identify growth opportunities and develop business strategies.",
+      "requirements": [
+        "Business development experience",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Communication skills",
+        "Negotiation skills"
+      ]
+    },
+    {
+      "id": "job-201",
+      "title": "Operations Manager",
+      "bannerImage": "/src/assets/operation.png",
+      "location": "London, UK",
+      "salary": "$80,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Oversee day-to-day operations and ensure efficiency.",
+      "requirements": [
+        "Operations management experience",
+        "Leadership skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Organizational skills"
+      ]
+    },
+    {
+      "id": "job-202",
+      "title": "Legal Counsel",
+      "bannerImage": "/src/assets/legal_counsil.avif",
+      "location": "London, UK",
+      "salary": "$90,000 - $140,000",
+      "jobType": "Full-time",
+      "description": "Provide legal advice and ensure compliance with regulations.",
+      "requirements": [
+        "Legal experience",
+        "Problem-solving skills",
+        "Attention to detail",
+        "Team collaboration",
+        "Communication skills"
+      ]
+    },
+    {
+      "id": "job-203",
+      "title": "HR Specialist",
+      "bannerImage": "/src/assets/hrManager.png",
+      "location": "London, UK",
+      "salary": "$60,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Support HR functions including recruitment and employee relations.",
+      "requirements": [
+        "HR experience",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-204",
+      "title": "Content Writer",
+      "bannerImage": "/src/assets/contentWriter.jpg",
+      "location": "London, UK",
+      "salary": "$45,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Create content for marketing, website, and social media.",
+      "requirements": [
+        "Writing experience",
+        "Creativity",
+        "Problem-solving mindset",
+        "Attention to detail",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-205",
+      "title": "Graphic Designer",
+      "bannerImage": "/src/assets/graphicDesigner.jpg",
+      "location": "London, UK",
+      "salary": "$50,000 - $80,000",
+      "jobType": "Full-time",
+      "description": "Design graphics and visuals for marketing campaigns.",
+      "requirements": [
+        "Graphic design experience",
+        "Creativity",
+        "Team collaboration",
+        "Attention to detail",
+        "Problem-solving mindset"
+      ]
+    },
+    {
+      "id": "job-206",
+      "title": "Social Media Manager",
+      "bannerImage": "/src/assets/socialMediaManager.jpg",
+      "location": "London, UK",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Manage social media accounts and online presence.",
+      "requirements": [
+        "Social media experience",
+        "Creativity",
+        "Communication skills",
+        "Team collaboration",
+        "Problem-solving mindset"
+      ]
+    },
+    {
+      "id": "job-207",
+      "title": "PR Specialist",
+      "bannerImage": "/src/assets/prSpecialist.webp",
+      "location": "London, UK",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Manage public relations and communications for the company.",
+      "requirements": [
+        "PR experience",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Creativity"
+      ]
+    },
+    {
+      "id": "job-208",
+      "title": "Supply Chain Manager",
+      "bannerImage": "/src/assets/supplyChain.avif",
+      "location": "London, UK",
+      "salary": "$70,000 - $110,000",
+      "jobType": "Full-time",
+      "description": "Manage logistics, procurement, and supply chain operations.",
+      "requirements": [
+        "Supply chain experience",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Organizational skills",
+        "Analytical thinking"
+      ]
+    },
+    {
+      "id": "job-209",
+      "title": "Data Scientist",
+      "bannerImage": "/src/assets/datascientist.avif",
+      "location": "London, UK",
+      "salary": "$80,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Analyze complex datasets to provide business insights.",
+      "requirements": [
+        "Data science experience",
+        "Programming skills",
+        "Analytical thinking",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-210",
+      "title": "Cybersecurity Specialist",
+      "bannerImage": "/src/assets/cyberExpert.jpg",
+      "location": "London, UK",
+      "salary": "$75,000 - $115,000",
+      "jobType": "Full-time",
+      "description": "Protect company systems and data from cyber threats.",
+      "requirements": [
+        "Cybersecurity experience",
+        "Problem-solving skills",
+        "Attention to detail",
+        "Team collaboration",
+        "Technical expertise"
+      ]
+    },
+    {
+      "id": "job-211",
+      "title": "Office Administrator",
+      "bannerImage": "/src/assets/adminoff.png",
+      "location": "London, UK",
+      "salary": "$45,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Manage daily office operations and administrative tasks.",
+      "requirements": [
+        "Office administration experience",
+        "Organizational skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-212",
+      "title": "Accountant",
+      "bannerImage": "/src/assets/accounting_clerk.jpg",
+      "location": "London, UK",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Manage company financial records and reporting.",
+      "requirements": [
+        "Accounting experience",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Organizational skills"
+      ]
+    },
+    {
+      "id": "job-213",
+      "title": "Legal Assistant",
+      "bannerImage": "/src/assets/legal_counsil.avif",
+      "location": "London, UK",
+      "salary": "$50,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Assist legal team with documentation and compliance tasks.",
+      "requirements": [
+        "Legal administrative experience",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Organizational skills"
+      ]
+    },
+    {
+      "id": "job-214",
+      "title": "Recruitment Specialist",
+      "bannerImage": "/src/assets/recruitMent.png",
+      "location": "London, UK",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Manage recruitment process and candidate onboarding.",
+      "requirements": [
+        "Recruitment experience",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Organizational skills"
+      ]
+    },
+    {
+      "id": "job-215",
+      "title": "Customer Success Manager",
+      "bannerImage": "/src/assets/customerServiece.png",
+      "location": "London, UK",
+      "salary": "$60,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Ensure customer satisfaction and long-term relationships.",
+      "requirements": [
+        "Customer success experience",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-216",
+      "title": "UX/UI Designer",
+      "bannerImage": "/src/assets/uiux.webp",
+      "location": "London, UK",
+      "salary": "$65,000 - $100,000",
+      "jobType": "Full-time",
+      "description": "Design user interfaces and experiences for company products.",
+      "requirements": [
+        "UX/UI design experience",
+        "Creativity",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-217",
+      "title": "Software Tester",
+      "bannerImage": "/src/assets/softTest.png",
+      "location": "London, UK",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Test software applications for bugs and usability issues.",
+      "requirements": [
+        "Software testing experience",
+        "Problem-solving mindset",
+        "Attention to detail",
+        "Team collaboration",
+        "Technical knowledge"
+      ]
+    },
+    {
+      "id": "job-218",
+      "title": "Operations Analyst",
+      "bannerImage": "/src/assets/operation.png",
+      "location": "London, UK",
+      "salary": "$60,000 - $90,000",
+      "jobType": "Full-time",
+      "description": "Analyze operations data to improve efficiency.",
+      "requirements": [
+        "Operations analysis experience",
+        "Analytical skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-219",
+      "title": "Technical Support Engineer",
+      "bannerImage": "/src/assets/techSupport.webp",
+      "location": "London, UK",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Provide technical support and troubleshooting for clients.",
+      "requirements": [
+        "Technical support experience",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail",
+        "Communication skills"
+      ]
+    },
+    {
+      "id": "job-220",
+      "title": "Logistics Coordinator",
+      "bannerImage": "/src/assets/logistics.jpg",
+      "location": "London, UK",
+      "salary": "$50,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Coordinate logistics and transportation for company operations.",
+      "requirements": [
+        "Logistics experience",
+        "Organizational skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-221",
+      "title": "Procurement Manager",
+      "bannerImage": "/src/assets/procurement.jpg",
+      "location": "London, UK",
+      "salary": "$70,000 - $110,000",
+      "jobType": "Full-time",
+      "description": "Manage procurement of goods and services for the company.",
+      "requirements": [
+        "Procurement experience",
+        "Negotiation skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-222",
+      "title": "Event Manager",
+      "bannerImage": "/src/assets/eventManager.avif",
+      "location": "London, UK",
+      "salary": "$60,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Plan and manage corporate events and conferences.",
+      "requirements": [
+        "Event management experience",
+        "Organizational skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-223",
+      "title": "Research Analyst",
+      "bannerImage": "/src/assets/researchAnalyst.jpg",
+      "location": "London, UK",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Conduct research and provide insights for business strategy.",
+      "requirements": [
+        "Research experience",
+        "Analytical skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-224",
+      "title": "Content Strategist",
+      "bannerImage": "/src/assets/contentSpecialist.png",
+      "location": "London, UK",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Develop content strategy for marketing and communications.",
+      "requirements": [
+        "Content strategy experience",
+        "Creativity",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-225",
+      "title": "Financial Analyst",
+      "bannerImage": "/src/assets/finance_manager.webp",
+      "location": "London, UK",
+      "salary": "$65,000 - $100,000",
+      "jobType": "Full-time",
+      "description": "Analyze financial data and support decision-making.",
+      "requirements": [
+        "Financial analysis experience",
+        "Analytical skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-226",
+      "title": "Operations Coordinator",
+      "bannerImage": "/src/assets/operation.png",
+      "location": "London, UK",
+      "salary": "$50,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Coordinate operational tasks and support management.",
+      "requirements": [
+        "Operations experience",
+        "Organizational skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    },
+    {
+      "id": "job-227",
+      "title": "Product Manager",
+      "bannerImage": "/src/assets/productManager.png",
+      "location": "London, UK",
+      "salary": "$75,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Oversee product development and lifecycle management.",
+      "requirements": [
+        "Product management experience",
+        "Leadership skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Analytical skills"
+      ]
+    },
+    {
+      "id": "job-228",
+      "title": "Strategy Consultant",
+      "bannerImage": "/src/assets/marketingSrategist.avif",
+      "location": "London, UK",
+      "salary": "$80,000 - $130,000",
+      "jobType": "Full-time",
+      "description": "Provide strategic advice to clients for business growth.",
+      "requirements": [
+        "Consulting experience",
+        "Analytical skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Communication skills"
+      ]
+    },
+    {
+      "id": "job-229",
+      "title": "Digital Marketing Specialist",
+      "bannerImage": "/src/assets/digitalMarketingSpecialist.webp",
+      "location": "London, UK",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Manage digital marketing campaigns across various channels.",
+      "requirements": [
+        "Digital marketing experience",
+        "Creativity",
+        "Analytical skills",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-230",
+      "title": "Customer Experience Manager",
+      "bannerImage": "/src/assets/customerServiece.png",
+      "location": "London, UK",
+      "salary": "$60,000 - $95,000",
+      "jobType": "Full-time",
+      "description": "Enhance customer satisfaction and oversee support teams.",
+      "requirements": [
+        "Customer experience experience",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Attention to detail"
+      ]
+    }
+  ]
+},
+{
+  "id": "27",
+  "name": "Rica Jons",
+  "logo": "/src/assets/ricajones.webp",
+  "location": "New York, USA",
+  "website": "https://www.ricajons.com",
+  "industry": "Retail & Consumer Goods",
+  "jobs": [
+    {
+      "id": "job-231",
+      "title": "Store Manager",
+      "bannerImage": "/src/assets/storeManager.webp",
+      "location": "New York, USA",
+      "salary": "$55,000 - $85,000",
+      "jobType": "Full-time",
+      "description": "Oversee store operations and manage staff performance.",
+      "requirements": [
+        "Retail management experience",
+        "Leadership skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Organizational skills"
+      ]
+    },
+    {
+      "id": "job-232",
+      "title": "Sales Associate",
+      "bannerImage": "/src/assets/salesAssosiate.avif",
+      "location": "New York, USA",
+      "salary": "$35,000 - $50,000",
+      "jobType": "Full-time",
+      "description": "Assist customers with purchases and provide excellent service.",
+      "requirements": [
+        "Customer service skills",
+        "Communication skills",
+        "Team collaboration",
+        "Problem-solving mindset",
+        "Product knowledge"
+      ]
+    },
+    {
+      "id": "job-233",
+      "title": "Inventory Specialist",
+      "bannerImage": "/src/assets/inventrySpecialist.jpg",
+      "location": "New York, USA",
+      "salary": "$40,000 - $60,000",
+      "jobType": "Full-time",
+      "description": "Manage inventory, stock levels, and supply orders.",
+      "requirements": [
+        "Inventory management experience",
+        "Attention to detail",
+        "Organizational skills",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-234",
+      "title": "Marketing Coordinator",
+      "bannerImage": "/src/assets/marketingSrategist.avif",
+      "location": "New York, USA",
+      "salary": "$45,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Plan and execute marketing campaigns for the store.",
+      "requirements": [
+        "Marketing experience",
+        "Creativity and innovation",
+        "Communication skills",
+        "Team collaboration",
+        "Problem-solving mindset"
+      ]
+    },
+    {
+      "id": "job-235",
+      "title": "E-commerce Specialist",
+      "bannerImage": "/src/assets/ecomercSepecialist.png",
+      "location": "New York, USA",
+      "salary": "$50,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Manage online store operations and digital sales.",
+      "requirements": [
+        "E-commerce platform experience",
+        "Web and digital marketing knowledge",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Analytical skills"
+      ]
+    },
+    {
+      "id": "job-236",
+      "title": "Customer Support Specialist",
+      "bannerImage": "/src/assets/customerServiece.png",
+      "location": "New York, USA",
+      "salary": "$40,000 - $60,000",
+      "jobType": "Full-time",
+      "description": "Handle customer inquiries, complaints, and support tickets.",
+      "requirements": [
+        "Customer service experience",
+        "Communication skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Patience and empathy"
+      ]
+    },
+    {
+      "id": "job-237",
+      "title": "Visual Merchandiser",
+      "bannerImage": "/src/assets/visualMarchandiser.png",
+      "location": "New York, USA",
+      "salary": "$40,000 - $60,000",
+      "jobType": "Full-time",
+      "description": "Design and maintain in-store displays to maximize sales.",
+      "requirements": [
+        "Experience in visual merchandising",
+        "Creativity and design skills",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-238",
+      "title": "Warehouse Supervisor",
+      "bannerImage": "/src/assets/wareHous.webp",
+      "location": "New York, USA",
+      "salary": "$45,000 - $70,000",
+      "jobType": "Full-time",
+      "description": "Oversee warehouse operations and logistics.",
+      "requirements": [
+        "Warehouse management experience",
+        "Leadership skills",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Organizational skills"
+      ]
+    },
+    {
+      "id": "job-239",
+      "title": "Procurement Specialist",
+      "bannerImage": "/src/assets/procurement.jpg",
+      "location": "New York, USA",
+      "salary": "$50,000 - $75,000",
+      "jobType": "Full-time",
+      "description": "Manage purchasing of goods and supplies for the store.",
+      "requirements": [
+        "Procurement experience",
+        "Negotiation skills",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration"
+      ]
+    },
+    {
+      "id": "job-240",
+      "title": "Accounting Clerk",
+      "bannerImage": "/src/assets/accounting_clerk.jpg",
+      "location": "New York, USA",
+      "salary": "$45,000 - $65,000",
+      "jobType": "Full-time",
+      "description": "Manage daily financial transactions and bookkeeping.",
+      "requirements": [
+        "Accounting knowledge",
+        "Attention to detail",
+        "Problem-solving mindset",
+        "Team collaboration",
+        "Organizational skills"
+      ]
+    }
+  ]
+}
+
+]

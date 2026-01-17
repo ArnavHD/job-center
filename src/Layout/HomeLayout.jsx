@@ -3,6 +3,8 @@ import Navbar from "../Components/Navbar/Navbar";
 import video from "../assets/286689_small.mp4";
 import Footer from "../Components/Footer/Footer";
 import Top_hirers from "../Components/Top_hirers/Top_hirers";
+import { Outlet } from "react-router";
+import NewsOutLooks from "../Components/NewsOutLooks/NewsOutLooks";
 
 
 const HomeLayout = () => {
@@ -23,11 +25,11 @@ const HomeLayout = () => {
           <div className="bg-black/50 p-4 rounded-xl">
             <h1 className="flex flex-col ml-6 text-white">
               <span className="lg:text-7xl sm:text-4xl">
-                The ultimate Place:
+                The ultimate Place
               </span>
               <br />{" "}
               <span className="lg:text-4xl">
-                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Search For Future
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To Search Your Future
               </span>
             </h1>
           </div>
@@ -36,6 +38,8 @@ const HomeLayout = () => {
 
       <main className=" text-white p-8">
         <Top_hirers></Top_hirers>
+        <NewsOutLooks></NewsOutLooks>
+        <Outlet></Outlet>
       </main>
 
       <Footer></Footer>

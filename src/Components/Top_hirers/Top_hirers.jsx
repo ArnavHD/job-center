@@ -11,7 +11,7 @@ const Top_hirers = () => {
     return (
       <div>
         <h2 className=' text-3xl font-bold mb-10'>Our top Employers:</h2>
-        <Marquee className="flex gap-10" pauseOnHover={true}>
+        <Marquee className="flex gap-10" pauseOnHover={true} autoFill={true} speed={70}>
           <div className=" flex gap-10">
             <div className=" bg-white p-5 rounded-xl">
               <img src={mit} className=" w-50 h-30" alt="" />
