@@ -1,95 +1,96 @@
 [
   {
-    "id": "1",
-    "name": "Google",
-    "logo": "/src/assets/Google__G__logo.png",
-    "location": "Mountain View, California, USA",
-    "website": "https://www.google.com",
-    "industry": "Technology & Software",
-    "jobs": [
-      {
-        "id": "job-001",
-        "title": "Frontend Developer",
-        "bannerImage": "/src/assets/frontend.png",
-        "location": "Remote / USA",
-        "salary": "$90,000 - $120,000",
-        "jobType": "Full-time",
-        "description": "Work on modern web interfaces used by millions of users worldwide.",
-        "requirements": [
-          "Proficient in HTML, CSS, and JavaScript",
-          "Experience with React",
-          "Understanding of responsive design",
-          "Familiarity with REST APIs",
-          "Strong problem-solving skills"
-        ]
-      },
-      {
-        "id": "job-002",
-        "title": "Backend Engineer",
-        "bannerImage": "/src/assets/backend.jpg",
-        "location": "California, USA",
-        "salary": "$100,000 - $140,000",
-        "jobType": "Full-time",
-        "description": "Design and build scalable backend systems for Google products.",
-        "requirements": [
-          "Strong knowledge of Java or Python",
-          "Experience with cloud systems",
-          "Understanding of databases",
-          "Ability to design APIs",
-          "Good debugging skills"
-        ]
-      },
-      {
-        "id": "job-003",
-        "title": "UI/UX Designer",
-        "bannerImage": "/src/assets/uiux.webp",
-        "location": "New York, USA",
-        "salary": "$70,000 - $100,000",
-        "jobType": "Full-time",
-        "description": "Create intuitive and beautiful user experiences for web and mobile apps.",
-        "requirements": [
-          "Experience with Figma or Adobe XD",
-          "Strong design portfolio",
-          "Understanding of user behavior",
-          "Knowledge of design systems",
-          "Good communication skills"
-        ]
-      },
-      {
-        "id": "job-004",
-        "title": "Data Analyst",
-        "bannerImage": "/src/assets/dataanalyst.avif",
-        "location": "Toronto, Canada",
-        "salary": "$80,000 - $110,000",
-        "jobType": "Full-time",
-        "description": "Analyze large datasets to help teams make data-driven decisions.",
-        "requirements": [
-          "Strong SQL skills",
-          "Experience with Python or R",
-          "Understanding of statistics",
-          "Ability to visualize data",
-          "Critical thinking skills"
-        ]
-      },
-      {
-        "id": "job-005",
-        "title": "Mobile App Developer",
-        "bannerImage": "/src/assets/mobile_developer.webp",
-        "location": "Remote",
-        "salary": "$85,000 - $115,000",
-        "jobType": "Full-time",
-        "description": "Build high-quality mobile applications for Android and iOS platforms.",
-        "requirements": [
-          "Experience with Flutter or React Native",
-          "Knowledge of mobile UI patterns",
-          "Understanding of app performance",
-          "API integration experience",
-          "Team collaboration skills"
-        ]
-      }
-    ]
-  },
-  {
+  "id": "1",
+  "name": "Google",
+  "logo": "/src/assets/Google__G__logo.png",
+  "location": "Mountain View, California, USA",
+  "website": "https://www.google.com",
+  "industry": "Technology & Software",
+  "jobs": [
+    {
+      "id": "job-001",
+      "title": "Frontend Developer",
+      "bannerImage": "/src/assets/frontend.png",
+      "location": "Remote / USA",
+      "salary": "$90,000 - $120,000",
+      "jobType": "Full-time",
+      "description": "Work on modern web interfaces used by millions of users worldwide.",
+      "requirements": [
+        "Proficient in HTML, CSS, and JavaScript",
+        "Experience with React",
+        "Understanding of responsive design",
+        "Familiarity with REST APIs",
+        "Strong problem-solving skills"
+      ]
+    },
+    {
+      "id": "job-002",
+      "title": "Backend Engineer",
+      "bannerImage": "/src/assets/backend.jpg",
+      "location": "California, USA",
+      "salary": "$100,000 - $140,000",
+      "jobType": "Contract",
+      "description": "Design and build scalable backend systems for Google products.",
+      "requirements": [
+        "Strong knowledge of Java or Python",
+        "Experience with cloud systems",
+        "Understanding of databases",
+        "Ability to design APIs",
+        "Good debugging skills"
+      ]
+    },
+    {
+      "id": "job-003",
+      "title": "UI/UX Designer",
+      "bannerImage": "/src/assets/uiux.webp",
+      "location": "New York, USA",
+      "salary": "$70,000 - $100,000",
+      "jobType": "Part-time",
+      "description": "Create intuitive and beautiful user experiences for web and mobile apps.",
+      "requirements": [
+        "Experience with Figma or Adobe XD",
+        "Strong design portfolio",
+        "Understanding of user behavior",
+        "Knowledge of design systems",
+        "Good communication skills"
+      ]
+    },
+    {
+      "id": "job-004",
+      "title": "Data Analyst",
+      "bannerImage": "/src/assets/dataanalyst.avif",
+      "location": "Toronto, Canada",
+      "salary": "$80,000 - $110,000",
+      "jobType": "Internship",
+      "description": "Analyze large datasets to help teams make data-driven decisions.",
+      "requirements": [
+        "Strong SQL skills",
+        "Experience with Python or R",
+        "Understanding of statistics",
+        "Ability to visualize data",
+        "Critical thinking skills"
+      ]
+    },
+    {
+      "id": "job-005",
+      "title": "Mobile App Developer",
+      "bannerImage": "/src/assets/mobile_developer.webp",
+      "location": "Remote",
+      "salary": "$85,000 - $115,000",
+      "jobType": "Freelance",
+      "description": "Build high-quality mobile applications for Android and iOS platforms.",
+      "requirements": [
+        "Experience with Flutter or React Native",
+        "Knowledge of mobile UI patterns",
+        "Understanding of app performance",
+        "API integration experience",
+        "Team collaboration skills"
+      ]
+    }
+  ]
+},
+
+{
   "id": "2",
   "name": "Microsoft",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
@@ -119,7 +120,7 @@
       "bannerImage": "/src/assets/cloud.jpg",
       "location": "Seattle, USA",
       "salary": "$110,000 - $150,000",
-      "jobType": "Full-time",
+      "jobType": "Contract",
       "description": "Work on Azure cloud infrastructure and services.",
       "requirements": [
         "Experience with cloud platforms",
@@ -151,7 +152,7 @@
       "bannerImage": "/src/assets/cyberAnalyst.avif",
       "location": "Remote",
       "salary": "$90,000 - $125,000",
-      "jobType": "Full-time",
+      "jobType": "Part-time",
       "description": "Protect Microsoft systems and users from cyber threats.",
       "requirements": [
         "Understanding of security principles",
@@ -183,7 +184,7 @@
       "bannerImage": "/src/assets/aiResearch.png",
       "location": "California, USA",
       "salary": "$120,000 - $170,000",
-      "jobType": "Full-time",
+      "jobType": "Internship",
       "description": "Research and build cutting-edge AI and machine learning solutions.",
       "requirements": [
         "Strong Python skills",
@@ -199,7 +200,7 @@
       "bannerImage": "/src/assets/techSupport.webp",
       "location": "Remote",
       "salary": "$60,000 - $85,000",
-      "jobType": "Full-time",
+      "jobType": "Freelance",
       "description": "Assist customers in resolving technical issues with Microsoft products.",
       "requirements": [
         "Strong communication skills",
@@ -211,6 +212,7 @@
     }
   ]
 },
+
 {
   "id": "3",
   "name": "Neuralink",
@@ -241,7 +243,7 @@
       "bannerImage": "/src/assets/embededSystemDesigner.png",
       "location": "Fremont, USA",
       "salary": "$110,000 - $150,000",
-      "jobType": "Full-time",
+      "jobType": "Contract",
       "description": "Develop firmware for brain–computer interface hardware.",
       "requirements": [
         "Strong C/C++ skills",
@@ -257,7 +259,7 @@
       "bannerImage": "/src/assets/roboticTech.avif",
       "location": "California, USA",
       "salary": "$70,000 - $95,000",
-      "jobType": "Full-time",
+      "jobType": "Part-time",
       "description": "Maintain and operate robotic systems used in neural implant procedures.",
       "requirements": [
         "Experience with robotics systems",
@@ -273,7 +275,7 @@
       "bannerImage": "/src/assets/softwareEngineer.jpg",
       "location": "Remote / USA",
       "salary": "$100,000 - $140,000",
-      "jobType": "Full-time",
+      "jobType": "Internship",
       "description": "Build software tools for neural data analysis and visualization.",
       "requirements": [
         "Strong Python skills",
@@ -285,6 +287,7 @@
     }
   ]
 },
+
 {
   "id": "4",
   "name": "Nexus",
@@ -315,7 +318,7 @@
       "bannerImage": "/src/assets/devopsEngineer.jpg",
       "location": "USA",
       "salary": "$100,000 - $140,000",
-      "jobType": "Full-time",
+      "jobType": "Contract",
       "description": "Automate deployment pipelines and manage cloud infrastructure.",
       "requirements": [
         "Experience with CI/CD",
@@ -347,7 +350,7 @@
       "bannerImage": "/src/assets/marketingSrategist.avif",
       "location": "Remote",
       "salary": "$60,000 - $90,000",
-      "jobType": "Full-time",
+      "jobType": "Part-time",
       "description": "Create and manage digital marketing strategies.",
       "requirements": [
         "SEO knowledge",
@@ -379,7 +382,7 @@
       "bannerImage": "/src/assets/datascientist.avif",
       "location": "California, USA",
       "salary": "$110,000 - $150,000",
-      "jobType": "Full-time",
+      "jobType": "Internship",
       "description": "Analyze data and build predictive models.",
       "requirements": [
         "Python expertise",
@@ -395,7 +398,7 @@
       "bannerImage": "/src/assets/mobile_developer.webp",
       "location": "Remote",
       "salary": "$80,000 - $110,000",
-      "jobType": "Full-time",
+      "jobType": "Freelance",
       "description": "Build cross-platform mobile applications.",
       "requirements": [
         "Flutter or React Native",
@@ -427,7 +430,7 @@
       "bannerImage": "/src/assets/customerServiece.png",
       "location": "Remote",
       "salary": "$60,000 - $85,000",
-      "jobType": "Full-time",
+      "jobType": "Part-time",
       "description": "Ensure clients achieve success using Nexus products.",
       "requirements": [
         "Client communication",
@@ -439,6 +442,7 @@
     }
   ]
 },
+
 {
   "id": "5",
   "name": "Agri-Land",
@@ -455,13 +459,7 @@
       "salary": "$70,000 - $95,000",
       "jobType": "Full-time",
       "description": "Design and improve modern farming systems and machinery.",
-      "requirements": [
-        "Engineering background",
-        "Knowledge of farming systems",
-        "Problem-solving skills",
-        "Field testing experience",
-        "Team collaboration"
-      ]
+      "requirements": ["Engineering background", "Knowledge of farming systems", "Problem-solving skills", "Field testing experience", "Team collaboration"]
     },
     {
       "id": "job-027",
@@ -469,15 +467,9 @@
       "bannerImage": "/src/assets/farmManager.jpg",
       "location": "Manitoba, Canada",
       "salary": "$60,000 - $85,000",
-      "jobType": "Full-time",
+      "jobType": "Contract",
       "description": "Oversee daily farm operations and staff.",
-      "requirements": [
-        "Leadership skills",
-        "Agriculture experience",
-        "Planning ability",
-        "Time management",
-        "Communication"
-      ]
+      "requirements": ["Leadership skills", "Agriculture experience", "Planning ability", "Time management", "Communication"]
     },
     {
       "id": "job-028",
@@ -485,15 +477,9 @@
       "bannerImage": "/src/assets/soil.avif",
       "location": "Remote",
       "salary": "$65,000 - $90,000",
-      "jobType": "Full-time",
+      "jobType": "Part-time",
       "description": "Analyze soil data to improve crop yield.",
-      "requirements": [
-        "Soil science knowledge",
-        "Data analysis",
-        "Research skills",
-        "Reporting",
-        "Critical thinking"
-      ]
+      "requirements": ["Soil science knowledge", "Data analysis", "Research skills", "Reporting", "Critical thinking"]
     },
     {
       "id": "job-029",
@@ -501,15 +487,9 @@
       "bannerImage": "/src/assets/drone.jpg",
       "location": "Alberta, Canada",
       "salary": "$45,000 - $65,000",
-      "jobType": "Full-time",
+      "jobType": "Contract",
       "description": "Operate drones for crop monitoring and mapping.",
-      "requirements": [
-        "Drone certification",
-        "Field work experience",
-        "Basic GIS knowledge",
-        "Safety awareness",
-        "Attention to detail"
-      ]
+      "requirements": ["Drone certification", "Field work experience", "Basic GIS knowledge", "Safety awareness", "Attention to detail"]
     },
     {
       "id": "job-030",
@@ -519,13 +499,7 @@
       "salary": "$75,000 - $105,000",
       "jobType": "Full-time",
       "description": "Analyze agricultural data to optimize productivity.",
-      "requirements": [
-        "Python or R",
-        "Data visualization",
-        "Statistics",
-        "Reporting",
-        "Problem-solving"
-      ]
+      "requirements": ["Python or R", "Data visualization", "Statistics", "Reporting", "Problem-solving"]
     },
     {
       "id": "job-031",
@@ -533,15 +507,9 @@
       "bannerImage": "/src/assets/irrigation.webp",
       "location": "California, USA",
       "salary": "$55,000 - $75,000",
-      "jobType": "Full-time",
+      "jobType": "Internship",
       "description": "Design and maintain irrigation systems.",
-      "requirements": [
-        "Hydrology basics",
-        "System maintenance",
-        "Field experience",
-        "Planning",
-        "Safety"
-      ]
+      "requirements": ["Hydrology basics", "System maintenance", "Field experience", "Planning", "Safety"]
     },
     {
       "id": "job-032",
@@ -551,13 +519,7 @@
       "salary": "$60,000 - $80,000",
       "jobType": "Full-time",
       "description": "Manage logistics from farm to market.",
-      "requirements": [
-        "Logistics knowledge",
-        "Organization",
-        "Vendor coordination",
-        "Communication",
-        "Problem-solving"
-      ]
+      "requirements": ["Logistics knowledge", "Organization", "Vendor coordination", "Communication", "Problem-solving"]
     },
     {
       "id": "job-033",
@@ -565,15 +527,9 @@
       "bannerImage": "/src/assets/crop.webp",
       "location": "Ontario, Canada",
       "salary": "$40,000 - $55,000",
-      "jobType": "Full-time",
+      "jobType": "Part-time",
       "description": "Assist in crop research and experiments.",
-      "requirements": [
-        "Biology background",
-        "Field work",
-        "Data collection",
-        "Reporting",
-        "Curiosity"
-      ]
+      "requirements": ["Biology background", "Field work", "Data collection", "Reporting", "Curiosity"]
     },
     {
       "id": "job-034",
@@ -583,13 +539,7 @@
       "salary": "$70,000 - $95,000",
       "jobType": "Full-time",
       "description": "Implement eco-friendly farming practices.",
-      "requirements": [
-        "Environmental knowledge",
-        "Policy planning",
-        "Communication",
-        "Auditing",
-        "Strategy"
-      ]
+      "requirements": ["Environmental knowledge", "Policy planning", "Communication", "Auditing", "Strategy"]
     },
     {
       "id": "job-035",
@@ -597,15 +547,9 @@
       "bannerImage": "/src/assets/marketingExecutive.webp",
       "location": "Vancouver, Canada",
       "salary": "$55,000 - $75,000",
-      "jobType": "Full-time",
+      "jobType": "Contract",
       "description": "Promote Agri-Land products and services.",
-      "requirements": [
-        "Digital marketing",
-        "Brand strategy",
-        "Content creation",
-        "Analytics",
-        "Creativity"
-      ]
+      "requirements": ["Digital marketing", "Brand strategy", "Content creation", "Analytics", "Creativity"]
     },
     {
       "id": "job-036",
@@ -615,13 +559,7 @@
       "salary": "$50,000 - $70,000",
       "jobType": "Full-time",
       "description": "Maintain and repair farming equipment.",
-      "requirements": [
-        "Mechanical skills",
-        "Diagnostics",
-        "Safety procedures",
-        "Field work",
-        "Reliability"
-      ]
+      "requirements": ["Mechanical skills", "Diagnostics", "Safety procedures", "Field work", "Reliability"]
     },
     {
       "id": "job-037",
@@ -629,18 +567,13 @@
       "bannerImage": "/src/assets/customerServiece.png",
       "location": "Remote",
       "salary": "$40,000 - $55,000",
-      "jobType": "Full-time",
+      "jobType": "Part-time",
       "description": "Support farmers using Agri-Land solutions.",
-      "requirements": [
-        "Communication skills",
-        "Product knowledge",
-        "Problem-solving",
-        "Empathy",
-        "Patience"
-      ]
+      "requirements": ["Communication skills", "Product knowledge", "Problem-solving", "Empathy", "Patience"]
     }
   ]
 },
+
 {
   "id": "6",
   "name": "University of Calgary",
@@ -656,7 +589,7 @@
       "location": "Calgary, Canada",
       "salary": "$100,000 - $150,000",
       "jobType": "Full-time",
-      "description": "Teach undergraduate and graduate courses in Computer Science.",
+      "description": "Teach undergraduate and graduate courses in Computer Science, guide students in projects, and contribute to curriculum development and research initiatives.",
       "requirements": [
         "PhD in Computer Science",
         "Strong teaching experience",
@@ -671,8 +604,8 @@
       "bannerImage": "/src/assets/ra.png",
       "location": "Calgary, Canada",
       "salary": "$45,000 - $60,000",
-      "jobType": "Full-time",
-      "description": "Assist faculty in academic research projects.",
+      "jobType": "Part-time",
+      "description": "Assist faculty with academic research projects, perform data collection, and support laboratory experiments.",
       "requirements": [
         "Bachelor’s degree in relevant field",
         "Data analysis skills",
@@ -687,8 +620,8 @@
       "bannerImage": "/src/assets/admin.jpg",
       "location": "Calgary, Canada",
       "salary": "$55,000 - $75,000",
-      "jobType": "Full-time",
-      "description": "Coordinate departmental activities and administrative tasks.",
+      "jobType": "Contract",
+      "description": "Coordinate departmental activities, handle scheduling, and manage administrative tasks for various programs.",
       "requirements": [
         "Strong organizational skills",
         "Communication skills",
@@ -704,7 +637,7 @@
       "location": "Calgary, Canada",
       "salary": "$60,000 - $80,000",
       "jobType": "Full-time",
-      "description": "Provide technical support for staff and students.",
+      "description": "Provide technical support for staff and students, maintain IT infrastructure, and troubleshoot hardware and software issues.",
       "requirements": [
         "Knowledge of networks and hardware",
         "Troubleshooting skills",
@@ -719,8 +652,8 @@
       "bannerImage": "/src/assets/libtech.jpg",
       "location": "Calgary, Canada",
       "salary": "$50,000 - $65,000",
-      "jobType": "Full-time",
-      "description": "Assist in library operations and support students and faculty.",
+      "jobType": "Part-time",
+      "description": "Assist in library operations, manage resources, and support students and faculty with research materials.",
       "requirements": [
         "Library science background",
         "Organizational skills",
@@ -736,7 +669,7 @@
       "location": "Calgary, Canada",
       "salary": "$50,000 - $70,000",
       "jobType": "Full-time",
-      "description": "Support laboratory experiments and maintain equipment.",
+      "description": "Support laboratory experiments, maintain equipment, and ensure safety compliance in academic labs.",
       "requirements": [
         "Science background",
         "Hands-on experience",
@@ -751,8 +684,8 @@
       "bannerImage": "/src/assets/adminoff.png",
       "location": "Calgary, Canada",
       "salary": "$55,000 - $75,000",
-      "jobType": "Full-time",
-      "description": "Manage student applications and admission processes.",
+      "jobType": "Contract",
+      "description": "Manage student applications, evaluate eligibility, and guide prospective students through the admissions process.",
       "requirements": [
         "Experience in admissions or education",
         "Strong organizational skills",
@@ -763,6 +696,7 @@
     }
   ]
 },
+
 {
   "id": "7",
   "name": "Tesla",
@@ -778,7 +712,7 @@
       "location": "Palo Alto, USA",
       "salary": "$90,000 - $130,000",
       "jobType": "Full-time",
-      "description": "Design and test mechanical systems for electric vehicles.",
+      "description": "Design, prototype, and test mechanical systems for Tesla electric vehicles, collaborating with cross-functional teams to improve vehicle performance and safety.",
       "requirements": [
         "Strong mechanical engineering background",
         "CAD experience",
@@ -794,7 +728,7 @@
       "location": "Fremont, USA",
       "salary": "$95,000 - $135,000",
       "jobType": "Full-time",
-      "description": "Develop electrical systems for EVs and energy storage products.",
+      "description": "Develop and optimize electrical systems for EVs and energy storage products, ensuring reliability, efficiency, and safety compliance.",
       "requirements": [
         "Circuit design knowledge",
         "PCB design experience",
@@ -809,8 +743,8 @@
       "bannerImage": "/src/assets/softwareEngineer.jpg",
       "location": "Remote / USA",
       "salary": "$100,000 - $150,000",
-      "jobType": "Full-time",
-      "description": "Develop software for vehicle systems and autonomous driving.",
+      "jobType": "Contract",
+      "description": "Develop software for Tesla vehicle systems, autonomous driving features, and diagnostics tools, contributing to cutting-edge automotive technology.",
       "requirements": [
         "Strong Python or C++ skills",
         "Experience with embedded systems",
@@ -826,7 +760,7 @@
       "location": "California, USA",
       "salary": "$95,000 - $140,000",
       "jobType": "Full-time",
-      "description": "Design and optimize battery packs for EVs.",
+      "description": "Design, test, and optimize lithium-ion battery packs for EVs, improving energy efficiency and longevity.",
       "requirements": [
         "Battery chemistry knowledge",
         "Experience with testing and diagnostics",
@@ -842,7 +776,7 @@
       "location": "Palo Alto, USA",
       "salary": "$120,000 - $170,000",
       "jobType": "Full-time",
-      "description": "Develop AI systems for self-driving vehicles.",
+      "description": "Develop AI systems and algorithms for Tesla’s autonomous vehicles, focusing on computer vision, sensor integration, and safety-critical systems.",
       "requirements": [
         "Machine learning experience",
         "Python or C++ skills",
@@ -858,7 +792,7 @@
       "location": "Fremont, USA",
       "salary": "$85,000 - $120,000",
       "jobType": "Full-time",
-      "description": "Optimize manufacturing processes for EV production.",
+      "description": "Optimize EV production processes, improve efficiency on assembly lines, and implement lean manufacturing practices.",
       "requirements": [
         "Lean manufacturing knowledge",
         "Problem-solving skills",
@@ -873,8 +807,8 @@
       "bannerImage": "/src/assets/productManager.png",
       "location": "Remote / USA",
       "salary": "$100,000 - $140,000",
-      "jobType": "Full-time",
-      "description": "Lead the development and launch of Tesla products.",
+      "jobType": "Part-time",
+      "description": "Lead the planning, development, and launch of Tesla products, coordinating cross-functional teams and defining product strategy.",
       "requirements": [
         "Experience in product management",
         "Strong communication skills",
@@ -890,7 +824,7 @@
       "location": "Palo Alto, USA",
       "salary": "$110,000 - $150,000",
       "jobType": "Full-time",
-      "description": "Protect Tesla systems from cyber threats.",
+      "description": "Protect Tesla systems from cyber threats, perform penetration testing, and implement security protocols across vehicle and enterprise networks.",
       "requirements": [
         "Network security knowledge",
         "Penetration testing experience",
@@ -906,7 +840,7 @@
       "location": "California, USA",
       "salary": "$95,000 - $135,000",
       "jobType": "Full-time",
-      "description": "Oversee Tesla’s global supply chain operations.",
+      "description": "Oversee Tesla’s global supply chain operations, manage vendor relationships, and ensure efficient logistics for production and distribution.",
       "requirements": [
         "Logistics knowledge",
         "Vendor management",
@@ -921,8 +855,8 @@
       "bannerImage": "/src/assets/battery.jpg",
       "location": "Nevada, USA",
       "salary": "$100,000 - $145,000",
-      "jobType": "Full-time",
-      "description": "Develop solar and energy storage solutions.",
+      "jobType": "Internship",
+      "description": "Support the development of solar and energy storage solutions, perform testing, and assist senior engineers in project implementation.",
       "requirements": [
         "Knowledge of electrical systems",
         "Experience with renewable energy",
@@ -933,6 +867,7 @@
     }
   ]
 },
+
 {
   "id": "8",
   "name": "NASA",
@@ -948,7 +883,7 @@
       "location": "Houston, USA",
       "salary": "$95,000 - $140,000",
       "jobType": "Full-time",
-      "description": "Design and test spacecraft and aerospace systems.",
+      "description": "Design, simulate, and test spacecraft and aerospace systems, ensuring they meet safety, performance, and mission requirements.",
       "requirements": [
         "Degree in aerospace engineering",
         "Experience with CAD and simulations",
@@ -963,8 +898,8 @@
       "bannerImage": "/src/assets/astro.jpg",
       "location": "Remote / USA",
       "salary": "$90,000 - $130,000",
-      "jobType": "Full-time",
-      "description": "Conduct research and analysis of astronomical phenomena.",
+      "jobType": "Part-time",
+      "description": "Conduct research and data analysis on astronomical phenomena, collaborating with satellite and telescope missions to study the universe.",
       "requirements": [
         "PhD in physics or astrophysics",
         "Data analysis skills",
@@ -979,8 +914,8 @@
       "bannerImage": "/src/assets/mission.jpg",
       "location": "Washington, D.C., USA",
       "salary": "$85,000 - $120,000",
-      "jobType": "Full-time",
-      "description": "Plan and coordinate space missions and projects.",
+      "jobType": "Contract",
+      "description": "Plan and coordinate space missions, including scheduling, resource allocation, and mission risk assessment to ensure successful execution.",
       "requirements": [
         "Project management experience",
         "Knowledge of aerospace operations",
@@ -996,7 +931,7 @@
       "location": "California, USA",
       "salary": "$95,000 - $135,000",
       "jobType": "Full-time",
-      "description": "Develop robotic systems for spacecraft and satellites.",
+      "description": "Develop and maintain robotic systems for spacecraft, satellites, and planetary exploration, integrating sensors, actuators, and control algorithms.",
       "requirements": [
         "Experience with robotic systems",
         "Mechanical and electrical knowledge",
@@ -1011,8 +946,8 @@
       "bannerImage": "/src/assets/spaceScientist.jpg",
       "location": "Remote / USA",
       "salary": "$90,000 - $125,000",
-      "jobType": "Full-time",
-      "description": "Conduct experiments and research related to space exploration.",
+      "jobType": "Internship",
+      "description": "Assist in space research experiments, analyze mission data, and contribute to scientific publications on space exploration projects.",
       "requirements": [
         "Physics or astronomy background",
         "Research experience",
@@ -1023,6 +958,7 @@
     }
   ]
 },
+
 {
   "id": "9",
   "name": "MIT",
@@ -1160,7 +1096,7 @@
       "location": "Toronto, Canada",
       "salary": "$100,000 - $145,000",
       "jobType": "Full-time",
-      "description": "Teach and conduct research in the Biology department.",
+      "description": "Teach undergraduate and graduate Biology courses, conduct cutting-edge research, and mentor students in academic projects.",
       "requirements": [
         "PhD in Biology",
         "Teaching experience",
@@ -1175,8 +1111,8 @@
       "bannerImage": "/src/assets/ra.png",
       "location": "Toronto, Canada",
       "salary": "$45,000 - $60,000",
-      "jobType": "Full-time",
-      "description": "Assist faculty in conducting research projects.",
+      "jobType": "Part-time",
+      "description": "Support faculty in conducting experiments and data analysis, assist in lab operations, and prepare research reports.",
       "requirements": [
         "Bachelor’s degree in relevant field",
         "Data analysis skills",
@@ -1192,7 +1128,7 @@
       "location": "Toronto, Canada",
       "salary": "$55,000 - $75,000",
       "jobType": "Full-time",
-      "description": "Coordinate departmental activities and administrative tasks.",
+      "description": "Coordinate departmental schedules, manage documentation, and handle administrative tasks efficiently.",
       "requirements": [
         "Organizational skills",
         "Communication skills",
@@ -1208,7 +1144,7 @@
       "location": "Toronto, Canada",
       "salary": "$60,000 - $85,000",
       "jobType": "Full-time",
-      "description": "Provide technical support for staff and students.",
+      "description": "Provide IT support for faculty, staff, and students, maintain network and hardware, and troubleshoot technical issues promptly.",
       "requirements": [
         "Networking and hardware knowledge",
         "Troubleshooting skills",
@@ -1223,8 +1159,8 @@
       "bannerImage": "/src/assets/libtech.jpg",
       "location": "Toronto, Canada",
       "salary": "$50,000 - $65,000",
-      "jobType": "Full-time",
-      "description": "Assist in library operations and support students and faculty.",
+      "jobType": "Part-time",
+      "description": "Assist in cataloging, maintain library resources, and support students and faculty with research materials.",
       "requirements": [
         "Library science knowledge",
         "Organizational skills",
@@ -1239,8 +1175,8 @@
       "bannerImage": "/src/assets/academicCouncellor.jpg",
       "location": "Toronto, Canada",
       "salary": "$55,000 - $75,000",
-      "jobType": "Full-time",
-      "description": "Manage student applications and admission processes.",
+      "jobType": "Internship",
+      "description": "Assist in managing student applications, coordinate admission events, and guide prospective students through the process.",
       "requirements": [
         "Experience in admissions or education",
         "Strong organizational skills",
@@ -1251,6 +1187,7 @@
     }
   ]
 },
+
 {
   "id": "11",
   "name": "Lamborghini",
@@ -1266,7 +1203,7 @@
       "location": "Italy",
       "salary": "$90,000 - $140,000",
       "jobType": "Full-time",
-      "description": "Design and develop high-performance automotive systems.",
+      "description": "Design and develop high-performance automotive systems, focusing on innovative engineering solutions for luxury vehicles.",
       "requirements": [
         "Mechanical engineering background",
         "Experience with automotive design",
@@ -1282,7 +1219,7 @@
       "location": "Italy",
       "salary": "$80,000 - $115,000",
       "jobType": "Full-time",
-      "description": "Oversee the production line and ensure quality standards.",
+      "description": "Oversee the production line, manage staff, and ensure all vehicles meet Lamborghini’s high-quality standards.",
       "requirements": [
         "Leadership skills",
         "Production experience",
@@ -1297,8 +1234,8 @@
       "bannerImage": "/src/assets/marketingManager.webp",
       "location": "Italy",
       "salary": "$85,000 - $120,000",
-      "jobType": "Full-time",
-      "description": "Develop and manage marketing campaigns for Lamborghini products.",
+      "jobType": "Part-time",
+      "description": "Plan and execute marketing campaigns, strengthen the brand presence, and engage luxury car enthusiasts globally.",
       "requirements": [
         "Marketing experience",
         "Brand strategy knowledge",
@@ -1313,8 +1250,8 @@
       "bannerImage": "/src/assets/qaEngineer.jpg",
       "location": "Italy",
       "salary": "$75,000 - $110,000",
-      "jobType": "Full-time",
-      "description": "Ensure the quality of vehicles through rigorous testing.",
+      "jobType": "Contract",
+      "description": "Conduct rigorous vehicle testing and inspections to ensure compliance with Lamborghini’s high-quality performance standards.",
       "requirements": [
         "Engineering background",
         "Attention to detail",
@@ -1325,6 +1262,7 @@
     }
   ]
 },
+
 {
   "id": "12",
   "name": "Ferrari",
@@ -1398,7 +1336,7 @@
       "location": "Armonk, USA",
       "salary": "$90,000 - $140,000",
       "jobType": "Full-time",
-      "description": "Develop and maintain software applications for enterprise clients.",
+      "description": "Develop and maintain software applications for enterprise clients, building scalable and robust solutions.",
       "requirements": [
         "Proficient in Java, Python, or C++",
         "Experience with web frameworks",
@@ -1414,7 +1352,7 @@
       "location": "Remote / USA",
       "salary": "$120,000 - $160,000",
       "jobType": "Full-time",
-      "description": "Design and implement cloud-based solutions for clients.",
+      "description": "Design and implement cloud-based solutions, helping clients transition to modern, scalable architectures.",
       "requirements": [
         "Experience with AWS, Azure, or IBM Cloud",
         "Architecture design skills",
@@ -1430,7 +1368,7 @@
       "location": "Remote / USA",
       "salary": "$110,000 - $150,000",
       "jobType": "Full-time",
-      "description": "Analyze large datasets to provide actionable business insights.",
+      "description": "Analyze large datasets and extract actionable insights to support business decisions.",
       "requirements": [
         "Strong Python or R skills",
         "Machine learning experience",
@@ -1445,8 +1383,8 @@
       "bannerImage": "/src/assets/aiEngineer.jpg",
       "location": "Armonk, USA",
       "salary": "$115,000 - $155,000",
-      "jobType": "Full-time",
-      "description": "Develop AI models and integrate them into enterprise applications.",
+      "jobType": "Contract",
+      "description": "Develop AI models and integrate them into enterprise applications for targeted projects.",
       "requirements": [
         "Machine learning experience",
         "Python, TensorFlow, or PyTorch skills",
@@ -1462,7 +1400,7 @@
       "location": "Armonk, USA",
       "salary": "$100,000 - $140,000",
       "jobType": "Full-time",
-      "description": "Monitor and protect IBM systems and client networks from cyber threats.",
+      "description": "Monitor IBM systems and client networks, ensuring robust protection against cyber threats.",
       "requirements": [
         "Network security knowledge",
         "Incident response experience",
@@ -1477,8 +1415,8 @@
       "bannerImage": "/src/assets/business_analyst.webp",
       "location": "Remote / USA",
       "salary": "$85,000 - $120,000",
-      "jobType": "Full-time",
-      "description": "Analyze client requirements and propose business solutions.",
+      "jobType": "Part-time",
+      "description": "Analyze client requirements and propose practical business solutions to improve operations.",
       "requirements": [
         "Experience in business analysis",
         "Communication skills",
@@ -1494,7 +1432,7 @@
       "location": "Armonk, USA",
       "salary": "$105,000 - $145,000",
       "jobType": "Full-time",
-      "description": "Implement and maintain cloud infrastructure and services.",
+      "description": "Implement and maintain cloud infrastructure, ensuring stability and scalability.",
       "requirements": [
         "Cloud platform experience",
         "Networking and server knowledge",
@@ -1510,7 +1448,7 @@
       "location": "Remote / USA",
       "salary": "$95,000 - $140,000",
       "jobType": "Full-time",
-      "description": "Lead and manage IT and consulting projects.",
+      "description": "Lead and coordinate IT and consulting projects, managing teams and timelines effectively.",
       "requirements": [
         "Project management experience",
         "Agile methodology knowledge",
@@ -1525,8 +1463,8 @@
       "bannerImage": "/src/assets/uiux.webp",
       "location": "Remote / USA",
       "salary": "$80,000 - $115,000",
-      "jobType": "Full-time",
-      "description": "Design user interfaces and user experiences for web and mobile applications.",
+      "jobType": "Contract",
+      "description": "Design user interfaces and experiences for web and mobile applications on a project basis.",
       "requirements": [
         "Experience in UI/UX design",
         "Proficiency with design tools",
@@ -1541,8 +1479,8 @@
       "bannerImage": "/src/assets/consultant.jpg",
       "location": "Remote / USA",
       "salary": "$90,000 - $130,000",
-      "jobType": "Full-time",
-      "description": "Provide consulting services for technology and business solutions.",
+      "jobType": "Part-time",
+      "description": "Provide expert consulting services for technology and business solutions as needed.",
       "requirements": [
         "Business or technology background",
         "Problem-solving skills",
@@ -1558,7 +1496,7 @@
       "location": "Remote / USA",
       "salary": "$70,000 - $95,000",
       "jobType": "Full-time",
-      "description": "Create technical documentation for IBM software and services.",
+      "description": "Create clear and precise technical documentation for IBM’s software and services.",
       "requirements": [
         "Technical writing experience",
         "Understanding of software systems",
@@ -1569,6 +1507,7 @@
     }
   ]
 },
+
 {
   "id": "14",
   "name": "Rubery-Pi",
@@ -1818,7 +1757,7 @@
       "location": "Winnipeg, Canada",
       "salary": "$60,000 - $85,000",
       "jobType": "Full-time",
-      "description": "Provide expertise on crop production and soil management.",
+      "description": "Provide expert guidance on crop production, soil health, and sustainable farming practices.",
       "requirements": [
         "Degree in Agronomy or Agriculture",
         "Knowledge of crop management",
@@ -1834,7 +1773,7 @@
       "location": "Winnipeg, Canada",
       "salary": "$70,000 - $95,000",
       "jobType": "Full-time",
-      "description": "Oversee daily farm operations and manage staff.",
+      "description": "Oversee daily farm operations, manage staff, and optimize production efficiency.",
       "requirements": [
         "Experience in farm management",
         "Leadership skills",
@@ -1850,7 +1789,7 @@
       "location": "Winnipeg, Canada",
       "salary": "$75,000 - $110,000",
       "jobType": "Full-time",
-      "description": "Design and maintain agricultural machinery and systems.",
+      "description": "Design and maintain agricultural machinery and irrigation systems to improve productivity.",
       "requirements": [
         "Engineering degree",
         "Mechanical knowledge",
@@ -1866,7 +1805,7 @@
       "location": "Winnipeg, Canada",
       "salary": "$65,000 - $90,000",
       "jobType": "Full-time",
-      "description": "Analyze and manage soil quality for optimal crop production.",
+      "description": "Analyze soil composition and quality to optimize crop yield and sustainable practices.",
       "requirements": [
         "Degree in Soil Science or Agriculture",
         "Analytical skills",
@@ -1882,7 +1821,7 @@
       "location": "Winnipeg, Canada",
       "salary": "$70,000 - $100,000",
       "jobType": "Full-time",
-      "description": "Implement and maintain smart farming technologies.",
+      "description": "Implement and maintain smart farming technologies to improve efficiency and sustainability.",
       "requirements": [
         "Knowledge of agricultural technology",
         "Problem-solving mindset",
@@ -1897,8 +1836,8 @@
       "bannerImage": "/src/assets/horticulturist.jpg",
       "location": "Winnipeg, Canada",
       "salary": "$55,000 - $80,000",
-      "jobType": "Full-time",
-      "description": "Manage and optimize plant cultivation and garden projects.",
+      "jobType": "Part-time",
+      "description": "Manage plant cultivation, garden projects, and green spaces for maximum growth and health.",
       "requirements": [
         "Degree in Horticulture or related field",
         "Plant care expertise",
@@ -1914,7 +1853,7 @@
       "location": "Winnipeg, Canada",
       "salary": "$60,000 - $85,000",
       "jobType": "Full-time",
-      "description": "Coordinate logistics and supply chain operations for agricultural products.",
+      "description": "Coordinate logistics and supply chain operations to ensure timely delivery of agricultural products.",
       "requirements": [
         "Supply chain knowledge",
         "Organizational skills",
@@ -1925,6 +1864,7 @@
     }
   ]
 },
+
 {
   "id": "16",
   "name": "Micro-Bots",
@@ -1940,7 +1880,7 @@
       "location": "San Francisco, USA",
       "salary": "$90,000 - $140,000",
       "jobType": "Full-time",
-      "description": "Design and develop micro-robotic systems and components.",
+      "description": "Design and develop innovative micro-robotic systems and components to advance automation technology.",
       "requirements": [
         "Mechanical/Electrical Engineering degree",
         "Experience with robotics design",
@@ -1956,7 +1896,7 @@
       "location": "San Francisco, USA",
       "salary": "$80,000 - $120,000",
       "jobType": "Full-time",
-      "description": "Develop software to control and program micro-bots.",
+      "description": "Develop embedded software to control micro-bots and enable autonomous functions.",
       "requirements": [
         "Proficient in C++, Python, or ROS",
         "Embedded systems experience",
@@ -1972,7 +1912,7 @@
       "location": "San Francisco, USA",
       "salary": "$110,000 - $150,000",
       "jobType": "Full-time",
-      "description": "Develop AI algorithms for autonomous micro-bots.",
+      "description": "Develop AI algorithms to enhance autonomous behavior and learning capabilities of micro-bots.",
       "requirements": [
         "Experience in AI/ML",
         "Python, TensorFlow, or PyTorch skills",
@@ -1988,7 +1928,7 @@
       "location": "San Francisco, USA",
       "salary": "$85,000 - $125,000",
       "jobType": "Full-time",
-      "description": "Design and maintain circuits and electronic systems for micro-bots.",
+      "description": "Design and maintain electronic circuits and embedded systems for high-precision micro-bots.",
       "requirements": [
         "Electronics engineering background",
         "PCB design experience",
@@ -2004,7 +1944,7 @@
       "location": "San Francisco, USA",
       "salary": "$90,000 - $130,000",
       "jobType": "Full-time",
-      "description": "Integrate mechanical, electronic, and software systems for micro-bots.",
+      "description": "Integrate mechanical, electrical, and software systems to build functional micro-robotics solutions.",
       "requirements": [
         "Experience in mechatronics",
         "CAD & mechanical design skills",
@@ -2019,8 +1959,8 @@
       "bannerImage": "/src/assets/roboticTech.avif",
       "location": "San Francisco, USA",
       "salary": "$60,000 - $85,000",
-      "jobType": "Full-time",
-      "description": "Assist in building, testing, and maintaining micro-bots.",
+      "jobType": "Part-time",
+      "description": "Assist in assembly, testing, and maintenance of micro-robotic systems.",
       "requirements": [
         "Hands-on electronics/mechanical experience",
         "Troubleshooting skills",
@@ -2036,7 +1976,7 @@
       "location": "San Francisco, USA",
       "salary": "$95,000 - $140,000",
       "jobType": "Full-time",
-      "description": "Manage projects for micro-bot development and deployment.",
+      "description": "Lead and coordinate micro-bot development projects, ensuring timely delivery and collaboration.",
       "requirements": [
         "Project management experience",
         "Agile methodology knowledge",
@@ -2049,10 +1989,10 @@
       "id": "job-119",
       "title": "Technical Writer",
       "bannerImage": "/src/assets/techWriter.webp",
-      "location": "San Francisco, USA",
+      "location": "Remote / USA",
       "salary": "$55,000 - $80,000",
-      "jobType": "Full-time",
-      "description": "Create documentation and user manuals for micro-bots.",
+      "jobType": "Freelance",
+      "description": "Create manuals, guides, and technical documentation for micro-bot hardware and software.",
       "requirements": [
         "Technical writing experience",
         "Understanding of robotics systems",
@@ -2068,7 +2008,7 @@
       "location": "San Francisco, USA",
       "salary": "$65,000 - $95,000",
       "jobType": "Full-time",
-      "description": "Develop marketing campaigns for Micro-Bots products.",
+      "description": "Develop marketing strategies and campaigns to promote Micro-Bots products globally.",
       "requirements": [
         "Marketing experience",
         "Creative thinking",
@@ -2079,6 +2019,7 @@
     }
   ]
 },
+
 {
   "id": "17",
   "name": "Technica",
@@ -2094,7 +2035,7 @@
       "location": "Berlin, Germany",
       "salary": "$70,000 - $110,000",
       "jobType": "Full-time",
-      "description": "Develop and maintain software solutions for Technica clients.",
+      "description": "Develop and maintain innovative software solutions tailored for Technica clients.",
       "requirements": [
         "Proficient in Python, Java, or C++",
         "Experience with web or desktop applications",
@@ -2110,7 +2051,7 @@
       "location": "Berlin, Germany",
       "salary": "$75,000 - $115,000",
       "jobType": "Full-time",
-      "description": "Design and develop electronic hardware for innovative projects.",
+      "description": "Design and develop electronic hardware components for cutting-edge engineering projects.",
       "requirements": [
         "Electronics engineering background",
         "PCB design and prototyping skills",
@@ -2125,8 +2066,8 @@
       "bannerImage": "/src/assets/productManager.png",
       "location": "Berlin, Germany",
       "salary": "$85,000 - $130,000",
-      "jobType": "Full-time",
-      "description": "Lead and manage technology projects from concept to delivery.",
+      "jobType": "Contract",
+      "description": "Lead and coordinate technology projects from concept to delivery, ensuring smooth collaboration across teams.",
       "requirements": [
         "Project management experience",
         "Agile methodology knowledge",
@@ -2137,6 +2078,7 @@
     }
   ]
 },
+
 {
   "id": "18",
   "name": "Arena",
@@ -2152,7 +2094,7 @@
       "location": "Los Angeles, USA",
       "salary": "$75,000 - $115,000",
       "jobType": "Full-time",
-      "description": "Develop technology solutions for sports performance and analytics.",
+      "description": "Develop innovative technology solutions to enhance sports performance and analytics.",
       "requirements": [
         "Engineering degree",
         "Experience with sports tech or wearable devices",
@@ -2168,7 +2110,7 @@
       "location": "Los Angeles, USA",
       "salary": "$70,000 - $105,000",
       "jobType": "Full-time",
-      "description": "Develop software applications for sports analytics platforms.",
+      "description": "Create software applications for sports analytics platforms to help teams and athletes perform better.",
       "requirements": [
         "Proficient in Python, JavaScript, or Java",
         "Web and mobile app experience",
@@ -2184,7 +2126,7 @@
       "location": "Los Angeles, USA",
       "salary": "$65,000 - $95,000",
       "jobType": "Full-time",
-      "description": "Analyze sports data to generate insights for athletes and teams.",
+      "description": "Analyze sports data to provide actionable insights for athletes, coaches, and teams.",
       "requirements": [
         "Experience with data analytics",
         "Python, R, or SQL skills",
@@ -2199,8 +2141,8 @@
       "bannerImage": "/src/assets/productManager.png",
       "location": "Los Angeles, USA",
       "salary": "$80,000 - $120,000",
-      "jobType": "Full-time",
-      "description": "Manage sports tech projects from conception to deployment.",
+      "jobType": "Contract",
+      "description": "Oversee sports technology projects from planning to execution, ensuring smooth collaboration across teams.",
       "requirements": [
         "Project management experience",
         "Agile methodology knowledge",
@@ -2211,6 +2153,7 @@
     }
   ]
 },
+
 {
   "id": "19",
   "name": "Tyrocraft",
@@ -2226,7 +2169,7 @@
       "location": "Austin, USA",
       "salary": "$60,000 - $85,000",
       "jobType": "Full-time",
-      "description": "Design innovative craft products combining traditional and modern techniques.",
+      "description": "Design innovative craft products blending traditional and modern techniques.",
       "requirements": [
         "Experience in product design",
         "Creativity and innovation",
@@ -2242,7 +2185,7 @@
       "location": "Austin, USA",
       "salary": "$65,000 - $95,000",
       "jobType": "Full-time",
-      "description": "Develop software tools for craft management and online sales.",
+      "description": "Develop software tools for craft management, sales, and online platforms.",
       "requirements": [
         "Proficient in JavaScript, Python, or C#",
         "Experience with web or mobile apps",
@@ -2258,7 +2201,7 @@
       "location": "Austin, USA",
       "salary": "$55,000 - $80,000",
       "jobType": "Full-time",
-      "description": "Create and execute marketing campaigns to promote Tyrocraft products.",
+      "description": "Plan and execute creative marketing campaigns to promote Tyrocraft products.",
       "requirements": [
         "Experience in marketing",
         "Creative thinking",
@@ -2274,7 +2217,7 @@
       "location": "Austin, USA",
       "salary": "$70,000 - $100,000",
       "jobType": "Full-time",
-      "description": "Oversee daily operations and production workflows.",
+      "description": "Oversee daily operations and production workflows to ensure smooth processes.",
       "requirements": [
         "Experience in operations management",
         "Leadership skills",
@@ -2290,7 +2233,7 @@
       "location": "Austin, USA",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
-      "description": "Ensure the quality and consistency of craft products.",
+      "description": "Ensure the quality and consistency of craft products for all batches.",
       "requirements": [
         "Experience in quality assurance",
         "Attention to detail",
@@ -2306,7 +2249,7 @@
       "location": "Austin, USA",
       "salary": "$60,000 - $90,000",
       "jobType": "Full-time",
-      "description": "Manage logistics and inventory for craft materials and products.",
+      "description": "Manage logistics and inventory for materials and finished craft products.",
       "requirements": [
         "Supply chain knowledge",
         "Organizational skills",
@@ -2321,8 +2264,8 @@
       "bannerImage": "/src/assets/customerServiece.png",
       "location": "Remote / USA",
       "salary": "$50,000 - $70,000",
-      "jobType": "Full-time",
-      "description": "Assist customers with product inquiries, orders, and technical support.",
+      "jobType": "Remote",
+      "description": "Assist customers with product inquiries, orders, and technical support, ensuring a positive experience.",
       "requirements": [
         "Customer service experience",
         "Communication skills",
@@ -2333,6 +2276,7 @@
     }
   ]
 },
+
 {
   "id": "20",
   "name": "Technician",

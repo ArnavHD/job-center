@@ -1,12 +1,11 @@
 import React from 'react';
-import { NavLink, useLoaderData, useParams } from 'react-router';
+import { NavLink, useLoaderData } from 'react-router';
 
 const NewsOutLooks = () => {
 
     const data = useLoaderData();
     console.log(data);
-    const {id} = useParams();
-    console.log(id);
+    
 
     return (
       <div className=" mt-15">

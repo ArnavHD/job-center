@@ -1,12 +1,12 @@
 import React from "react";
 import { BsCashCoin } from "react-icons/bs";
 import { MdLocationOn } from "react-icons/md";
-import { NavLink, useParams } from "react-router";
+import { NavLink } from "react-router";
 
-const SingleJob = ({ singleJob }) => {
-  console.log(singleJob);
-  const {id} = useParams();
-  console.log(id);
+const SingleJob = ({ singleJob, companyId, jobId }) => {
+  console.log("This is single job", singleJob);
+  console.log("This is jobId", jobId);
+  console.log("This is company id:", companyId);
   return (
     <div className=" border flex items-start justify-start gap-3 md:gap-10 lg:mx-12 rounded-xl bg-white p-5 lg:p-10">
       <div>
@@ -27,10 +27,14 @@ const SingleJob = ({ singleJob }) => {
             <BsCashCoin size={20} />
             {singleJob.salary}
           </p>
-          <p className="rounded-sm bg-black/30 w-24 text-center">{singleJob.jobType}</p>
+          <p className="rounded-sm bg-black/30 w-24 text-center">
+            {singleJob.jobType}
+          </p>
         </div>
         <div>
-            <NavLink to={`/categories/${id}/${id}`} className="btn">View More</NavLink>
+          <NavLink to={`/categories/${companyId}/job/${jobId}`} className="btn bg-black text-white lg:mt-5">
+            View Job Details 
+          </NavLink>
         </div>
       </div>
     </div>

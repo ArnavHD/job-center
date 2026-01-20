@@ -23,15 +23,15 @@ const router = createBrowserRouter([
     element: <div>This is authentication layout</div>,
   },
   {
-    path: "categories/:id",
+    path: "categories/:companyId",
     loader: () => fetch("/companyData.json"),
     element: <SpecificCompany></SpecificCompany>,
   },
-//   {
-//     path: "categories/id/:id",
-//     loader: () => fetch("/companyData.json"),
-//     element: <DetailedSinglePage></DetailedSinglePage>,
-//   },
+  {
+    path: "categories/:companyId/job/:jobId",
+    loader: () => fetch("/companyData.json"),
+    element: <DetailedSinglePage></DetailedSinglePage>,
+  },
   {
     path: "/*",
     element: <div>Error </div>,
