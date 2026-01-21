@@ -1,9 +1,12 @@
-import React from 'react';
+import React, { use } from 'react';
 import { NavLink } from 'react-router';
+import { AuthContext } from '../../Provider/AuthProvider';
 
 const Navbar = () => {
+  const {user} = use(AuthContext);
     return (
       <div className="navbar bg-black border-none flex justify-between">
+        <div className='text-white'>{user && user.email}</div>
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -76,7 +79,9 @@ const Navbar = () => {
                 </NavLink>
               </div>
               <div className="">
-                <a className="btn">Register</a>
+                <NavLink to={"/auth/register"} className="btn">
+                  Register
+                </NavLink>
               </div>
             </div>
           </div>

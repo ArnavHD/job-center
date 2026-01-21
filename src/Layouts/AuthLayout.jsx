@@ -10,7 +10,7 @@ const AuthLayout = () => {
 
       {/* bg-radial-[at_0%_100%] from-[rgb(14,27,86)] to-transparent to-40%  */}
       <main>
-        <div className="bg-radial-[at_0%_100%] from-[rgb(14,27,86)] to-transparent to-35% flex justify-between items-center absolute inset-0 m-24   shadow-[0_-10px_20px_rgba(128,128,128,0.3)] ">
+        <div className="bg-radial-[at_0%_100%] from-[rgb(14,27,86)] to-transparent to-35% flex justify-between items-center absolute inset-0 my-14 mx-20 shadow-[0_-10px_20px_rgba(128,128,128,0.3)] ">
           <div className="sm:hidden lg:flex lg:flex-col lg:ml-20 lg:gap-3 lg:mt-36">
             <h1 className="text-white text-6xl font-bold">The Page To</h1>
             <h3 className="text-white text-3xl">
