@@ -4,6 +4,9 @@ import NewsOutLooks from "../Components/NewsOutLooks/NewsOutLooks";
 import SpecificCompany from "../Components/SpecificCompany/SpecificCompany";
 import SingleJob from "../Pages/SingleJob";
 import DetailedSinglePage from "../Pages/DetailedSinglePage";
+import Login from "../Pages/Login";
+import Register from "../Pages/Register";
+import AuthLayout from "../Layouts/AuthLayout";
 
 const router = createBrowserRouter([
   {
@@ -20,7 +23,17 @@ const router = createBrowserRouter([
   },
   {
     path: "/auth",
-    element: <div>This is authentication layout</div>,
+    element: <AuthLayout></AuthLayout>,
+    children:[
+      {
+        path: "/auth/login",
+        element: <Login></Login>
+      },
+      {
+        path: "/auth/register",
+        element: <Register></Register>
+      }
+    ]
   },
   {
     path: "categories/:companyId",

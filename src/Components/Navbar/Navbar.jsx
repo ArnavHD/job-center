@@ -56,7 +56,9 @@ const Navbar = () => {
           <div className="navbar-center hidden lg:flex">
             <ul className="menu menu-horizontal px-1">
               <li>
-                <NavLink className={"text-white text-xl"} to={"/"}>Home</NavLink>
+                <NavLink className={"text-white text-xl"} to={"/"}>
+                  Home
+                </NavLink>
               </li>
               <li>
                 <a href="" className="text-white text-xl">
@@ -69,7 +71,9 @@ const Navbar = () => {
             </ul>
             <div className=" flex gap-5">
               <div className="">
-                <a className="btn">Login</a>
+                <NavLink to={"/auth/login"} className="btn">
+                  Login
+                </NavLink>
               </div>
               <div className="">
                 <a className="btn">Register</a>
