@@ -8,19 +8,13 @@ import Login from "../Pages/Login";
 import Register from "../Pages/Register";
 import AuthLayout from "../Layouts/AuthLayout";
 import PrivateRout from "../Provider/PrivateRout";
+import Profile from "../Pages/Profile";
 
 const router = createBrowserRouter([
   {
     path: "/",
     loader: () => fetch("/companyData.json"),
     element: <HomeLayout></HomeLayout>,
-    children: [
-      //   {
-      //     path: "categories/:id",
-      //     loader: () => fetch("/companyData.json"),
-      //     element: <NewsOutLooks></NewsOutLooks>,
-      //   },
-    ],
   },
   {
     path: "/auth",
@@ -49,6 +43,10 @@ const router = createBrowserRouter([
     path: "categories/:companyId/job/:jobId",
     loader: () => fetch("/companyData.json"),
     element: <DetailedSinglePage></DetailedSinglePage>,
+  },
+  {
+    path: "/profile",
+    element: <Profile></Profile>
   },
   {
     path: "/*",

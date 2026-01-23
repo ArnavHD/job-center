@@ -10,26 +10,39 @@ import tornto from "../../assets/University-of-Toronto.png";
 const Top_hirers = () => {
     return (
       <div>
-        <h2 className=' text-3xl font-bold mb-10'>Our top Employers:</h2>
-        <Marquee className="flex gap-10" pauseOnHover={true} autoFill={true} speed={70}>
+        <h2 className="text-2xl md:text-3xl font-bold mb-10 mt-3">Our Top Employers:</h2>
+        <Marquee
+          className="flex gap-10"
+          pauseOnHover={true}
+          autoFill={true}
+          speed={70}
+        >
           <div className=" flex gap-10">
-            <div className=" bg-white p-5 rounded-xl">
-              <img src={mit} className=" w-50 h-30" alt="" />
+            <div className=" bg-white p-2 lg:p-5 rounded-xl">
+              <img src={mit} className="w-40 h-24 lg:w-50 lg:h-30" alt="" />
             </div>
-            <div className=" bg-white p-5 rounded-xl">
-              <img src={nasa} className=" w-50 h-30 object-contain" alt="" />
+            <div className=" bg-white p-2 lg:p-5 rounded-xl">
+              <img
+                src={nasa}
+                className="w-40 h-24 lg:w-50 lg:h-30 object-contain"
+                alt=""
+              />
             </div>
-            <div className=" bg-white p-5 rounded-xl">
-              <img src={tesla} className=" w-50 h-30" alt="" />
+            <div className=" bg-white p-2 lg:p-5 rounded-xl">
+              <img src={tesla} className="w-40 h-24 lg:w-50 lg:h-30" alt="" />
             </div>
-            <div className=" bg-white p-5 rounded-xl">
-              <img src={calgary} className=" w-50 h-30" alt="" />
+            <div className=" bg-white p-2  lg:p-5 rounded-xl">
+              <img src={calgary} className="w-40 h-24 lg:w-50 lg:h-30" alt="" />
             </div>
-            <div className=" bg-white p-5 rounded-xl">
-              <img src={ibm} className=" w-50 h-30" alt="" />
+            <div className=" bg-white p-2 lg:p-5 rounded-xl">
+              <img src={ibm} className="w-40 h-24 lg:w-50 lg:h-30" alt="" />
             </div>
-            <div className=" bg-white p-5 rounded-xl">
-              <img src={tornto} className=" w-50 h-30 object-contain" alt="" />
+            <div className=" bg-white p-2 lg:p-5 rounded-xl">
+              <img
+                src={tornto}
+                className="w-40 h-24 lg:w-50 lg:h-30 object-contain"
+                alt=""
+              />
             </div>
           </div>
         </Marquee>

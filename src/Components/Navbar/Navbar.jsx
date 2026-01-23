@@ -1,5 +1,5 @@
 import React, { use } from "react";
-import { NavLink,  } from "react-router";
+import { Link, NavLink,  } from "react-router";
 import { AuthContext } from "../../Provider/AuthProvider";
 import { FaRegUserCircle } from "react-icons/fa";
 
@@ -20,6 +20,7 @@ const Navbar = () => {
   return (
     <div className="navbar bg-black border-none flex justify-between">
       {/* <div className="text-white">{user && user.email}</div> */}
+      
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -44,7 +45,9 @@ const Navbar = () => {
             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-30 mt-3 w-52 p-2 shadow"
           >
             <li>
-              <a>Home</a>
+              <NavLink to={"/"}>
+                Home
+              </NavLink>
             </li>
             <li>
               <a>All Jobs</a>
@@ -53,10 +56,14 @@ const Navbar = () => {
               <a>Blogs</a>
             </li>
             {user ? (
-              <div className="flex justify-center items-center gap-3">
-                <div>
-                  <FaRegUserCircle size={35} />
-                </div>
+              <div className="flex justify-between items-center mt-4">
+                <Link to={"/profile"}>
+                  <img
+                    className="w-10 h-10 rounded-full object-cover"
+                    src={user.photoURL}
+                    alt=""
+                  />
+                </Link>
                 <div>
                   <button onClick={handleLogOut} className="btn">
                     Log Out
@@ -105,7 +112,13 @@ const Navbar = () => {
             <div className="flex justify-center items-center gap-3">
               <div>
                 {user ? (
-                  <img className="w-12 h-12 rounded-full object-cover" src={user.photoURL} alt="" />
+                  <Link to={"/profile"}>
+                    <img
+                      className="w-12 h-12 rounded-full object-cover"
+                      src={user.photoURL}
+                      alt=""
+                    />
+                  </Link>
                 ) : (
                   <FaRegUserCircle size={35} color="white" />
                 )}
