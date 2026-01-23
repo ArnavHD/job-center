@@ -11,7 +11,7 @@ const SingleJob = ({ singleJob, companyId, jobId }) => {
     <div className=" border flex items-start justify-start gap-3 md:gap-10 lg:mx-12 rounded-xl bg-white p-5 lg:p-10">
       <div>
         <img
-          className=" lg:w-40 lg:h-40 w-25 h-25 border p-1 rounded-xl "
+          className=" lg:w-40 lg:h-40 w-25 h-25 border p-1 rounded-xl object-cover"
           src={singleJob.bannerImage}
           alt="banner img"
         />

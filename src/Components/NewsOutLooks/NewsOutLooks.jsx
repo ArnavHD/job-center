@@ -32,7 +32,7 @@ const NewsOutLooks = () => {
           >
             <div className="flex justify-center items-center gap-7">
               <img
-                className="w-20 h-20 border-2 border-gray-400 rounded-xl p-1"
+                className="w-20 h-20 border-2 border-gray-400 rounded-xl p-1 object-cover"
                 src={company.logo}
                 alt="this is img"
               />

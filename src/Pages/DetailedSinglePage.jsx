@@ -1,5 +1,5 @@
 import React from "react";
-import { useLoaderData, useParams } from "react-router";
+import { Link, useLoaderData, useParams } from "react-router";
 import Navbar from "../Components/Navbar/Navbar";
 import Footer from "../Components/Footer/Footer";
 import { MdLocationOn, MdManageAccounts } from "react-icons/md";
@@ -28,7 +28,7 @@ const DetailedSinglePage = () => {
               <div>
                 <img
                   src={job.bannerImage}
-                  className="lg:w-52 p-1 lg:h-52 border-2 rounded-xl"
+                  className="lg:w-52 p-1 lg:h-52 border-2 rounded-xl object-cover"
                   alt=""
                 />
               </div>
@@ -72,78 +72,82 @@ const DetailedSinglePage = () => {
             </div>
           </div>
           <div className="lg:p-10 grid grid-cols-4 gap-16 bg-white mx-15 border-2 rounded-xl mt-5">
-            <div className="flex  gap-2">
-              <div>
+            <div className="flex-col  gap-3">
+              <div className="flex gap-2 items-center">
                 <FaCalendarAlt size={25} />
-              </div>
-              <div className="flex gap-1 flex-col">
                 <h2 className="text-xl font-bold">Date Posted</h2>
-                <h2 className="text-xl">Feb 3, 2026</h2>
+              </div>
+              <div className="flex gap-1 flex-col">
+                <h2 className="text-xl ml-8">Feb 3, 2026</h2>
               </div>
             </div>
-            <div className="flex  gap-2">
-              <div>
+            <div className="flex-col  gap-3">
+              <div className="flex gap-2 items-center">
                 <IoLocation size={30} />
-              </div>
-              <div className="flex gap-1 flex-col">
                 <h2 className="text-xl font-bold">Location</h2>
-                <h2 className="text-xl">{job.location}</h2>
+              </div>
+              <div className="flex gap-1 flex-col">
+                <h2 className="text-xl ml-8">{job.location}</h2>
               </div>
             </div>
-            <div className="flex  gap-2">
-              <div>
+            <div className="flex-col  gap-3">
+              <div className="flex gap-2 items-center">
                 <BsCashCoin size={25} />
-              </div>
-              <div className="flex gap-1 flex-col">
                 <h2 className="text-xl font-bold">Offered Salary</h2>
-                <h2 className="text-xl">{job.salary}</h2>
+              </div>
+              <div className="flex gap-1 flex-col">
+                <h2 className="text-xl ml-8">{job.salary}</h2>
               </div>
             </div>
-            <div className="flex  gap-2">
-              <div>
+            <div className="flex-col  gap-3">
+              <div className="flex gap-2 items-center">
                 <FaCalendarAlt size={25} />
-              </div>
-              <div className="flex gap-1 flex-col">
                 <h2 className="text-xl font-bold">Expiration Date</h2>
-                <h2 className="text-xl">Jun 6, 2026</h2>
+              </div>
+              <div className="flex gap-1 flex-col">
+                <h2 className="text-xl ml-8">Jun 6, 2026</h2>
               </div>
             </div>
-            <div className="flex  gap-2">
-              <div>
+            <div className="flex-col  gap-3">
+              <div className="flex gap-2 items-center">
                 <MdManageAccounts size={30} />
-              </div>
-              <div className="flex gap-1 flex-col">
                 <h2 className="text-xl font-bold">Experience</h2>
-                <h2 className="text-xl">2 Years</h2>
+              </div>
+              <div className="flex gap-1 flex-col">
+                <h2 className="text-xl ml-8">2 Years</h2>
               </div>
             </div>
-            <div className="flex  gap-2">
-              <div>
+            <div className="flex-col  gap-3">
+              <div className="flex gap-2 items-center">
                 <PiGenderMaleBold size={25} />
-              </div>
-              <div className="flex gap-1 flex-col">
                 <h2 className="text-xl font-bold">Gender</h2>
-                <h2 className="text-xl">Male</h2>
+              </div>
+              <div className="flex gap-1 flex-col">
+                <h2 className="text-xl ml-8">Male</h2>
               </div>
             </div>
-            <div className="flex  gap-2">
-              <div>
+            <div className="flex-col  gap-3">
+              <div className="flex gap-2 items-center">
                 <FaGears size={30} />
-              </div>
-              <div className="flex gap-1 flex-col">
                 <h2 className="text-xl font-bold">Qualifications</h2>
-                <h2 className="text-xl">Certificate</h2>
-              </div>
-            </div>
-            <div className="flex  gap-2">
-              <div>
-                <FaFileInvoiceDollar size={25} />
               </div>
               <div className="flex gap-1 flex-col">
-                <h2 className="text-xl font-bold">Career Level</h2>
-                <h2 className="text-xl">Student</h2>
+                <h2 className="text-xl ml-8">Certificate</h2>
               </div>
             </div>
+            <div className="flex-col  gap-3">
+              <div className="flex gap-2 items-center">
+                <FaFileInvoiceDollar size={25} />
+                <h2 className="text-xl font-bold">Career Level</h2>
+              </div>
+              <div className="flex gap-1 flex-col">
+                <h2 className="text-xl ml-8">Student</h2>
+              </div>
+            </div>
+          </div>
+          <div className="flex justify-center mt-10">
+          <Link to={`/categories/${company.id}`} className="btn">Back to {company.name} jobs</Link>
+
           </div>
         </div>
       </div>

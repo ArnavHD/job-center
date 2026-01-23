@@ -7,6 +7,7 @@ import DetailedSinglePage from "../Pages/DetailedSinglePage";
 import Login from "../Pages/Login";
 import Register from "../Pages/Register";
 import AuthLayout from "../Layouts/AuthLayout";
+import PrivateRout from "../Provider/PrivateRout";
 
 const router = createBrowserRouter([
   {
@@ -24,21 +25,25 @@ const router = createBrowserRouter([
   {
     path: "/auth",
     element: <AuthLayout></AuthLayout>,
-    children:[
+    children: [
       {
         path: "/auth/login",
-        element: <Login></Login>
+        element: <Login></Login>,
       },
       {
         path: "/auth/register",
-        element: <Register></Register>
-      }
-    ]
+        element: <Register></Register>,
+      },
+    ],
   },
   {
     path: "categories/:companyId",
     loader: () => fetch("/companyData.json"),
-    element: <SpecificCompany></SpecificCompany>,
+    element: (
+      <PrivateRout>
+        <SpecificCompany></SpecificCompany>
+      </PrivateRout>
+    ),
   },
   {
     path: "categories/:companyId/job/:jobId",

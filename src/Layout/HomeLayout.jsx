@@ -25,7 +25,7 @@ const HomeLayout = () => {
           <div className="bg-black/50 p-4 rounded-xl">
             <h1 className="flex flex-col ml-6 text-white">
               <span className="lg:text-7xl sm:text-4xl">
-                The ultimate Place
+                The Ultimate Place
               </span>
               <br />{" "}
               <span className="lg:text-4xl">

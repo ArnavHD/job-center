@@ -17,7 +17,7 @@ const Top_hirers = () => {
               <img src={mit} className=" w-50 h-30" alt="" />
             </div>
             <div className=" bg-white p-5 rounded-xl">
-              <img src={nasa} className=" w-50 h-30" alt="" />
+              <img src={nasa} className=" w-50 h-30 object-contain" alt="" />
             </div>
             <div className=" bg-white p-5 rounded-xl">
               <img src={tesla} className=" w-50 h-30" alt="" />
@@ -29,7 +29,7 @@ const Top_hirers = () => {
               <img src={ibm} className=" w-50 h-30" alt="" />
             </div>
             <div className=" bg-white p-5 rounded-xl">
-              <img src={tornto} className=" w-50 h-30" alt="" />
+              <img src={tornto} className=" w-50 h-30 object-contain" alt="" />
             </div>
           </div>
         </Marquee>
