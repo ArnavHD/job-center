@@ -7,6 +7,7 @@ const Register = () => {
     const { createUser, setUser, updateUser } = use(AuthContext);
     const [nameError, setNameError] = useState("");
     const [error, setError] = useState("");
+    const [success, setSuccess] = useState(false);
     
     const location = useLocation();
     const navigate = useNavigate();
@@ -23,10 +24,23 @@ const Register = () => {
         else{
             setNameError("");
         }
+        setSuccess(false);
+
+        
+        
+        
+        
         const email = form.email.value;
         const password = form.password.value;
         const url = form.url.value;
         console.log(name, email, password, url);
+        // password validation
+
+        const passwordRegExp = /^(?=.*[a-z])(?=.*[A-Z])(?=.*\d).{6,}$/;
+        if(!passwordRegExp.test(password)){
+            setError("Password must be One uppercase One lowercase and One number and of atleast 6 characters");
+            return;
+        }
         createUser(email, password)
           .then((result) => {
             const user = result.user;
@@ -34,6 +48,7 @@ const Register = () => {
             updateUser({ displayName: name, photoURL: url })
               .then(() => {
                   setUser({ ...user, displayName: name, photoURL: url });
+                setSuccess(true);
                   navigate("/");
               })
               .catch((error) => {
@@ -79,6 +94,7 @@ const Register = () => {
                 </Link>
               </p>
             </fieldset>
+            {success && <p className='text-green-500'>User Creation Successful </p>}
           </form>
         </div>
       </div>

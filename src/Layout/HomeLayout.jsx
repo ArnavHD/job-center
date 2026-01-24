@@ -21,7 +21,7 @@ const HomeLayout = () => {
         ></video>
         {/* <Navbar className="absolute top-0 left-0 z-30 w-full"></Navbar> */}
         {/* <div className="absolute top-16 bg-black/50 sm:h-45 lg:h-216 inset-0 z-10"></div> */}
-        <div className="sm:top-15  absolute top-90 lg:top-50 left-0 z-20">
+        <div className="sm:top-15  absolute top-80 lg:top-50 left-0 z-20">
           <div className="bg-black/50 p-2 lg:p-4 rounded-xl">
             <h1 className="flex flex-col lg:ml-6 text-white">
               <span className="text-xl font-semibold lg:text-5xl sm:text-4xl">

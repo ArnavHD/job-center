@@ -3,6 +3,7 @@ import Navbar from '../Components/Navbar/Navbar';
 import backwall from "../assets/profile_wall.png"
 import { AuthContext } from '../Provider/AuthProvider';
 import Loading from './Loading';
+import { Link } from 'react-router';
 
 const Profile = () => {
     const {user, loading} = use(AuthContext);
@@ -10,6 +11,9 @@ const Profile = () => {
 
     if(loading){
         return <Loading></Loading>
+    }
+    if(!user){
+        return;
     }
     return (
       <div className="h-screen overflow-hidden">
@@ -29,7 +33,12 @@ const Profile = () => {
                 />
               </div>
               <div className="mt-16 lg:mt-32 lg:ml-8">
-                <h1 className="text-4xl font-bold">{user.displayName}</h1>
+                <div className='flex  flex-col sm:flex-row justify-start items-start sm:justify-between sm:items-center'>
+                  <h1 className="text-4xl font-bold">{user.displayName}</h1>
+                  <div>
+                    <Link to={"/update-profile"} className="btn bg-black/60 text-white">Update profile</Link>
+                  </div>
+                </div>
                 <h2 className="text-xl">{user.email}</h2>
                 <h3>
                   <span className="text-xl">Last active:</span>{" "}
@@ -37,7 +46,7 @@ const Profile = () => {
                 </h3>
                 <h3 className="flex flex-col">
                   <span className="text-xs">Your account was created on:</span>
-                  <span className='text-xs'>{user.metadata.creationTime}</span>
+                  <span className="text-xs">{user.metadata.creationTime}</span>
                 </h3>
               </div>
             </div>
