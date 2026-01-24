@@ -88,7 +88,7 @@ const Navbar = () => {
             )}
           </ul>
         </div>
-        <a className="btn btn-ghost text-2xl font-bold border-dashed border-2 border-white text-white ">
+        <a className="btn btn-ghost text-xl md:text-2xl font-bold border-dashed border-2 border-white text-white ">
           Next_Step
         </a>
       </div>

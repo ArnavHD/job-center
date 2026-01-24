@@ -10,6 +10,8 @@ import AuthLayout from "../Layouts/AuthLayout";
 import PrivateRout from "../Provider/PrivateRout";
 import Profile from "../Pages/Profile";
 import UpdatePage from "../Pages/UpdatePage";
+import NotFound from "../Pages/NotFound";
+import Loading from "../Pages/Loading";
 
 const router = createBrowserRouter([
   {
@@ -39,11 +41,13 @@ const router = createBrowserRouter([
         <SpecificCompany></SpecificCompany>
       </PrivateRout>
     ),
+    hydrateFallbackElement: <Loading></Loading>
   },
   {
     path: "categories/:companyId/job/:jobId",
     loader: () => fetch("/companyData.json"),
     element: <DetailedSinglePage></DetailedSinglePage>,
+    hydrateFallbackElement: <Loading></Loading>
   },
   {
     path: "/profile",
@@ -55,7 +59,7 @@ const router = createBrowserRouter([
   },
   {
     path: "/*",
-    element: <div>Error </div>,
+    element: <NotFound></NotFound>,
   },
 ]);
 
