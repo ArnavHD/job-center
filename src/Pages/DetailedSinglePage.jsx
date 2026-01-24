@@ -11,13 +11,13 @@ import { FaGears } from "react-icons/fa6";
 
 const DetailedSinglePage = () => {
   const { companyId, jobId } = useParams();
-  console.log(companyId, jobId);
+//   console.log(companyId, jobId);
   const data = useLoaderData();
-  console.log("Data from detailedsinglepage", data);
+//   console.log("Data from detailedsinglepage", data);
   const company = data.find((singleComp) => singleComp.id == companyId);
-  console.log("Company form details", company);
+//   console.log("Company form details", company);
   const job = company.jobs.find((singleJob) => singleJob.id == jobId);
-  console.log("Single Job form detailsingle page", job);
+//   console.log("Single Job form detailsingle page", job);
   return (
     <div className="bg-black/30 ">
       <Navbar></Navbar>

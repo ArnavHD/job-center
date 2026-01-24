@@ -14,7 +14,7 @@ const UpdatePage = () => {
         e.preventDefault();
         const userName = e.target.name.value;
         const photo = e.target.photoURL.value;
-        console.log(userName, photo);
+        // console.log(userName, photo);
 
         
 

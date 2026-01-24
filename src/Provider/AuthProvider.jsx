@@ -10,7 +10,7 @@ const AuthProvider = ({children}) => {
     const [loading, setLoading] = useState(true);
     // const navigate = useNavigate();
 
-    console.log(user, loading);
+    // console.log(user, loading);
 
 
     const createUser=(email, password)=>{

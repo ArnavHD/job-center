@@ -7,11 +7,11 @@ const NewsOutLooks = () => {
 
   const handleShow = () => {
     setShowAll(!showAll);
-    console.log(showAll);
+    // console.log(showAll);
   };
 
   const data = useLoaderData();
-  console.log(data);
+  // console.log(data);
 
   const visibleItems = showAll ? data : data.slice(0,6);
 

@@ -4,9 +4,9 @@ import { MdLocationOn } from "react-icons/md";
 import { NavLink } from "react-router";
 
 const SingleJob = ({ singleJob, companyId, jobId }) => {
-  console.log("This is single job", singleJob);
-  console.log("This is jobId", jobId);
-  console.log("This is company id:", companyId);
+  // console.log("This is single job", singleJob);
+  // console.log("This is jobId", jobId);
+  // console.log("This is company id:", companyId);
   return (
     <div className=" border flex flex-col justify-center items-center mx-8 md:flex-row md:items-start md:justify-start gap-3 md:gap-7 lg:mx-12 rounded-xl bg-white p-5 lg:p-10">
       <div>

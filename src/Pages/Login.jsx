@@ -9,7 +9,7 @@ const Login = () => {
     const { signIn, signInWithGoogle, forgotPass } = use(AuthContext);
     const location = useLocation();
     const navigate = useNavigate();
-    console.log(location);
+    // console.log(location);
     const emailRef = useRef();
 
     
@@ -19,14 +19,14 @@ const Login = () => {
         const form = e.target;
         const email = form.email.value;
         const password = form.password.value;
-        console.log(email, password);
+        // console.log(email, password);
 
         setError("");
 
         signIn(email, password)
           .then((result) => {
             const user = result.user;
-            console.log(user);
+            // console.log(user);
             navigate(`${location.state ? location.state : "/"}`);
           })
           .catch((error) => {
@@ -45,9 +45,9 @@ const Login = () => {
 
         signInWithGoogle()
         .then(result =>{
-            console.log(result);
+            // console.log(result);
             const user = result.user;
-            console.log(user);
+            // console.log(user);
             navigate(`${location.state ? location.state : "/"}`);
         })
         .catch(error=>{
@@ -56,7 +56,7 @@ const Login = () => {
     }
 
     const handleForgetPassword = ()=>{
-        console.log(emailRef.current.value);
+        // console.log(emailRef.current.value);
         const email = emailRef.current.value;
 
         setError("");

@@ -9,11 +9,11 @@ const Navbar = () => {
   
 
   const handleLogOut = () => {
-    console.log("User trying to logout");
+    // console.log("User trying to logout");
     logOut()
       .then(() => {
         navigate("/");
-        console.log("Logout successfully");
+        // console.log("Logout successfully");
       })
       .catch((error) => {
         console.log(error);

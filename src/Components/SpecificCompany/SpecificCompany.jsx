@@ -8,13 +8,13 @@ const SpecificCompany = () => {
     const data = useLoaderData();
     // console.log(data);
     const {companyId} = useParams();
-    console.log("Params id: ", companyId);
+    // console.log("Params id: ", companyId);
 
     const filteredJob = data.filter(job=> job.id == companyId);
-    console.log("This is filtered job",filteredJob);
+    // console.log("This is filtered job",filteredJob);
     // (filteredJob.jobs.map(singlejob=> {console.log(singlejob)}));
     const company = data.filter(company=> company.id == companyId);
-    console.log("This is company: ",company);
+    // console.log("This is company: ",company);
     return (
         <div className='bg-black/80'>
             <Navbar></Navbar>
