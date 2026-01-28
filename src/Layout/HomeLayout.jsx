@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "../Components/Navbar/Navbar";
-import video from "../assets/286689_small.mp4";
+import video from "/images/286689_small.mp4";
 import Footer from "../Components/Footer/Footer";
 import Top_hirers from "../Components/Top_hirers/Top_hirers";
 import { Outlet } from "react-router";

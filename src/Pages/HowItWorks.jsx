@@ -51,7 +51,7 @@ const HowItWorks = () => {
         <div className="flex  flex-col lg:flex-row justify-center items-center mb-10">
           <div className="lg:w-1/2">
             <img
-              src={"/src/assets/corporate.jpg"}
+              src={"/images/corporate.jpg"}
               className="w-11/12 rounded-xl"
               alt=""
             />

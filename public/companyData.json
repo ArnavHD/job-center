@@ -2,7 +2,7 @@
   {
   "id": "1",
   "name": "Google",
-  "logo": "/src/assets/Google__G__logo.png",
+  "logo": "/images/Google__G__logo.png",
   "location": "Mountain View, California, USA",
   "website": "https://www.google.com",
   "industry": "Technology & Software",
@@ -10,7 +10,7 @@
     {
       "id": "job-001",
       "title": "Frontend Developer",
-      "bannerImage": "/src/assets/frontend.png",
+      "bannerImage": "/images/frontend.png",
       "location": "Remote / USA",
       "salary": "$90,000 - $120,000",
       "jobType": "Full-time",
@@ -26,7 +26,7 @@
     {
       "id": "job-002",
       "title": "Backend Engineer",
-      "bannerImage": "/src/assets/backend.jpg",
+      "bannerImage": "/images/backend.jpg",
       "location": "California, USA",
       "salary": "$100,000 - $140,000",
       "jobType": "Contract",
@@ -42,7 +42,7 @@
     {
       "id": "job-003",
       "title": "UI/UX Designer",
-      "bannerImage": "/src/assets/uiux.webp",
+      "bannerImage": "/images/uiux.webp",
       "location": "New York, USA",
       "salary": "$70,000 - $100,000",
       "jobType": "Part-time",
@@ -58,7 +58,7 @@
     {
       "id": "job-004",
       "title": "Data Analyst",
-      "bannerImage": "/src/assets/dataanalyst.avif",
+      "bannerImage": "/images/dataanalyst.avif",
       "location": "Toronto, Canada",
       "salary": "$80,000 - $110,000",
       "jobType": "Internship",
@@ -74,7 +74,7 @@
     {
       "id": "job-005",
       "title": "Mobile App Developer",
-      "bannerImage": "/src/assets/mobile_developer.webp",
+      "bannerImage": "/images/mobile_developer.webp",
       "location": "Remote",
       "salary": "$85,000 - $115,000",
       "jobType": "Freelance",
@@ -93,7 +93,7 @@
 {
   "id": "2",
   "name": "Microsoft",
-  "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+  "logo": "/images/Microsoft_logo.png",
   "location": "Redmond, Washington, USA",
   "website": "https://www.microsoft.com",
   "industry": "Technology & Cloud Computing",
@@ -101,7 +101,7 @@
     {
       "id": "job-006",
       "title": "Full Stack Developer",
-      "bannerImage": "/src/assets/fullstack.png",
+      "bannerImage": "/images/fullstack.png",
       "location": "Remote / USA",
       "salary": "$95,000 - $130,000",
       "jobType": "Full-time",
@@ -117,7 +117,7 @@
     {
       "id": "job-007",
       "title": "Cloud Engineer",
-      "bannerImage": "/src/assets/cloud.jpg",
+      "bannerImage": "/images/cloud.jpg",
       "location": "Seattle, USA",
       "salary": "$110,000 - $150,000",
       "jobType": "Contract",
@@ -133,7 +133,7 @@
     {
       "id": "job-008",
       "title": "Game Developer",
-      "bannerImage": "/src/assets/gamedevelop.avif",
+      "bannerImage": "/images/gamedevelop.avif",
       "location": "Vancouver, Canada",
       "salary": "$80,000 - $115,000",
       "jobType": "Full-time",
@@ -149,7 +149,7 @@
     {
       "id": "job-009",
       "title": "Cybersecurity Analyst",
-      "bannerImage": "/src/assets/cyberAnalyst.avif",
+      "bannerImage": "/images/cyberAnalyst.avif",
       "location": "Remote",
       "salary": "$90,000 - $125,000",
       "jobType": "Part-time",
@@ -165,7 +165,7 @@
     {
       "id": "job-010",
       "title": "Product Manager",
-      "bannerImage": "/src/assets/productManager.png",
+      "bannerImage": "/images/productManager.png",
       "location": "New York, USA",
       "salary": "$85,000 - $120,000",
       "jobType": "Full-time",
@@ -181,7 +181,7 @@
     {
       "id": "job-011",
       "title": "AI Research Engineer",
-      "bannerImage": "/src/assets/aiResearch.png",
+      "bannerImage": "/images/aiResearch.png",
       "location": "California, USA",
       "salary": "$120,000 - $170,000",
       "jobType": "Internship",
@@ -197,7 +197,7 @@
     {
       "id": "job-012",
       "title": "Technical Support Engineer",
-      "bannerImage": "/src/assets/techSupport.webp",
+      "bannerImage": "/images/techSupport.webp",
       "location": "Remote",
       "salary": "$60,000 - $85,000",
       "jobType": "Freelance",
@@ -216,7 +216,7 @@
 {
   "id": "3",
   "name": "Neuralink",
-  "logo": "/src/assets/neuralink.jpg",
+  "logo": "/images/neuralink.jpg",
   "location": "Fremont, California, USA",
   "website": "https://neuralink.com",
   "industry": "Neurotechnology & Biotechnology",
@@ -224,7 +224,7 @@
     {
       "id": "job-013",
       "title": "Biomedical Engineer",
-      "bannerImage": "/src/assets/BioMedical.webp",
+      "bannerImage": "/images/BioMedical.webp",
       "location": "California, USA",
       "salary": "$95,000 - $130,000",
       "jobType": "Full-time",
@@ -240,7 +240,7 @@
     {
       "id": "job-014",
       "title": "Embedded Systems Engineer",
-      "bannerImage": "/src/assets/embededSystemDesigner.png",
+      "bannerImage": "/images/embededSystemDesigner.png",
       "location": "Fremont, USA",
       "salary": "$110,000 - $150,000",
       "jobType": "Contract",
@@ -256,7 +256,7 @@
     {
       "id": "job-015",
       "title": "Robotics Technician",
-      "bannerImage": "/src/assets/roboticTech.avif",
+      "bannerImage": "/images/roboticTech.avif",
       "location": "California, USA",
       "salary": "$70,000 - $95,000",
       "jobType": "Part-time",
@@ -272,7 +272,7 @@
     {
       "id": "job-016",
       "title": "Research Software Engineer",
-      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "bannerImage": "/images/softwareEngineer.jpg",
       "location": "Remote / USA",
       "salary": "$100,000 - $140,000",
       "jobType": "Internship",
@@ -291,7 +291,7 @@
 {
   "id": "4",
   "name": "Nexus",
-  "logo": "/src/assets/nex.png",
+  "logo": "/images/nex.png",
   "location": "San Francisco, California, USA",
   "website": "https://nexus-tech.example.com",
   "industry": "Digital Solutions & Innovation",
@@ -299,7 +299,7 @@
     {
       "id": "job-017",
       "title": "Software Engineer",
-      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "bannerImage": "/images/softwareEngineer.jpg",
       "location": "Remote",
       "salary": "$85,000 - $115,000",
       "jobType": "Full-time",
@@ -315,7 +315,7 @@
     {
       "id": "job-018",
       "title": "DevOps Engineer",
-      "bannerImage": "/src/assets/devopsEngineer.jpg",
+      "bannerImage": "/images/devopsEngineer.jpg",
       "location": "USA",
       "salary": "$100,000 - $140,000",
       "jobType": "Contract",
@@ -331,7 +331,7 @@
     {
       "id": "job-019",
       "title": "Product Designer",
-      "bannerImage": "/src/assets/productDesinger.avif",
+      "bannerImage": "/images/productDesinger.avif",
       "location": "New York, USA",
       "salary": "$70,000 - $100,000",
       "jobType": "Full-time",
@@ -347,7 +347,7 @@
     {
       "id": "job-020",
       "title": "Marketing Strategist",
-      "bannerImage": "/src/assets/marketingSrategist.avif",
+      "bannerImage": "/images/marketingSrategist.avif",
       "location": "Remote",
       "salary": "$60,000 - $90,000",
       "jobType": "Part-time",
@@ -363,7 +363,7 @@
     {
       "id": "job-021",
       "title": "QA Engineer",
-      "bannerImage": "/src/assets/qaEngineer.jpg",
+      "bannerImage": "/images/qaEngineer.jpg",
       "location": "Remote",
       "salary": "$65,000 - $90,000",
       "jobType": "Full-time",
@@ -379,7 +379,7 @@
     {
       "id": "job-022",
       "title": "Data Scientist",
-      "bannerImage": "/src/assets/datascientist.avif",
+      "bannerImage": "/images/datascientist.avif",
       "location": "California, USA",
       "salary": "$110,000 - $150,000",
       "jobType": "Internship",
@@ -395,7 +395,7 @@
     {
       "id": "job-023",
       "title": "Mobile App Developer",
-      "bannerImage": "/src/assets/mobile_developer.webp",
+      "bannerImage": "/images/mobile_developer.webp",
       "location": "Remote",
       "salary": "$80,000 - $110,000",
       "jobType": "Freelance",
@@ -411,7 +411,7 @@
     {
       "id": "job-024",
       "title": "Business Analyst",
-      "bannerImage": "/src/assets/business_analyst.webp",
+      "bannerImage": "/images/business_analyst.webp",
       "location": "Chicago, USA",
       "salary": "$70,000 - $95,000",
       "jobType": "Full-time",
@@ -427,7 +427,7 @@
     {
       "id": "job-025",
       "title": "Customer Success Manager",
-      "bannerImage": "/src/assets/customerServiece.png",
+      "bannerImage": "/images/customerServiece.png",
       "location": "Remote",
       "salary": "$60,000 - $85,000",
       "jobType": "Part-time",
@@ -446,7 +446,7 @@
 {
   "id": "5",
   "name": "Agri-Land",
-  "logo": "/src/assets/farm-logo-icon-barn-field-vector-22484048.avif",
+  "logo": "/images/farm-logo-icon-barn-field-vector-22484048.avif",
   "location": "Saskatchewan, Canada",
   "website": "https://agriland.example.com",
   "industry": "Agriculture & AgriTech",
@@ -454,7 +454,7 @@
     {
       "id": "job-026",
       "title": "Agricultural Engineer",
-      "bannerImage": "/src/assets/agricultural_engineer.jpg",
+      "bannerImage": "/images/agricultural_engineer.jpg",
       "location": "Regina, Canada",
       "salary": "$70,000 - $95,000",
       "jobType": "Full-time",
@@ -464,7 +464,7 @@
     {
       "id": "job-027",
       "title": "Farm Operations Manager",
-      "bannerImage": "/src/assets/farmManager.jpg",
+      "bannerImage": "/images/farmManager.jpg",
       "location": "Manitoba, Canada",
       "salary": "$60,000 - $85,000",
       "jobType": "Contract",
@@ -474,7 +474,7 @@
     {
       "id": "job-028",
       "title": "Soil Scientist",
-      "bannerImage": "/src/assets/soil.avif",
+      "bannerImage": "/images/soil.avif",
       "location": "Remote",
       "salary": "$65,000 - $90,000",
       "jobType": "Part-time",
@@ -484,7 +484,7 @@
     {
       "id": "job-029",
       "title": "Drone Operator",
-      "bannerImage": "/src/assets/drone.jpg",
+      "bannerImage": "/images/drone.jpg",
       "location": "Alberta, Canada",
       "salary": "$45,000 - $65,000",
       "jobType": "Contract",
@@ -494,7 +494,7 @@
     {
       "id": "job-030",
       "title": "Data Analyst",
-      "bannerImage": "/src/assets/dataanalyst.avif",
+      "bannerImage": "/images/dataanalyst.avif",
       "location": "Remote",
       "salary": "$75,000 - $105,000",
       "jobType": "Full-time",
@@ -504,7 +504,7 @@
     {
       "id": "job-031",
       "title": "Irrigation Specialist",
-      "bannerImage": "/src/assets/irrigation.webp",
+      "bannerImage": "/images/irrigation.webp",
       "location": "California, USA",
       "salary": "$55,000 - $75,000",
       "jobType": "Internship",
@@ -514,7 +514,7 @@
     {
       "id": "job-032",
       "title": "Supply Chain Coordinator",
-      "bannerImage": "/src/assets/supplyChain.avif",
+      "bannerImage": "/images/supplyChain.avif",
       "location": "Toronto, Canada",
       "salary": "$60,000 - $80,000",
       "jobType": "Full-time",
@@ -524,7 +524,7 @@
     {
       "id": "job-033",
       "title": "Crop Research Assistant",
-      "bannerImage": "/src/assets/crop.webp",
+      "bannerImage": "/images/crop.webp",
       "location": "Ontario, Canada",
       "salary": "$40,000 - $55,000",
       "jobType": "Part-time",
@@ -534,7 +534,7 @@
     {
       "id": "job-034",
       "title": "Sustainability Officer",
-      "bannerImage": "/src/assets/sustain.png",
+      "bannerImage": "/images/sustain.png",
       "location": "Remote",
       "salary": "$70,000 - $95,000",
       "jobType": "Full-time",
@@ -544,7 +544,7 @@
     {
       "id": "job-035",
       "title": "Marketing Executive",
-      "bannerImage": "/src/assets/marketingExecutive.webp",
+      "bannerImage": "/images/marketingExecutive.webp",
       "location": "Vancouver, Canada",
       "salary": "$55,000 - $75,000",
       "jobType": "Contract",
@@ -554,7 +554,7 @@
     {
       "id": "job-036",
       "title": "Equipment Technician",
-      "bannerImage": "/src/assets/equipTechnician.webp",
+      "bannerImage": "/images/equipTechnician.webp",
       "location": "Calgary, Canada",
       "salary": "$50,000 - $70,000",
       "jobType": "Full-time",
@@ -564,7 +564,7 @@
     {
       "id": "job-037",
       "title": "Customer Support Representative",
-      "bannerImage": "/src/assets/customerServiece.png",
+      "bannerImage": "/images/customerServiece.png",
       "location": "Remote",
       "salary": "$40,000 - $55,000",
       "jobType": "Part-time",
@@ -577,7 +577,7 @@
 {
   "id": "6",
   "name": "University of Calgary",
-  "logo": "/src/assets/Calgary.png",
+  "logo": "/images/Calgary.png",
   "location": "Calgary, Alberta, Canada",
   "website": "https://www.ucalgary.ca",
   "industry": "Education & Research",
@@ -585,7 +585,7 @@
     {
       "id": "job-038",
       "title": "Professor of Computer Science",
-      "bannerImage": "/src/assets/csTeach.webp",
+      "bannerImage": "/images/csTeach.webp",
       "location": "Calgary, Canada",
       "salary": "$100,000 - $150,000",
       "jobType": "Full-time",
@@ -601,7 +601,7 @@
     {
       "id": "job-039",
       "title": "Research Assistant",
-      "bannerImage": "/src/assets/ra.png",
+      "bannerImage": "/images/ra.png",
       "location": "Calgary, Canada",
       "salary": "$45,000 - $60,000",
       "jobType": "Part-time",
@@ -617,7 +617,7 @@
     {
       "id": "job-040",
       "title": "Administrative Coordinator",
-      "bannerImage": "/src/assets/admin.jpg",
+      "bannerImage": "/images/admin.jpg",
       "location": "Calgary, Canada",
       "salary": "$55,000 - $75,000",
       "jobType": "Contract",
@@ -633,7 +633,7 @@
     {
       "id": "job-041",
       "title": "IT Support Specialist",
-      "bannerImage": "/src/assets/techSupport.webp",
+      "bannerImage": "/images/techSupport.webp",
       "location": "Calgary, Canada",
       "salary": "$60,000 - $80,000",
       "jobType": "Full-time",
@@ -649,7 +649,7 @@
     {
       "id": "job-042",
       "title": "Library Technician",
-      "bannerImage": "/src/assets/libtech.jpg",
+      "bannerImage": "/images/libtech.jpg",
       "location": "Calgary, Canada",
       "salary": "$50,000 - $65,000",
       "jobType": "Part-time",
@@ -665,7 +665,7 @@
     {
       "id": "job-043",
       "title": "Lab Technician",
-      "bannerImage": "/src/assets/labtech.jpg",
+      "bannerImage": "/images/labtech.jpg",
       "location": "Calgary, Canada",
       "salary": "$50,000 - $70,000",
       "jobType": "Full-time",
@@ -681,7 +681,7 @@
     {
       "id": "job-044",
       "title": "Admissions Officer",
-      "bannerImage": "/src/assets/adminoff.png",
+      "bannerImage": "/images/adminoff.png",
       "location": "Calgary, Canada",
       "salary": "$55,000 - $75,000",
       "jobType": "Contract",
@@ -700,7 +700,7 @@
 {
   "id": "7",
   "name": "Tesla",
-  "logo": "/src/assets/tesla.jpg",
+  "logo": "/images/tesla.jpg",
   "location": "Palo Alto, California, USA",
   "website": "https://www.tesla.com",
   "industry": "Automotive & Clean Energy",
@@ -708,7 +708,7 @@
     {
       "id": "job-045",
       "title": "Mechanical Engineer",
-      "bannerImage": "/src/assets/mchaengineer.avif",
+      "bannerImage": "/images/mchaengineer.avif",
       "location": "Palo Alto, USA",
       "salary": "$90,000 - $130,000",
       "jobType": "Full-time",
@@ -724,7 +724,7 @@
     {
       "id": "job-046",
       "title": "Electrical Engineer",
-      "bannerImage": "/src/assets/elecEngineer.jpg",
+      "bannerImage": "/images/elecEngineer.jpg",
       "location": "Fremont, USA",
       "salary": "$95,000 - $135,000",
       "jobType": "Full-time",
@@ -740,7 +740,7 @@
     {
       "id": "job-047",
       "title": "Software Engineer",
-      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "bannerImage": "/images/softwareEngineer.jpg",
       "location": "Remote / USA",
       "salary": "$100,000 - $150,000",
       "jobType": "Contract",
@@ -756,7 +756,7 @@
     {
       "id": "job-048",
       "title": "Battery Engineer",
-      "bannerImage": "/src/assets/battery.jpg",
+      "bannerImage": "/images/battery.jpg",
       "location": "California, USA",
       "salary": "$95,000 - $140,000",
       "jobType": "Full-time",
@@ -772,7 +772,7 @@
     {
       "id": "job-049",
       "title": "Autonomous Driving Engineer",
-      "bannerImage": "/src/assets/driveEngineer.webp",
+      "bannerImage": "/images/driveEngineer.webp",
       "location": "Palo Alto, USA",
       "salary": "$120,000 - $170,000",
       "jobType": "Full-time",
@@ -788,7 +788,7 @@
     {
       "id": "job-050",
       "title": "Manufacturing Engineer",
-      "bannerImage": "/src/assets/manufacEngineer.jpg",
+      "bannerImage": "/images/manufacEngineer.jpg",
       "location": "Fremont, USA",
       "salary": "$85,000 - $120,000",
       "jobType": "Full-time",
@@ -804,7 +804,7 @@
     {
       "id": "job-051",
       "title": "Product Manager",
-      "bannerImage": "/src/assets/productManager.png",
+      "bannerImage": "/images/productManager.png",
       "location": "Remote / USA",
       "salary": "$100,000 - $140,000",
       "jobType": "Part-time",
@@ -820,7 +820,7 @@
     {
       "id": "job-052",
       "title": "Cybersecurity Engineer",
-      "bannerImage": "/src/assets/cyberExpert.jpg",
+      "bannerImage": "/images/cyberExpert.jpg",
       "location": "Palo Alto, USA",
       "salary": "$110,000 - $150,000",
       "jobType": "Full-time",
@@ -836,7 +836,7 @@
     {
       "id": "job-053",
       "title": "Supply Chain Manager",
-      "bannerImage": "/src/assets/supplyChain.avif",
+      "bannerImage": "/images/supplyChain.avif",
       "location": "California, USA",
       "salary": "$95,000 - $135,000",
       "jobType": "Full-time",
@@ -852,7 +852,7 @@
     {
       "id": "job-054",
       "title": "Energy Systems Engineer",
-      "bannerImage": "/src/assets/battery.jpg",
+      "bannerImage": "/images/battery.jpg",
       "location": "Nevada, USA",
       "salary": "$100,000 - $145,000",
       "jobType": "Internship",
@@ -871,7 +871,7 @@
 {
   "id": "8",
   "name": "NASA",
-  "logo": "/src/assets/nasa.png",
+  "logo": "/images/nasa.png",
   "location": "Washington, D.C., USA",
   "website": "https://www.nasa.gov",
   "industry": "Aerospace & Space Research",
@@ -879,7 +879,7 @@
     {
       "id": "job-055",
       "title": "Aerospace Engineer",
-      "bannerImage": "/src/assets/aerospace.jpg",
+      "bannerImage": "/images/aerospace.jpg",
       "location": "Houston, USA",
       "salary": "$95,000 - $140,000",
       "jobType": "Full-time",
@@ -895,7 +895,7 @@
     {
       "id": "job-056",
       "title": "Astrophysicist",
-      "bannerImage": "/src/assets/astro.jpg",
+      "bannerImage": "/images/astro.jpg",
       "location": "Remote / USA",
       "salary": "$90,000 - $130,000",
       "jobType": "Part-time",
@@ -911,7 +911,7 @@
     {
       "id": "job-057",
       "title": "Mission Planner",
-      "bannerImage": "/src/assets/mission.jpg",
+      "bannerImage": "/images/mission.jpg",
       "location": "Washington, D.C., USA",
       "salary": "$85,000 - $120,000",
       "jobType": "Contract",
@@ -927,7 +927,7 @@
     {
       "id": "job-058",
       "title": "Robotics Engineer",
-      "bannerImage": "/src/assets/roboticTech.avif",
+      "bannerImage": "/images/roboticTech.avif",
       "location": "California, USA",
       "salary": "$95,000 - $135,000",
       "jobType": "Full-time",
@@ -943,7 +943,7 @@
     {
       "id": "job-059",
       "title": "Space Scientist",
-      "bannerImage": "/src/assets/spaceScientist.jpg",
+      "bannerImage": "/images/spaceScientist.jpg",
       "location": "Remote / USA",
       "salary": "$90,000 - $125,000",
       "jobType": "Internship",
@@ -962,7 +962,7 @@
 {
   "id": "9",
   "name": "MIT",
-  "logo": "/src/assets/mit.png",
+  "logo": "/images/mit.png",
   "location": "Cambridge, Massachusetts, USA",
   "website": "https://www.mit.edu",
   "industry": "Education & Research",
@@ -970,7 +970,7 @@
     {
       "id": "job-060",
       "title": "Research Scientist",
-      "bannerImage": "/src/assets/ra.png",
+      "bannerImage": "/images/ra.png",
       "location": "Cambridge, USA",
       "salary": "$100,000 - $140,000",
       "jobType": "Full-time",
@@ -986,7 +986,7 @@
     {
       "id": "job-061",
       "title": "Professor of Engineering",
-      "bannerImage": "/src/assets/proffessor.jpg",
+      "bannerImage": "/images/proffessor.jpg",
       "location": "Cambridge, USA",
       "salary": "$110,000 - $160,000",
       "jobType": "Full-time",
@@ -1002,7 +1002,7 @@
     {
       "id": "job-062",
       "title": "Postdoctoral Fellow",
-      "bannerImage": "/src/assets/postDoctoral.png",
+      "bannerImage": "/images/postDoctoral.png",
       "location": "Cambridge, USA",
       "salary": "$70,000 - $100,000",
       "jobType": "Full-time",
@@ -1018,7 +1018,7 @@
     {
       "id": "job-063",
       "title": "IT Systems Administrator",
-      "bannerImage": "/src/assets/techSupport.webp",
+      "bannerImage": "/images/techSupport.webp",
       "location": "Cambridge, USA",
       "salary": "$65,000 - $90,000",
       "jobType": "Full-time",
@@ -1034,7 +1034,7 @@
     {
       "id": "job-064",
       "title": "Laboratory Technician",
-      "bannerImage": "/src/assets/labtech.jpg",
+      "bannerImage": "/images/labtech.jpg",
       "location": "Cambridge, USA",
       "salary": "$50,000 - $70,000",
       "jobType": "Full-time",
@@ -1050,7 +1050,7 @@
     {
       "id": "job-065",
       "title": "Admissions Officer",
-      "bannerImage": "/src/assets/adminoff.png",
+      "bannerImage": "/images/adminoff.png",
       "location": "Cambridge, USA",
       "salary": "$55,000 - $75,000",
       "jobType": "Full-time",
@@ -1066,7 +1066,7 @@
     {
       "id": "job-066",
       "title": "Academic Counselor",
-      "bannerImage": "/src/assets/academicCouncellor.jpg",
+      "bannerImage": "/images/academicCouncellor.jpg",
       "location": "Cambridge, USA",
       "salary": "$60,000 - $85,000",
       "jobType": "Full-time",
@@ -1084,7 +1084,7 @@
 {
   "id": "10",
   "name": "University of Toronto",
-  "logo": "/src/assets/Utoronto.png",
+  "logo": "/images/Utoronto.png",
   "location": "Toronto, Ontario, Canada",
   "website": "https://www.utoronto.ca",
   "industry": "Education & Research",
@@ -1092,7 +1092,7 @@
     {
       "id": "job-067",
       "title": "Professor of Biology",
-      "bannerImage": "/src/assets/bioProff.webp",
+      "bannerImage": "/images/bioProff.webp",
       "location": "Toronto, Canada",
       "salary": "$100,000 - $145,000",
       "jobType": "Full-time",
@@ -1108,7 +1108,7 @@
     {
       "id": "job-068",
       "title": "Research Assistant",
-      "bannerImage": "/src/assets/ra.png",
+      "bannerImage": "/images/ra.png",
       "location": "Toronto, Canada",
       "salary": "$45,000 - $60,000",
       "jobType": "Part-time",
@@ -1124,7 +1124,7 @@
     {
       "id": "job-069",
       "title": "Administrative Coordinator",
-      "bannerImage": "/src/assets/adminoff.png",
+      "bannerImage": "/images/adminoff.png",
       "location": "Toronto, Canada",
       "salary": "$55,000 - $75,000",
       "jobType": "Full-time",
@@ -1140,7 +1140,7 @@
     {
       "id": "job-070",
       "title": "IT Support Specialist",
-      "bannerImage": "/src/assets/techSupport.webp",
+      "bannerImage": "/images/techSupport.webp",
       "location": "Toronto, Canada",
       "salary": "$60,000 - $85,000",
       "jobType": "Full-time",
@@ -1156,7 +1156,7 @@
     {
       "id": "job-071",
       "title": "Library Technician",
-      "bannerImage": "/src/assets/libtech.jpg",
+      "bannerImage": "/images/libtech.jpg",
       "location": "Toronto, Canada",
       "salary": "$50,000 - $65,000",
       "jobType": "Part-time",
@@ -1172,7 +1172,7 @@
     {
       "id": "job-072",
       "title": "Admissions Officer",
-      "bannerImage": "/src/assets/academicCouncellor.jpg",
+      "bannerImage": "/images/academicCouncellor.jpg",
       "location": "Toronto, Canada",
       "salary": "$55,000 - $75,000",
       "jobType": "Internship",
@@ -1191,7 +1191,7 @@
 {
   "id": "11",
   "name": "Lamborghini",
-  "logo": "/src/assets/lamborgini.jpg",
+  "logo": "/images/lamborgini.jpg",
   "location": "Sant'Agata Bolognese, Italy",
   "website": "https://www.lamborghini.com",
   "industry": "Automotive & Luxury Vehicles",
@@ -1199,7 +1199,7 @@
     {
       "id": "job-073",
       "title": "Automotive Engineer",
-      "bannerImage": "/src/assets/automotive.jpg",
+      "bannerImage": "/images/automotive.jpg",
       "location": "Italy",
       "salary": "$90,000 - $140,000",
       "jobType": "Full-time",
@@ -1215,7 +1215,7 @@
     {
       "id": "job-074",
       "title": "Production Supervisor",
-      "bannerImage": "/src/assets/productManager.png",
+      "bannerImage": "/images/productManager.png",
       "location": "Italy",
       "salary": "$80,000 - $115,000",
       "jobType": "Full-time",
@@ -1231,7 +1231,7 @@
     {
       "id": "job-075",
       "title": "Marketing Manager",
-      "bannerImage": "/src/assets/marketingManager.webp",
+      "bannerImage": "/images/marketingManager.webp",
       "location": "Italy",
       "salary": "$85,000 - $120,000",
       "jobType": "Part-time",
@@ -1247,7 +1247,7 @@
     {
       "id": "job-076",
       "title": "Quality Assurance Engineer",
-      "bannerImage": "/src/assets/qaEngineer.jpg",
+      "bannerImage": "/images/qaEngineer.jpg",
       "location": "Italy",
       "salary": "$75,000 - $110,000",
       "jobType": "Contract",
@@ -1266,7 +1266,7 @@
 {
   "id": "12",
   "name": "Ferrari",
-  "logo": "/src/assets/ferrari.png",
+  "logo": "/images/ferrari.png",
   "location": "Maranello, Italy",
   "website": "https://www.ferrari.com",
   "industry": "Automotive & Luxury Vehicles",
@@ -1274,7 +1274,7 @@
     {
       "id": "job-077",
       "title": "Automotive Engineer",
-      "bannerImage": "/src/assets/automotive.jpg",
+      "bannerImage": "/images/automotive.jpg",
       "location": "Italy",
       "salary": "$95,000 - $140,000",
       "jobType": "Full-time",
@@ -1290,7 +1290,7 @@
     {
       "id": "job-078",
       "title": "Production Engineer",
-      "bannerImage": "/src/assets/productionEngineer.png",
+      "bannerImage": "/images/productionEngineer.png",
       "location": "Italy",
       "salary": "$85,000 - $120,000",
       "jobType": "Full-time",
@@ -1306,7 +1306,7 @@
     {
       "id": "job-079",
       "title": "Marketing Specialist",
-      "bannerImage": "/src/assets/marketingSrategist.avif",
+      "bannerImage": "/images/marketingSrategist.avif",
       "location": "Italy",
       "salary": "$70,000 - $100,000",
       "jobType": "Full-time",
@@ -1324,7 +1324,7 @@
 {
   "id": "13",
   "name": "IBM",
-  "logo": "/src/assets/ibm.svg",
+  "logo": "/images/ibm.svg",
   "location": "Armonk, New York, USA",
   "website": "https://www.ibm.com",
   "industry": "Technology & Consulting",
@@ -1332,7 +1332,7 @@
     {
       "id": "job-080",
       "title": "Software Engineer",
-      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "bannerImage": "/images/softwareEngineer.jpg",
       "location": "Armonk, USA",
       "salary": "$90,000 - $140,000",
       "jobType": "Full-time",
@@ -1348,7 +1348,7 @@
     {
       "id": "job-081",
       "title": "Cloud Solutions Architect",
-      "bannerImage": "/src/assets/cloud.jpg",
+      "bannerImage": "/images/cloud.jpg",
       "location": "Remote / USA",
       "salary": "$120,000 - $160,000",
       "jobType": "Full-time",
@@ -1364,7 +1364,7 @@
     {
       "id": "job-082",
       "title": "Data Scientist",
-      "bannerImage": "/src/assets/datascientist.avif",
+      "bannerImage": "/images/datascientist.avif",
       "location": "Remote / USA",
       "salary": "$110,000 - $150,000",
       "jobType": "Full-time",
@@ -1380,7 +1380,7 @@
     {
       "id": "job-083",
       "title": "AI Engineer",
-      "bannerImage": "/src/assets/aiEngineer.jpg",
+      "bannerImage": "/images/aiEngineer.jpg",
       "location": "Armonk, USA",
       "salary": "$115,000 - $155,000",
       "jobType": "Contract",
@@ -1396,7 +1396,7 @@
     {
       "id": "job-084",
       "title": "Cybersecurity Analyst",
-      "bannerImage": "/src/assets/cyberAnalyst.avif",
+      "bannerImage": "/images/cyberAnalyst.avif",
       "location": "Armonk, USA",
       "salary": "$100,000 - $140,000",
       "jobType": "Full-time",
@@ -1412,7 +1412,7 @@
     {
       "id": "job-085",
       "title": "Business Analyst",
-      "bannerImage": "/src/assets/business_analyst.webp",
+      "bannerImage": "/images/business_analyst.webp",
       "location": "Remote / USA",
       "salary": "$85,000 - $120,000",
       "jobType": "Part-time",
@@ -1428,7 +1428,7 @@
     {
       "id": "job-086",
       "title": "Cloud Engineer",
-      "bannerImage": "/src/assets/cloud.jpg",
+      "bannerImage": "/images/cloud.jpg",
       "location": "Armonk, USA",
       "salary": "$105,000 - $145,000",
       "jobType": "Full-time",
@@ -1444,7 +1444,7 @@
     {
       "id": "job-087",
       "title": "Project Manager",
-      "bannerImage": "/src/assets/productManager.png",
+      "bannerImage": "/images/productManager.png",
       "location": "Remote / USA",
       "salary": "$95,000 - $140,000",
       "jobType": "Full-time",
@@ -1460,7 +1460,7 @@
     {
       "id": "job-088",
       "title": "UX/UI Designer",
-      "bannerImage": "/src/assets/uiux.webp",
+      "bannerImage": "/images/uiux.webp",
       "location": "Remote / USA",
       "salary": "$80,000 - $115,000",
       "jobType": "Contract",
@@ -1476,7 +1476,7 @@
     {
       "id": "job-089",
       "title": "Consultant",
-      "bannerImage": "/src/assets/consultant.jpg",
+      "bannerImage": "/images/consultant.jpg",
       "location": "Remote / USA",
       "salary": "$90,000 - $130,000",
       "jobType": "Part-time",
@@ -1492,7 +1492,7 @@
     {
       "id": "job-090",
       "title": "Technical Writer",
-      "bannerImage": "/src/assets/techWriter.webp",
+      "bannerImage": "/images/techWriter.webp",
       "location": "Remote / USA",
       "salary": "$70,000 - $95,000",
       "jobType": "Full-time",
@@ -1511,7 +1511,7 @@
 {
   "id": "14",
   "name": "Rubery-Pi",
-  "logo": "/src/assets/rasberry.png",
+  "logo": "/images/rasberry.png",
   "location": "Cambridge, United Kingdom",
   "website": "https://www.raspberrypi.org",
   "industry": "Technology & Electronics",
@@ -1519,7 +1519,7 @@
     {
       "id": "job-091",
       "title": "Hardware Engineer",
-      "bannerImage": "/src/assets/HardwareEngineer.jpg",
+      "bannerImage": "/images/HardwareEngineer.jpg",
       "location": "Cambridge, UK",
       "salary": "$70,000 - $100,000",
       "jobType": "Full-time",
@@ -1535,7 +1535,7 @@
     {
       "id": "job-092",
       "title": "Software Engineer",
-      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "bannerImage": "/images/softwareEngineer.jpg",
       "location": "Cambridge, UK",
       "salary": "$65,000 - $95,000",
       "jobType": "Full-time",
@@ -1551,7 +1551,7 @@
     {
       "id": "job-093",
       "title": "Product Manager",
-      "bannerImage": "/src/assets/productManager.png",
+      "bannerImage": "/images/productManager.png",
       "location": "Cambridge, UK",
       "salary": "$80,000 - $120,000",
       "jobType": "Full-time",
@@ -1567,7 +1567,7 @@
     {
       "id": "job-094",
       "title": "Embedded Systems Engineer",
-      "bannerImage": "/src/assets/embededSystemDesigner.png",
+      "bannerImage": "/images/embededSystemDesigner.png",
       "location": "Cambridge, UK",
       "salary": "$70,000 - $105,000",
       "jobType": "Full-time",
@@ -1583,7 +1583,7 @@
     {
       "id": "job-095",
       "title": "Quality Assurance Engineer",
-      "bannerImage": "/src/assets/qaEngineer.jpg",
+      "bannerImage": "/images/qaEngineer.jpg",
       "location": "Cambridge, UK",
       "salary": "$60,000 - $90,000",
       "jobType": "Full-time",
@@ -1599,7 +1599,7 @@
     {
       "id": "job-096",
       "title": "Technical Support Specialist",
-      "bannerImage": "/src/assets/techSupport.webp",
+      "bannerImage": "/images/techSupport.webp",
       "location": "Remote / UK",
       "salary": "$50,000 - $70,000",
       "jobType": "Full-time",
@@ -1615,7 +1615,7 @@
     {
       "id": "job-097",
       "title": "Electronics Designer",
-      "bannerImage": "/src/assets/electronicDesigner.png",
+      "bannerImage": "/images/electronicDesigner.png",
       "location": "Cambridge, UK",
       "salary": "$65,000 - $95,000",
       "jobType": "Full-time",
@@ -1631,7 +1631,7 @@
     {
       "id": "job-098",
       "title": "Firmware Developer",
-      "bannerImage": "/src/assets/frimwareDeveloper.jpg",
+      "bannerImage": "/images/frimwareDeveloper.jpg",
       "location": "Cambridge, UK",
       "salary": "$65,000 - $100,000",
       "jobType": "Full-time",
@@ -1647,7 +1647,7 @@
     {
       "id": "job-099",
       "title": "Marketing Manager",
-      "bannerImage": "/src/assets/marketingManager.webp",
+      "bannerImage": "/images/marketingManager.webp",
       "location": "Cambridge, UK",
       "salary": "$70,000 - $110,000",
       "jobType": "Full-time",
@@ -1663,7 +1663,7 @@
     {
       "id": "job-100",
       "title": "Community Manager",
-      "bannerImage": "/src/assets/communityManager.webp",
+      "bannerImage": "/images/communityManager.webp",
       "location": "Remote / UK",
       "salary": "$55,000 - $80,000",
       "jobType": "Full-time",
@@ -1679,7 +1679,7 @@
     {
       "id": "job-101",
       "title": "Software QA Tester",
-      "bannerImage": "/src/assets/softQuality.png",
+      "bannerImage": "/images/softQuality.png",
       "location": "Cambridge, UK",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -1695,7 +1695,7 @@
     {
       "id": "job-102",
       "title": "Sales Executive",
-      "bannerImage": "/src/assets/salesExecutive.webp",
+      "bannerImage": "/images/salesExecutive.webp",
       "location": "Cambridge, UK",
       "salary": "$60,000 - $90,000",
       "jobType": "Full-time",
@@ -1711,7 +1711,7 @@
     {
       "id": "job-103",
       "title": "Research Engineer",
-      "bannerImage": "/src/assets/ra.png",
+      "bannerImage": "/images/ra.png",
       "location": "Cambridge, UK",
       "salary": "$70,000 - $105,000",
       "jobType": "Full-time",
@@ -1727,7 +1727,7 @@
     {
       "id": "job-104",
       "title": "Content Creator",
-      "bannerImage": "/src/assets/contentCreator.jpg",
+      "bannerImage": "/images/contentCreator.jpg",
       "location": "Remote / UK",
       "salary": "$50,000 - $75,000",
       "jobType": "Full-time",
@@ -1745,7 +1745,7 @@
 {
   "id": "15",
   "name": "Agricultural-Hub",
-  "logo": "/src/assets/agri-hub.png",
+  "logo": "/images/agri-hub.png",
   "location": "Winnipeg, Manitoba, Canada",
   "website": "https://www.agricultural-hub.com",
   "industry": "Agriculture & Farming",
@@ -1753,7 +1753,7 @@
     {
       "id": "job-105",
       "title": "Agronomist",
-      "bannerImage": "/src/assets/agornomis.avif",
+      "bannerImage": "/images/agornomis.avif",
       "location": "Winnipeg, Canada",
       "salary": "$60,000 - $85,000",
       "jobType": "Full-time",
@@ -1769,7 +1769,7 @@
     {
       "id": "job-106",
       "title": "Farm Operations Manager",
-      "bannerImage": "/src/assets/farmManager.jpg",
+      "bannerImage": "/images/farmManager.jpg",
       "location": "Winnipeg, Canada",
       "salary": "$70,000 - $95,000",
       "jobType": "Full-time",
@@ -1785,7 +1785,7 @@
     {
       "id": "job-107",
       "title": "Agricultural Engineer",
-      "bannerImage": "/src/assets/agricultural_engineer.jpg",
+      "bannerImage": "/images/agricultural_engineer.jpg",
       "location": "Winnipeg, Canada",
       "salary": "$75,000 - $110,000",
       "jobType": "Full-time",
@@ -1801,7 +1801,7 @@
     {
       "id": "job-108",
       "title": "Soil Scientist",
-      "bannerImage": "/src/assets/soil.avif",
+      "bannerImage": "/images/soil.avif",
       "location": "Winnipeg, Canada",
       "salary": "$65,000 - $90,000",
       "jobType": "Full-time",
@@ -1817,7 +1817,7 @@
     {
       "id": "job-109",
       "title": "Agri-Tech Specialist",
-      "bannerImage": "/src/assets/agriTech.png",
+      "bannerImage": "/images/agriTech.png",
       "location": "Winnipeg, Canada",
       "salary": "$70,000 - $100,000",
       "jobType": "Full-time",
@@ -1833,7 +1833,7 @@
     {
       "id": "job-110",
       "title": "Horticulturist",
-      "bannerImage": "/src/assets/horticulturist.jpg",
+      "bannerImage": "/images/horticulturist.jpg",
       "location": "Winnipeg, Canada",
       "salary": "$55,000 - $80,000",
       "jobType": "Part-time",
@@ -1849,7 +1849,7 @@
     {
       "id": "job-111",
       "title": "Supply Chain Coordinator",
-      "bannerImage": "/src/assets/supplyChain.avif",
+      "bannerImage": "/images/supplyChain.avif",
       "location": "Winnipeg, Canada",
       "salary": "$60,000 - $85,000",
       "jobType": "Full-time",
@@ -1868,7 +1868,7 @@
 {
   "id": "16",
   "name": "Micro-Bots",
-  "logo": "/src/assets/microbot.png",
+  "logo": "/images/microbot.png",
   "location": "San Francisco, California, USA",
   "website": "https://www.micro-bots.com",
   "industry": "Robotics & Technology",
@@ -1876,7 +1876,7 @@
     {
       "id": "job-112",
       "title": "Robotics Engineer",
-      "bannerImage": "/src/assets/roboticTech.avif",
+      "bannerImage": "/images/roboticTech.avif",
       "location": "San Francisco, USA",
       "salary": "$90,000 - $140,000",
       "jobType": "Full-time",
@@ -1892,7 +1892,7 @@
     {
       "id": "job-113",
       "title": "Software Developer",
-      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "bannerImage": "/images/softwareEngineer.jpg",
       "location": "San Francisco, USA",
       "salary": "$80,000 - $120,000",
       "jobType": "Full-time",
@@ -1908,7 +1908,7 @@
     {
       "id": "job-114",
       "title": "AI & Machine Learning Engineer",
-      "bannerImage": "/src/assets/aiEngineer.jpg",
+      "bannerImage": "/images/aiEngineer.jpg",
       "location": "San Francisco, USA",
       "salary": "$110,000 - $150,000",
       "jobType": "Full-time",
@@ -1924,7 +1924,7 @@
     {
       "id": "job-115",
       "title": "Electronics Engineer",
-      "bannerImage": "/src/assets/elecEngineer.jpg",
+      "bannerImage": "/images/elecEngineer.jpg",
       "location": "San Francisco, USA",
       "salary": "$85,000 - $125,000",
       "jobType": "Full-time",
@@ -1940,7 +1940,7 @@
     {
       "id": "job-116",
       "title": "Mechatronics Engineer",
-      "bannerImage": "/src/assets/mechaTronic.webp",
+      "bannerImage": "/images/mechaTronic.webp",
       "location": "San Francisco, USA",
       "salary": "$90,000 - $130,000",
       "jobType": "Full-time",
@@ -1956,7 +1956,7 @@
     {
       "id": "job-117",
       "title": "Robotics Technician",
-      "bannerImage": "/src/assets/roboticTech.avif",
+      "bannerImage": "/images/roboticTech.avif",
       "location": "San Francisco, USA",
       "salary": "$60,000 - $85,000",
       "jobType": "Part-time",
@@ -1972,7 +1972,7 @@
     {
       "id": "job-118",
       "title": "Project Manager",
-      "bannerImage": "/src/assets/productManager.png",
+      "bannerImage": "/images/productManager.png",
       "location": "San Francisco, USA",
       "salary": "$95,000 - $140,000",
       "jobType": "Full-time",
@@ -1988,7 +1988,7 @@
     {
       "id": "job-119",
       "title": "Technical Writer",
-      "bannerImage": "/src/assets/techWriter.webp",
+      "bannerImage": "/images/techWriter.webp",
       "location": "Remote / USA",
       "salary": "$55,000 - $80,000",
       "jobType": "Freelance",
@@ -2004,7 +2004,7 @@
     {
       "id": "job-120",
       "title": "Marketing Specialist",
-      "bannerImage": "/src/assets/marketingExecutive.webp",
+      "bannerImage": "/images/marketingExecutive.webp",
       "location": "San Francisco, USA",
       "salary": "$65,000 - $95,000",
       "jobType": "Full-time",
@@ -2023,7 +2023,7 @@
 {
   "id": "17",
   "name": "Technica",
-  "logo": "/src/assets/technica.png",
+  "logo": "/images/technica.png",
   "location": "Berlin, Germany",
   "website": "https://www.technica.com",
   "industry": "Technology & Engineering",
@@ -2031,7 +2031,7 @@
     {
       "id": "job-121",
       "title": "Software Engineer",
-      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "bannerImage": "/images/softwareEngineer.jpg",
       "location": "Berlin, Germany",
       "salary": "$70,000 - $110,000",
       "jobType": "Full-time",
@@ -2047,7 +2047,7 @@
     {
       "id": "job-122",
       "title": "Hardware Engineer",
-      "bannerImage": "/src/assets/HardwareEngineer.jpg",
+      "bannerImage": "/images/HardwareEngineer.jpg",
       "location": "Berlin, Germany",
       "salary": "$75,000 - $115,000",
       "jobType": "Full-time",
@@ -2063,7 +2063,7 @@
     {
       "id": "job-123",
       "title": "Project Manager",
-      "bannerImage": "/src/assets/productManager.png",
+      "bannerImage": "/images/productManager.png",
       "location": "Berlin, Germany",
       "salary": "$85,000 - $130,000",
       "jobType": "Contract",
@@ -2082,7 +2082,7 @@
 {
   "id": "18",
   "name": "Arena",
-  "logo": "/src/assets/arena.png",
+  "logo": "/images/arena.png",
   "location": "Los Angeles, California, USA",
   "website": "https://www.arena.com",
   "industry": "Sports & Technology",
@@ -2090,7 +2090,7 @@
     {
       "id": "job-124",
       "title": "Sports Technology Engineer",
-      "bannerImage": "/src/assets/sportsEngineer.webp",
+      "bannerImage": "/images/sportsEngineer.webp",
       "location": "Los Angeles, USA",
       "salary": "$75,000 - $115,000",
       "jobType": "Full-time",
@@ -2106,7 +2106,7 @@
     {
       "id": "job-125",
       "title": "Software Developer",
-      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "bannerImage": "/images/softwareEngineer.jpg",
       "location": "Los Angeles, USA",
       "salary": "$70,000 - $105,000",
       "jobType": "Full-time",
@@ -2122,7 +2122,7 @@
     {
       "id": "job-126",
       "title": "Data Analyst",
-      "bannerImage": "/src/assets/dataanalyst.avif",
+      "bannerImage": "/images/dataanalyst.avif",
       "location": "Los Angeles, USA",
       "salary": "$65,000 - $95,000",
       "jobType": "Full-time",
@@ -2138,7 +2138,7 @@
     {
       "id": "job-127",
       "title": "Project Manager",
-      "bannerImage": "/src/assets/productManager.png",
+      "bannerImage": "/images/productManager.png",
       "location": "Los Angeles, USA",
       "salary": "$80,000 - $120,000",
       "jobType": "Contract",
@@ -2157,7 +2157,7 @@
 {
   "id": "19",
   "name": "Tyrocraft",
-  "logo": "/src/assets/tirocraft.png",
+  "logo": "/images/tirocraft.png",
   "location": "Austin, Texas, USA",
   "website": "https://www.tyrocraft.com",
   "industry": "Crafting & Technology",
@@ -2165,7 +2165,7 @@
     {
       "id": "job-128",
       "title": "Craft Product Designer",
-      "bannerImage": "/src/assets/craft.webp",
+      "bannerImage": "/images/craft.webp",
       "location": "Austin, USA",
       "salary": "$60,000 - $85,000",
       "jobType": "Full-time",
@@ -2181,7 +2181,7 @@
     {
       "id": "job-129",
       "title": "Software Developer",
-      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "bannerImage": "/images/softwareEngineer.jpg",
       "location": "Austin, USA",
       "salary": "$65,000 - $95,000",
       "jobType": "Full-time",
@@ -2197,7 +2197,7 @@
     {
       "id": "job-130",
       "title": "Marketing Specialist",
-      "bannerImage": "/src/assets/marketingExecutive.webp",
+      "bannerImage": "/images/marketingExecutive.webp",
       "location": "Austin, USA",
       "salary": "$55,000 - $80,000",
       "jobType": "Full-time",
@@ -2213,7 +2213,7 @@
     {
       "id": "job-131",
       "title": "Operations Manager",
-      "bannerImage": "/src/assets/operation.png",
+      "bannerImage": "/images/operation.png",
       "location": "Austin, USA",
       "salary": "$70,000 - $100,000",
       "jobType": "Full-time",
@@ -2229,7 +2229,7 @@
     {
       "id": "job-132",
       "title": "Quality Assurance Specialist",
-      "bannerImage": "/src/assets/qaEngineer.jpg",
+      "bannerImage": "/images/qaEngineer.jpg",
       "location": "Austin, USA",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -2245,7 +2245,7 @@
     {
       "id": "job-133",
       "title": "Supply Chain Coordinator",
-      "bannerImage": "/src/assets/supplyChain.avif",
+      "bannerImage": "/images/supplyChain.avif",
       "location": "Austin, USA",
       "salary": "$60,000 - $90,000",
       "jobType": "Full-time",
@@ -2261,7 +2261,7 @@
     {
       "id": "job-134",
       "title": "Customer Support Specialist",
-      "bannerImage": "/src/assets/customerServiece.png",
+      "bannerImage": "/images/customerServiece.png",
       "location": "Remote / USA",
       "salary": "$50,000 - $70,000",
       "jobType": "Remote",
@@ -2280,7 +2280,7 @@
 {
   "id": "20",
   "name": "Technician",
-  "logo": "/src/assets/technician.jpg",
+  "logo": "/images/technician.jpg",
   "location": "New York, USA",
   "website": "https://www.technician.com",
   "industry": "Engineering & Technology",
@@ -2288,7 +2288,7 @@
     {
       "id": "job-135",
       "title": "Electrical Technician",
-      "bannerImage": "/src/assets/elecEngineer.jpg",
+      "bannerImage": "/images/elecEngineer.jpg",
       "location": "New York, USA",
       "salary": "$60,000 - $90,000",
       "jobType": "Full-time",
@@ -2304,7 +2304,7 @@
     {
       "id": "job-136",
       "title": "Mechanical Technician",
-      "bannerImage": "/src/assets/mechaTech.avif",
+      "bannerImage": "/images/mechaTech.avif",
       "location": "New York, USA",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -2320,7 +2320,7 @@
     {
       "id": "job-137",
       "title": "Software Technician",
-      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "bannerImage": "/images/softwareEngineer.jpg",
       "location": "New York, USA",
       "salary": "$65,000 - $100,000",
       "jobType": "Full-time",
@@ -2336,7 +2336,7 @@
     {
       "id": "job-138",
       "title": "Network Technician",
-      "bannerImage": "/src/assets/netTech.jpg",
+      "bannerImage": "/images/netTech.jpg",
       "location": "New York, USA",
       "salary": "$70,000 - $105,000",
       "jobType": "Full-time",
@@ -2352,7 +2352,7 @@
     {
       "id": "job-139",
       "title": "Automation Technician",
-      "bannerImage": "/src/assets/automation.avif",
+      "bannerImage": "/images/automation.avif",
       "location": "New York, USA",
       "salary": "$75,000 - $115,000",
       "jobType": "Full-time",
@@ -2368,7 +2368,7 @@
     {
       "id": "job-140",
       "title": "Maintenance Technician",
-      "bannerImage": "/src/assets/maintainanceTech.jpg",
+      "bannerImage": "/images/maintainanceTech.jpg",
       "location": "New York, USA",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -2384,7 +2384,7 @@
     {
       "id": "job-141",
       "title": "Field Service Technician",
-      "bannerImage": "/src/assets/fieldTech.webp",
+      "bannerImage": "/images/fieldTech.webp",
       "location": "New York, USA",
       "salary": "$60,000 - $90,000",
       "jobType": "Full-time",
@@ -2400,7 +2400,7 @@
     {
       "id": "job-142",
       "title": "Instrumentation Technician",
-      "bannerImage": "/src/assets/instruTech.webp",
+      "bannerImage": "/images/instruTech.webp",
       "location": "New York, USA",
       "salary": "$65,000 - $95,000",
       "jobType": "Full-time",
@@ -2416,7 +2416,7 @@
     {
       "id": "job-143",
       "title": "Control Systems Technician",
-      "bannerImage": "/src/assets/cntrolTech.avif",
+      "bannerImage": "/images/cntrolTech.avif",
       "location": "New York, USA",
       "salary": "$70,000 - $110,000",
       "jobType": "Full-time",
@@ -2432,7 +2432,7 @@
     {
       "id": "job-144",
       "title": "HVAC Technician",
-      "bannerImage": "/src/assets/hvac.jpg",
+      "bannerImage": "/images/hvac.jpg",
       "location": "New York, USA",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -2448,7 +2448,7 @@
     {
       "id": "job-145",
       "title": "Electronics Technician",
-      "bannerImage": "/src/assets/elecEngineer.jpg",
+      "bannerImage": "/images/elecEngineer.jpg",
       "location": "New York, USA",
       "salary": "$60,000 - $90,000",
       "jobType": "Full-time",
@@ -2464,7 +2464,7 @@
     {
       "id": "job-146",
       "title": "Mechanical Assembly Technician",
-      "bannerImage": "/src/assets/mechaservieceTech.webp",
+      "bannerImage": "/images/mechaservieceTech.webp",
       "location": "New York, USA",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -2480,7 +2480,7 @@
     {
       "id": "job-147",
       "title": "Calibration Technician",
-      "bannerImage": "/src/assets/caliTech.webp",
+      "bannerImage": "/images/caliTech.webp",
       "location": "New York, USA",
       "salary": "$60,000 - $90,000",
       "jobType": "Full-time",
@@ -2496,7 +2496,7 @@
     {
       "id": "job-148",
       "title": "Robotics Technician",
-      "bannerImage": "/src/assets/roboticTech.avif",
+      "bannerImage": "/images/roboticTech.avif",
       "location": "New York, USA",
       "salary": "$70,000 - $105,000",
       "jobType": "Full-time",
@@ -2512,7 +2512,7 @@
     {
       "id": "job-149",
       "title": "Automation Specialist",
-      "bannerImage": "/src/assets/automation.avif",
+      "bannerImage": "/images/automation.avif",
       "location": "New York, USA",
       "salary": "$75,000 - $115,000",
       "jobType": "Full-time",
@@ -2528,7 +2528,7 @@
     {
       "id": "job-150",
       "title": "Field Technician",
-      "bannerImage": "/src/assets/fieldTech.webp",
+      "bannerImage": "/images/fieldTech.webp",
       "location": "New York, USA",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -2544,7 +2544,7 @@
     {
       "id": "job-151",
       "title": "Maintenance Engineer",
-      "bannerImage": "/src/assets/maintainanceTech.jpg",
+      "bannerImage": "/images/maintainanceTech.jpg",
       "location": "New York, USA",
       "salary": "$70,000 - $110,000",
       "jobType": "Full-time",
@@ -2560,7 +2560,7 @@
     {
       "id": "job-152",
       "title": "Test Technician",
-      "bannerImage": "/src/assets/testTech.webp",
+      "bannerImage": "/images/testTech.webp",
       "location": "New York, USA",
       "salary": "$60,000 - $90,000",
       "jobType": "Full-time",
@@ -2576,7 +2576,7 @@
     {
       "id": "job-153",
       "title": "Instrumentation Engineer",
-      "bannerImage": "/src/assets/instruTech.webp",
+      "bannerImage": "/images/instruTech.webp",
       "location": "New York, USA",
       "salary": "$75,000 - $120,000",
       "jobType": "Full-time",
@@ -2592,7 +2592,7 @@
     {
       "id": "job-154",
       "title": "Electro-Mechanical Technician",
-      "bannerImage": "/src/assets/electroMecha.jpg",
+      "bannerImage": "/images/electroMecha.jpg",
       "location": "New York, USA",
       "salary": "$70,000 - $105,000",
       "jobType": "Full-time",
@@ -2608,7 +2608,7 @@
     {
       "id": "job-155",
       "title": "PLC Technician",
-      "bannerImage": "/src/assets/PlcTech.png",
+      "bannerImage": "/images/PlcTech.png",
       "location": "New York, USA",
       "salary": "$70,000 - $110,000",
       "jobType": "Full-time",
@@ -2626,7 +2626,7 @@
 {
   "id": "21",
   "name": "Mechanica",
-  "logo": "/src/assets/mechanica.png",
+  "logo": "/images/mechanica.png",
   "location": "Detroit, Michigan, USA",
   "website": "https://www.mechanica.com",
   "industry": "Mechanical Engineering & Manufacturing",
@@ -2634,7 +2634,7 @@
     {
       "id": "job-156",
       "title": "Mechanical Design Engineer",
-      "bannerImage": "/src/assets/MechanicalDesign.jpg",
+      "bannerImage": "/images/MechanicalDesign.jpg",
       "location": "Detroit, USA",
       "salary": "$80,000 - $115,000",
       "jobType": "Full-time",
@@ -2650,7 +2650,7 @@
     {
       "id": "job-157",
       "title": "Manufacturing Technician",
-      "bannerImage": "/src/assets/manufacEngineer.jpg",
+      "bannerImage": "/images/manufacEngineer.jpg",
       "location": "Detroit, USA",
       "salary": "$55,000 - $80,000",
       "jobType": "Full-time",
@@ -2666,7 +2666,7 @@
     {
       "id": "job-158",
       "title": "Quality Control Inspector",
-      "bannerImage": "/src/assets/qcInspector.webp",
+      "bannerImage": "/images/qcInspector.webp",
       "location": "Detroit, USA",
       "salary": "$50,000 - $75,000",
       "jobType": "Full-time",
@@ -2682,7 +2682,7 @@
     {
       "id": "job-159",
       "title": "Maintenance Engineer",
-      "bannerImage": "/src/assets/maintainanceTech.jpg",
+      "bannerImage": "/images/maintainanceTech.jpg",
       "location": "Detroit, USA",
       "salary": "$60,000 - $90,000",
       "jobType": "Full-time",
@@ -2698,7 +2698,7 @@
     {
       "id": "job-160",
       "title": "Industrial Engineer",
-      "bannerImage": "/src/assets/industryEngineer.jpg",
+      "bannerImage": "/images/industryEngineer.jpg",
       "location": "Detroit, USA",
       "salary": "$75,000 - $110,000",
       "jobType": "Full-time",
@@ -2714,7 +2714,7 @@
     {
       "id": "job-161",
       "title": "CAD Technician",
-      "bannerImage": "/src/assets/cadTech.jpg",
+      "bannerImage": "/images/cadTech.jpg",
       "location": "Detroit, USA",
       "salary": "$55,000 - $80,000",
       "jobType": "Full-time",
@@ -2730,7 +2730,7 @@
     {
       "id": "job-162",
       "title": "Production Supervisor",
-      "bannerImage": "/src/assets/productManager.png",
+      "bannerImage": "/images/productManager.png",
       "location": "Detroit, USA",
       "salary": "$70,000 - $105,000",
       "jobType": "Full-time",
@@ -2748,7 +2748,7 @@
 {
   "id": "22",
   "name": "Agriculture Farm",
-  "logo": "/src/assets/agrifarm.jpg",
+  "logo": "/images/agrifarm.jpg",
   "location": "Iowa, USA",
   "website": "https://www.agriculturefarm.com",
   "industry": "Agriculture & Farming",
@@ -2756,7 +2756,7 @@
     {
       "id": "job-163",
       "title": "Farm Manager",
-      "bannerImage": "/src/assets/farmManager.jpg",
+      "bannerImage": "/images/farmManager.jpg",
       "location": "Iowa, USA",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -2772,7 +2772,7 @@
     {
       "id": "job-164",
       "title": "Agricultural Technician",
-      "bannerImage": "/src/assets/agriTech.png",
+      "bannerImage": "/images/agriTech.png",
       "location": "Iowa, USA",
       "salary": "$45,000 - $70,000",
       "jobType": "Full-time",
@@ -2788,7 +2788,7 @@
     {
       "id": "job-165",
       "title": "Livestock Specialist",
-      "bannerImage": "/src/assets/liveStock.png",
+      "bannerImage": "/images/liveStock.png",
       "location": "Iowa, USA",
       "salary": "$50,000 - $75,000",
       "jobType": "Full-time",
@@ -2804,7 +2804,7 @@
     {
       "id": "job-166",
       "title": "Crop Consultant",
-      "bannerImage": "/src/assets/cropConsultant.webp",
+      "bannerImage": "/images/cropConsultant.webp",
       "location": "Iowa, USA",
       "salary": "$55,000 - $80,000",
       "jobType": "Full-time",
@@ -2820,7 +2820,7 @@
     {
       "id": "job-167",
       "title": "Irrigation Specialist",
-      "bannerImage": "/src/assets/irrigation.webp",
+      "bannerImage": "/images/irrigation.webp",
       "location": "Iowa, USA",
       "salary": "$50,000 - $75,000",
       "jobType": "Full-time",
@@ -2836,7 +2836,7 @@
     {
       "id": "job-168",
       "title": "Farm Equipment Operator",
-      "bannerImage": "/src/assets/farmEquip.jpg",
+      "bannerImage": "/images/farmEquip.jpg",
       "location": "Iowa, USA",
       "salary": "$40,000 - $65,000",
       "jobType": "Full-time",
@@ -2852,7 +2852,7 @@
     {
       "id": "job-169",
       "title": "Agricultural Research Assistant",
-      "bannerImage": "/src/assets/Ara.webp",
+      "bannerImage": "/images/Ara.webp",
       "location": "Iowa, USA",
       "salary": "$45,000 - $70,000",
       "jobType": "Full-time",
@@ -2868,7 +2868,7 @@
     {
       "id": "job-170",
       "title": "Pest Control Specialist",
-      "bannerImage": "/src/assets/pestControl.avif",
+      "bannerImage": "/images/pestControl.avif",
       "location": "Iowa, USA",
       "salary": "$45,000 - $70,000",
       "jobType": "Full-time",
@@ -2884,7 +2884,7 @@
     {
       "id": "job-171",
       "title": "Farm Technician",
-      "bannerImage": "/src/assets/techFarm.avif",
+      "bannerImage": "/images/techFarm.avif",
       "location": "Iowa, USA",
       "salary": "$40,000 - $65,000",
       "jobType": "Full-time",
@@ -2900,7 +2900,7 @@
     {
       "id": "job-172",
       "title": "Agricultural Equipment Mechanic",
-      "bannerImage": "/src/assets/agriTech.png",
+      "bannerImage": "/images/agriTech.png",
       "location": "Iowa, USA",
       "salary": "$50,000 - $80,000",
       "jobType": "Full-time",
@@ -2918,7 +2918,7 @@
 {
   "id": "23",
   "name": "Microdam",
-  "logo": "/src/assets/microdam.png",
+  "logo": "/images/microdam.png",
   "location": "Seattle, Washington, USA",
   "website": "https://www.microdam.com",
   "industry": "Water Management & Engineering",
@@ -2926,7 +2926,7 @@
     {
       "id": "job-173",
       "title": "Hydraulic Engineer",
-      "bannerImage": "/src/assets/hydorlic.avif",
+      "bannerImage": "/images/hydorlic.avif",
       "location": "Seattle, USA",
       "salary": "$80,000 - $115,000",
       "jobType": "Full-time",
@@ -2942,7 +2942,7 @@
     {
       "id": "job-174",
       "title": "Dam Safety Specialist",
-      "bannerImage": "/src/assets/damSafety.avif",
+      "bannerImage": "/images/damSafety.avif",
       "location": "Seattle, USA",
       "salary": "$75,000 - $105,000",
       "jobType": "Full-time",
@@ -2960,7 +2960,7 @@
 {
   "id": "24",
   "name": "Sask Shop",
-  "logo": "/src/assets/saskshop.png",
+  "logo": "/images/saskshop.png",
   "location": "Saskatoon, Saskatchewan, Canada",
   "website": "https://www.saskshop.com",
   "industry": "Retail & E-commerce",
@@ -2968,7 +2968,7 @@
     {
       "id": "job-175",
       "title": "Store Manager",
-      "bannerImage": "/src/assets/storeManager.webp",
+      "bannerImage": "/images/storeManager.webp",
       "location": "Saskatoon, Canada",
       "salary": "$50,000 - $80,000",
       "jobType": "Full-time",
@@ -2984,7 +2984,7 @@
     {
       "id": "job-176",
       "title": "Sales Associate",
-      "bannerImage": "/src/assets/salesAssosiate.avif",
+      "bannerImage": "/images/salesAssosiate.avif",
       "location": "Saskatoon, Canada",
       "salary": "$35,000 - $50,000",
       "jobType": "Full-time",
@@ -3000,7 +3000,7 @@
     {
       "id": "job-177",
       "title": "Inventory Specialist",
-      "bannerImage": "/src/assets/inventrySpecialist.jpg",
+      "bannerImage": "/images/inventrySpecialist.jpg",
       "location": "Saskatoon, Canada",
       "salary": "$40,000 - $60,000",
       "jobType": "Full-time",
@@ -3016,7 +3016,7 @@
     {
       "id": "job-178",
       "title": "Marketing Coordinator",
-      "bannerImage": "/src/assets/marketingExecutive.webp",
+      "bannerImage": "/images/marketingExecutive.webp",
       "location": "Saskatoon, Canada",
       "salary": "$45,000 - $70,000",
       "jobType": "Full-time",
@@ -3032,7 +3032,7 @@
     {
       "id": "job-179",
       "title": "E-commerce Specialist",
-      "bannerImage": "/src/assets/ecomercSepecialist.png",
+      "bannerImage": "/images/ecomercSepecialist.png",
       "location": "Saskatoon, Canada",
       "salary": "$50,000 - $75,000",
       "jobType": "Full-time",
@@ -3048,7 +3048,7 @@
     {
       "id": "job-180",
       "title": "Customer Support Specialist",
-      "bannerImage": "/src/assets/customerServiece.png",
+      "bannerImage": "/images/customerServiece.png",
       "location": "Saskatoon, Canada",
       "salary": "$40,000 - $60,000",
       "jobType": "Full-time",
@@ -3064,7 +3064,7 @@
     {
       "id": "job-181",
       "title": "Visual Merchandiser",
-      "bannerImage": "/src/assets/visualMarchandiser.png",
+      "bannerImage": "/images/visualMarchandiser.png",
       "location": "Saskatoon, Canada",
       "salary": "$40,000 - $60,000",
       "jobType": "Full-time",
@@ -3080,7 +3080,7 @@
     {
       "id": "job-182",
       "title": "Warehouse Supervisor",
-      "bannerImage": "/src/assets/wareHous.webp",
+      "bannerImage": "/images/wareHous.webp",
       "location": "Saskatoon, Canada",
       "salary": "$45,000 - $70,000",
       "jobType": "Full-time",
@@ -3096,7 +3096,7 @@
     {
       "id": "job-183",
       "title": "Procurement Specialist",
-      "bannerImage": "/src/assets/procurement.jpg",
+      "bannerImage": "/images/procurement.jpg",
       "location": "Saskatoon, Canada",
       "salary": "$50,000 - $75,000",
       "jobType": "Full-time",
@@ -3112,7 +3112,7 @@
     {
       "id": "job-184",
       "title": "Accounting Clerk",
-      "bannerImage": "/src/assets/accounting_clerk.jpg",
+      "bannerImage": "/images/accounting_clerk.jpg",
       "location": "Saskatoon, Canada",
       "salary": "$45,000 - $65,000",
       "jobType": "Full-time",
@@ -3128,7 +3128,7 @@
     {
       "id": "job-185",
       "title": "Store Trainer",
-      "bannerImage": "/src/assets/storeTrainer.avif",
+      "bannerImage": "/images/storeTrainer.avif",
       "location": "Saskatoon, Canada",
       "salary": "$45,000 - $65,000",
       "jobType": "Full-time",
@@ -3146,7 +3146,7 @@
 {
   "id": "25",
   "name": "Chinese Mart",
-  "logo": "/src/assets/chinese.png",
+  "logo": "/images/chinese.png",
   "location": "Toronto, Ontario, Canada",
   "website": "https://www.chinesemart.com",
   "industry": "Retail & Grocery",
@@ -3154,7 +3154,7 @@
     {
       "id": "job-186",
       "title": "Store Manager",
-      "bannerImage": "/src/assets/storeManager.webp",
+      "bannerImage": "/images/storeManager.webp",
       "location": "Toronto, Canada",
       "salary": "$50,000 - $80,000",
       "jobType": "Full-time",
@@ -3170,7 +3170,7 @@
     {
       "id": "job-187",
       "title": "Cashier",
-      "bannerImage": "/src/assets/accounting_clerk.jpg",
+      "bannerImage": "/images/accounting_clerk.jpg",
       "location": "Toronto, Canada",
       "salary": "$30,000 - $45,000",
       "jobType": "Full-time",
@@ -3186,7 +3186,7 @@
     {
       "id": "job-188",
       "title": "Stock Associate",
-      "bannerImage": "/src/assets/stockAssociate.webp",
+      "bannerImage": "/images/stockAssociate.webp",
       "location": "Toronto, Canada",
       "salary": "$35,000 - $50,000",
       "jobType": "Full-time",
@@ -3202,7 +3202,7 @@
     {
       "id": "job-189",
       "title": "Marketing Coordinator",
-      "bannerImage": "/src/assets/marketingExecutive.webp",
+      "bannerImage": "/images/marketingExecutive.webp",
       "location": "Toronto, Canada",
       "salary": "$45,000 - $70,000",
       "jobType": "Full-time",
@@ -3218,7 +3218,7 @@
     {
       "id": "job-190",
       "title": "Customer Service Representative",
-      "bannerImage": "/src/assets/customerServiece.png",
+      "bannerImage": "/images/customerServiece.png",
       "location": "Toronto, Canada",
       "salary": "$35,000 - $55,000",
       "jobType": "Full-time",
@@ -3236,7 +3236,7 @@
 {
   "id": "26",
   "name": "Ligeria Group",
-  "logo": "/src/assets/ligeria.png",
+  "logo": "/images/ligeria.png",
   "location": "London, UK",
   "website": "https://www.ligeriagroup.com",
   "industry": "Corporate & Consulting",
@@ -3244,7 +3244,7 @@
     {
       "id": "job-191",
       "title": "Business Analyst",
-      "bannerImage": "/src/assets/business_analyst.webp",
+      "bannerImage": "/images/business_analyst.webp",
       "location": "London, UK",
       "salary": "$65,000 - $95,000",
       "jobType": "Full-time",
@@ -3260,7 +3260,7 @@
     {
       "id": "job-192",
       "title": "Project Manager",
-      "bannerImage": "/src/assets/productManager.png",
+      "bannerImage": "/images/productManager.png",
       "location": "London, UK",
       "salary": "$80,000 - $120,000",
       "jobType": "Full-time",
@@ -3276,7 +3276,7 @@
     {
       "id": "job-193",
       "title": "HR Manager",
-      "bannerImage": "/src/assets/hrManager.png",
+      "bannerImage": "/images/hrManager.png",
       "location": "London, UK",
       "salary": "$70,000 - $100,000",
       "jobType": "Full-time",
@@ -3292,7 +3292,7 @@
     {
       "id": "job-194",
       "title": "Marketing Manager",
-      "bannerImage": "/src/assets/marketingManager.webp",
+      "bannerImage": "/images/marketingManager.webp",
       "location": "London, UK",
       "salary": "$75,000 - $110,000",
       "jobType": "Full-time",
@@ -3308,7 +3308,7 @@
     {
       "id": "job-195",
       "title": "Sales Executive",
-      "bannerImage": "/src/assets/salesExecutive.webp",
+      "bannerImage": "/images/salesExecutive.webp",
       "location": "London, UK",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -3324,7 +3324,7 @@
     {
       "id": "job-196",
       "title": "Finance Manager",
-      "bannerImage": "/src/assets/finance_manager.webp",
+      "bannerImage": "/images/finance_manager.webp",
       "location": "London, UK",
       "salary": "$80,000 - $120,000",
       "jobType": "Full-time",
@@ -3340,7 +3340,7 @@
     {
       "id": "job-197",
       "title": "IT Specialist",
-      "bannerImage": "/src/assets/techSupport.webp",
+      "bannerImage": "/images/techSupport.webp",
       "location": "London, UK",
       "salary": "$60,000 - $90,000",
       "jobType": "Full-time",
@@ -3356,7 +3356,7 @@
     {
       "id": "job-198",
       "title": "Software Engineer",
-      "bannerImage": "/src/assets/softwareEngineer.jpg",
+      "bannerImage": "/images/softwareEngineer.jpg",
       "location": "London, UK",
       "salary": "$70,000 - $110,000",
       "jobType": "Full-time",
@@ -3372,7 +3372,7 @@
     {
       "id": "job-199",
       "title": "Data Analyst",
-      "bannerImage": "/src/assets/dataanalyst.avif",
+      "bannerImage": "/images/dataanalyst.avif",
       "location": "London, UK",
       "salary": "$60,000 - $95,000",
       "jobType": "Full-time",
@@ -3388,7 +3388,7 @@
     {
       "id": "job-200",
       "title": "Business Development Manager",
-      "bannerImage": "/src/assets/business_development.png",
+      "bannerImage": "/images/business_development.png",
       "location": "London, UK",
       "salary": "$75,000 - $115,000",
       "jobType": "Full-time",
@@ -3404,7 +3404,7 @@
     {
       "id": "job-201",
       "title": "Operations Manager",
-      "bannerImage": "/src/assets/operation.png",
+      "bannerImage": "/images/operation.png",
       "location": "London, UK",
       "salary": "$80,000 - $120,000",
       "jobType": "Full-time",
@@ -3420,7 +3420,7 @@
     {
       "id": "job-202",
       "title": "Legal Counsel",
-      "bannerImage": "/src/assets/legal_counsil.avif",
+      "bannerImage": "/images/legal_counsil.avif",
       "location": "London, UK",
       "salary": "$90,000 - $140,000",
       "jobType": "Full-time",
@@ -3436,7 +3436,7 @@
     {
       "id": "job-203",
       "title": "HR Specialist",
-      "bannerImage": "/src/assets/hrManager.png",
+      "bannerImage": "/images/hrManager.png",
       "location": "London, UK",
       "salary": "$60,000 - $90,000",
       "jobType": "Full-time",
@@ -3452,7 +3452,7 @@
     {
       "id": "job-204",
       "title": "Content Writer",
-      "bannerImage": "/src/assets/contentWriter.jpg",
+      "bannerImage": "/images/contentWriter.jpg",
       "location": "London, UK",
       "salary": "$45,000 - $70,000",
       "jobType": "Full-time",
@@ -3468,7 +3468,7 @@
     {
       "id": "job-205",
       "title": "Graphic Designer",
-      "bannerImage": "/src/assets/graphicDesigner.jpg",
+      "bannerImage": "/images/graphicDesigner.jpg",
       "location": "London, UK",
       "salary": "$50,000 - $80,000",
       "jobType": "Full-time",
@@ -3484,7 +3484,7 @@
     {
       "id": "job-206",
       "title": "Social Media Manager",
-      "bannerImage": "/src/assets/socialMediaManager.jpg",
+      "bannerImage": "/images/socialMediaManager.jpg",
       "location": "London, UK",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -3500,7 +3500,7 @@
     {
       "id": "job-207",
       "title": "PR Specialist",
-      "bannerImage": "/src/assets/prSpecialist.webp",
+      "bannerImage": "/images/prSpecialist.webp",
       "location": "London, UK",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -3516,7 +3516,7 @@
     {
       "id": "job-208",
       "title": "Supply Chain Manager",
-      "bannerImage": "/src/assets/supplyChain.avif",
+      "bannerImage": "/images/supplyChain.avif",
       "location": "London, UK",
       "salary": "$70,000 - $110,000",
       "jobType": "Full-time",
@@ -3532,7 +3532,7 @@
     {
       "id": "job-209",
       "title": "Data Scientist",
-      "bannerImage": "/src/assets/datascientist.avif",
+      "bannerImage": "/images/datascientist.avif",
       "location": "London, UK",
       "salary": "$80,000 - $120,000",
       "jobType": "Full-time",
@@ -3548,7 +3548,7 @@
     {
       "id": "job-210",
       "title": "Cybersecurity Specialist",
-      "bannerImage": "/src/assets/cyberExpert.jpg",
+      "bannerImage": "/images/cyberExpert.jpg",
       "location": "London, UK",
       "salary": "$75,000 - $115,000",
       "jobType": "Full-time",
@@ -3564,7 +3564,7 @@
     {
       "id": "job-211",
       "title": "Office Administrator",
-      "bannerImage": "/src/assets/adminoff.png",
+      "bannerImage": "/images/adminoff.png",
       "location": "London, UK",
       "salary": "$45,000 - $70,000",
       "jobType": "Full-time",
@@ -3580,7 +3580,7 @@
     {
       "id": "job-212",
       "title": "Accountant",
-      "bannerImage": "/src/assets/accounting_clerk.jpg",
+      "bannerImage": "/images/accounting_clerk.jpg",
       "location": "London, UK",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -3596,7 +3596,7 @@
     {
       "id": "job-213",
       "title": "Legal Assistant",
-      "bannerImage": "/src/assets/legal_counsil.avif",
+      "bannerImage": "/images/legal_counsil.avif",
       "location": "London, UK",
       "salary": "$50,000 - $75,000",
       "jobType": "Full-time",
@@ -3612,7 +3612,7 @@
     {
       "id": "job-214",
       "title": "Recruitment Specialist",
-      "bannerImage": "/src/assets/recruitMent.png",
+      "bannerImage": "/images/recruitMent.png",
       "location": "London, UK",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -3628,7 +3628,7 @@
     {
       "id": "job-215",
       "title": "Customer Success Manager",
-      "bannerImage": "/src/assets/customerServiece.png",
+      "bannerImage": "/images/customerServiece.png",
       "location": "London, UK",
       "salary": "$60,000 - $95,000",
       "jobType": "Full-time",
@@ -3644,7 +3644,7 @@
     {
       "id": "job-216",
       "title": "UX/UI Designer",
-      "bannerImage": "/src/assets/uiux.webp",
+      "bannerImage": "/images/uiux.webp",
       "location": "London, UK",
       "salary": "$65,000 - $100,000",
       "jobType": "Full-time",
@@ -3660,7 +3660,7 @@
     {
       "id": "job-217",
       "title": "Software Tester",
-      "bannerImage": "/src/assets/softTest.png",
+      "bannerImage": "/images/softTest.png",
       "location": "London, UK",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -3676,7 +3676,7 @@
     {
       "id": "job-218",
       "title": "Operations Analyst",
-      "bannerImage": "/src/assets/operation.png",
+      "bannerImage": "/images/operation.png",
       "location": "London, UK",
       "salary": "$60,000 - $90,000",
       "jobType": "Full-time",
@@ -3692,7 +3692,7 @@
     {
       "id": "job-219",
       "title": "Technical Support Engineer",
-      "bannerImage": "/src/assets/techSupport.webp",
+      "bannerImage": "/images/techSupport.webp",
       "location": "London, UK",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -3708,7 +3708,7 @@
     {
       "id": "job-220",
       "title": "Logistics Coordinator",
-      "bannerImage": "/src/assets/logistics.jpg",
+      "bannerImage": "/images/logistics.jpg",
       "location": "London, UK",
       "salary": "$50,000 - $75,000",
       "jobType": "Full-time",
@@ -3724,7 +3724,7 @@
     {
       "id": "job-221",
       "title": "Procurement Manager",
-      "bannerImage": "/src/assets/procurement.jpg",
+      "bannerImage": "/images/procurement.jpg",
       "location": "London, UK",
       "salary": "$70,000 - $110,000",
       "jobType": "Full-time",
@@ -3740,7 +3740,7 @@
     {
       "id": "job-222",
       "title": "Event Manager",
-      "bannerImage": "/src/assets/eventManager.avif",
+      "bannerImage": "/images/eventManager.avif",
       "location": "London, UK",
       "salary": "$60,000 - $95,000",
       "jobType": "Full-time",
@@ -3756,7 +3756,7 @@
     {
       "id": "job-223",
       "title": "Research Analyst",
-      "bannerImage": "/src/assets/researchAnalyst.jpg",
+      "bannerImage": "/images/researchAnalyst.jpg",
       "location": "London, UK",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -3772,7 +3772,7 @@
     {
       "id": "job-224",
       "title": "Content Strategist",
-      "bannerImage": "/src/assets/contentSpecialist.png",
+      "bannerImage": "/images/contentSpecialist.png",
       "location": "London, UK",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -3788,7 +3788,7 @@
     {
       "id": "job-225",
       "title": "Financial Analyst",
-      "bannerImage": "/src/assets/finance_manager.webp",
+      "bannerImage": "/images/finance_manager.webp",
       "location": "London, UK",
       "salary": "$65,000 - $100,000",
       "jobType": "Full-time",
@@ -3804,7 +3804,7 @@
     {
       "id": "job-226",
       "title": "Operations Coordinator",
-      "bannerImage": "/src/assets/operation.png",
+      "bannerImage": "/images/operation.png",
       "location": "London, UK",
       "salary": "$50,000 - $75,000",
       "jobType": "Full-time",
@@ -3820,7 +3820,7 @@
     {
       "id": "job-227",
       "title": "Product Manager",
-      "bannerImage": "/src/assets/productManager.png",
+      "bannerImage": "/images/productManager.png",
       "location": "London, UK",
       "salary": "$75,000 - $120,000",
       "jobType": "Full-time",
@@ -3836,7 +3836,7 @@
     {
       "id": "job-228",
       "title": "Strategy Consultant",
-      "bannerImage": "/src/assets/marketingSrategist.avif",
+      "bannerImage": "/images/marketingSrategist.avif",
       "location": "London, UK",
       "salary": "$80,000 - $130,000",
       "jobType": "Full-time",
@@ -3852,7 +3852,7 @@
     {
       "id": "job-229",
       "title": "Digital Marketing Specialist",
-      "bannerImage": "/src/assets/digitalMarketingSpecialist.webp",
+      "bannerImage": "/images/digitalMarketingSpecialist.webp",
       "location": "London, UK",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -3868,7 +3868,7 @@
     {
       "id": "job-230",
       "title": "Customer Experience Manager",
-      "bannerImage": "/src/assets/customerServiece.png",
+      "bannerImage": "/images/customerServiece.png",
       "location": "London, UK",
       "salary": "$60,000 - $95,000",
       "jobType": "Full-time",
@@ -3886,7 +3886,7 @@
 {
   "id": "27",
   "name": "Rica Jons",
-  "logo": "/src/assets/ricajones.webp",
+  "logo": "/images/ricajones.webp",
   "location": "New York, USA",
   "website": "https://www.ricajons.com",
   "industry": "Retail & Consumer Goods",
@@ -3894,7 +3894,7 @@
     {
       "id": "job-231",
       "title": "Store Manager",
-      "bannerImage": "/src/assets/storeManager.webp",
+      "bannerImage": "/images/storeManager.webp",
       "location": "New York, USA",
       "salary": "$55,000 - $85,000",
       "jobType": "Full-time",
@@ -3910,7 +3910,7 @@
     {
       "id": "job-232",
       "title": "Sales Associate",
-      "bannerImage": "/src/assets/salesAssosiate.avif",
+      "bannerImage": "/images/salesAssosiate.avif",
       "location": "New York, USA",
       "salary": "$35,000 - $50,000",
       "jobType": "Full-time",
@@ -3926,7 +3926,7 @@
     {
       "id": "job-233",
       "title": "Inventory Specialist",
-      "bannerImage": "/src/assets/inventrySpecialist.jpg",
+      "bannerImage": "/images/inventrySpecialist.jpg",
       "location": "New York, USA",
       "salary": "$40,000 - $60,000",
       "jobType": "Full-time",
@@ -3942,7 +3942,7 @@
     {
       "id": "job-234",
       "title": "Marketing Coordinator",
-      "bannerImage": "/src/assets/marketingSrategist.avif",
+      "bannerImage": "/images/marketingSrategist.avif",
       "location": "New York, USA",
       "salary": "$45,000 - $70,000",
       "jobType": "Full-time",
@@ -3958,7 +3958,7 @@
     {
       "id": "job-235",
       "title": "E-commerce Specialist",
-      "bannerImage": "/src/assets/ecomercSepecialist.png",
+      "bannerImage": "/images/ecomercSepecialist.png",
       "location": "New York, USA",
       "salary": "$50,000 - $75,000",
       "jobType": "Full-time",
@@ -3974,7 +3974,7 @@
     {
       "id": "job-236",
       "title": "Customer Support Specialist",
-      "bannerImage": "/src/assets/customerServiece.png",
+      "bannerImage": "/images/customerServiece.png",
       "location": "New York, USA",
       "salary": "$40,000 - $60,000",
       "jobType": "Full-time",
@@ -3990,7 +3990,7 @@
     {
       "id": "job-237",
       "title": "Visual Merchandiser",
-      "bannerImage": "/src/assets/visualMarchandiser.png",
+      "bannerImage": "/images/visualMarchandiser.png",
       "location": "New York, USA",
       "salary": "$40,000 - $60,000",
       "jobType": "Full-time",
@@ -4006,7 +4006,7 @@
     {
       "id": "job-238",
       "title": "Warehouse Supervisor",
-      "bannerImage": "/src/assets/wareHous.webp",
+      "bannerImage": "/images/wareHous.webp",
       "location": "New York, USA",
       "salary": "$45,000 - $70,000",
       "jobType": "Full-time",
@@ -4022,7 +4022,7 @@
     {
       "id": "job-239",
       "title": "Procurement Specialist",
-      "bannerImage": "/src/assets/procurement.jpg",
+      "bannerImage": "/images/procurement.jpg",
       "location": "New York, USA",
       "salary": "$50,000 - $75,000",
       "jobType": "Full-time",
@@ -4038,7 +4038,7 @@
     {
       "id": "job-240",
       "title": "Accounting Clerk",
-      "bannerImage": "/src/assets/accounting_clerk.jpg",
+      "bannerImage": "/images/accounting_clerk.jpg",
       "location": "New York, USA",
       "salary": "$45,000 - $65,000",
       "jobType": "Full-time",

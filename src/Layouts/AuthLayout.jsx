@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../Components/Navbar/Navbar";
 import { Outlet } from "react-router";
-import bgImg from "../../src/assets/blue-white.jpg";
+import bgImg from "/images/blue-white.jpg";
 
 
 const AuthLayout = () => {

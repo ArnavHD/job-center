@@ -1,11 +1,11 @@
 import React from 'react';
 import Marquee from 'react-fast-marquee';
 import { IoIosStar } from 'react-icons/io';
-import girl1 from "../assets/girl1.avif"
-import girl2 from "../assets/girl2.avif"
-import girl3 from "../assets/girl3.avif"
-import boy1 from "../assets/boy1.avif"
-import boy2 from "../assets/boy2.avif"
+import girl1 from "/images/girl1.avif"
+import girl2 from "/images/girl2.avif"
+import girl3 from "/images/girl3.avif"
+import boy1 from "/images/boy1.avif"
+import boy2 from "/images/boy2.avif"
 
 const Review = () => {
     return (

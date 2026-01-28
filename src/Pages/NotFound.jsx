@@ -1,5 +1,5 @@
 import React from 'react';
-import notFound from "../assets/error.avif";
+import notFound from "/images/error.avif";
 import Navbar from '../Components/Navbar/Navbar';
 
 const NotFound = () => {

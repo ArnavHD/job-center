@@ -1,6 +1,6 @@
 import React, { use } from 'react';
 import Navbar from '../Components/Navbar/Navbar';
-import backwall from "../assets/profile_wall.png"
+import backwall from "/images/profile_wall.png"
 import { AuthContext } from '../Provider/AuthProvider';
 import Loading from './Loading';
 import { Link } from 'react-router';
